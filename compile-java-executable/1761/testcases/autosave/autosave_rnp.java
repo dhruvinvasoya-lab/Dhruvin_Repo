@@ -22,7 +22,7 @@ public class rnp {
 	public void rnp() {
 		tg.openDevice();
 		tg.wait(5);
-		tg.click("ele_GW1", 1);
+		tg.click("ele_GW1");
 		tg.close();
 	}
 }
