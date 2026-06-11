@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstpassword">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/1761/17681.png</element>
+  </locator>
+  <locator name="ele_GW1">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/1761/17682.png</element>
+  </locator>
+</locators>
