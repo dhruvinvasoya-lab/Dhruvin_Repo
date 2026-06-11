@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": 620,
-    "user_id": 38,
+    "user_id": 35,
     "abo_version": {
         "version_id": "620",
         "app_id": "351",
@@ -29,7 +29,7 @@
         "user_id": "32",
         "os_type": "0",
         "platform": "1",
-        "nob": "0",
+        "nob": "1",
         "application_token": "0d7297fb9a3f9d844f5e4a970692fe5b",
         "cm_version_id": "1,620",
         "is_autoheal": "1",
@@ -61,8 +61,8 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-11 05:49:25",
-            "is_updated": "1",
+            "view_updated_date_time": "2026-06-11 05:57:34",
+            "is_updated": "0",
             "is_complie": "1",
             "server_ids": "",
             "is_running": "0",
@@ -109,7 +109,7 @@
                     "is_ai_generated": "0",
                     "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-06-11 05:50:17",
+                    "updated_at": "2026-06-11 05:58:16",
                     "created_at": "2026-06-11 05:35:23",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -145,7 +145,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "205",
+            "version_id": "620",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        }
+    ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
