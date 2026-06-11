@@ -16,14 +16,12 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class assd {
+public class rnp {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void assd() {
+	public void rnp() {
 		tg.openDevice();
 		tg.wait(5);
-		tg_String var_v1 = "Null";
-		tg.wait(45);
 		tg.close();
 	}
 }
