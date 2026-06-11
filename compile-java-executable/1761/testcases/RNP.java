@@ -22,8 +22,8 @@ public class rnp {
 	public void rnp() {
 		tg.openDevice();
 		tg.wait(5);
-		tg.printLogs(var_str);
-		tg.printLogs(var_ra_rint);
+		tg.printLogs(var_str1);
+		tg.printLogs(var_ra_rint1);
 		tg.close();
 	}
 }
