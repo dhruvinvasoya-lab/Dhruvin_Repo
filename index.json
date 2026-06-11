@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": 620,
-    "user_id": 35,
+    "user_id": 38,
     "abo_version": {
         "version_id": "620",
         "app_id": "351",
@@ -151,6 +151,12 @@
             "version_id": "620",
             "capabilities_keyname": "appActivity",
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        },
+        {
+            "capabilities_id": "206",
+            "version_id": "620",
+            "capabilities_keyname": "appActivity1",
+            "capabilities_keyvalue": "com.google.android.app.chrome.Main"
         }
     ],
     "abo_import_statement": [],
