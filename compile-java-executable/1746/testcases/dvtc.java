@@ -14,6 +14,14 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class SuiteAndroid {
+
+@Listeners(TestListener.class);
+public class dvtc {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void dvtc() {
+		tg.openDevice();
+		tg.wait(5);
+		tg.close();
+	}
 }

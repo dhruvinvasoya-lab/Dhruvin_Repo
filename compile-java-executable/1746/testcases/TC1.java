@@ -14,6 +14,20 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class SuiteAndroid {
+
+@Listeners(TestListener.class);
+public class tc1 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc1() {
+		tg.openDevice();
+		tg.wait(5);
+		tg.printLogs(var_ra_rdbl);
+		tg.printLogs(var_GSTR);
+		tg_String var_v1 = "Null";
+		tg.printLogs(var_v1);
+		var_v1 = tg.saveToVariable("NewString", var_v1);
+		tg.printLogs(var_v1);
+		tg.close();
+	}
 }
