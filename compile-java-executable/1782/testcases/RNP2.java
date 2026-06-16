@@ -1,3 +1,4 @@
+import abc;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -16,16 +17,12 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class restore1 {
+public class rnp2 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void restore1() {
+	public void rnp2() {
 		tg.openDevice();
-				tg.swipe(Direction.DOWN);
-				tg.wait("ele_EnteremailaddressEditText1781601439264", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1781601439264", 1);
-				tg.wait("ele_textinputendiconImageButton1781601444444", ComparisonType.IS_VISIBLE);
-				tg.click("ele_textinputendiconImageButton1781601444444", 1);
+		tg.wait(3);
 		tg.close();
 	}
 }
