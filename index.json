@@ -16,7 +16,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "656",
+        "git_restore_id": "0",
         "is_delete": "0"
     },
     "app_id": "353",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-16 20:13:28",
+            "view_updated_date_time": "2026-06-16 20:23:10",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -405,6 +405,41 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1782/17879.png"
+                        },
+                        {
+                            "maps_id": "17880",
+                            "version_page_id": "1752",
+                            "page_name": "test1",
+                            "version_module_id": "1782",
+                            "element_name": "ele_ewr",
+                            "element_display_name": "dxcfsdf",
+                            "element_image_url": "http://192.168.4.15/s/ele-imgs/1782/17880.png",
+                            "element_path_rid": "werwerTGWEBCOMMACssClassTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "correct_autoheal_data": null,
+                            "shadow_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "6",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "497.78",
+                            "d_y": "246.15",
+                            "d_w": "268.03",
+                            "d_h": "213.33",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1782/17880.png"
                         }
                     ]
                 },
@@ -461,6 +496,18 @@
             "version_id": "632",
             "capabilities_keyname": "appActivity",
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        },
+        {
+            "capabilities_id": "214",
+            "version_id": "632",
+            "capabilities_keyname": "retert",
+            "capabilities_keyvalue": "ertert"
+        },
+        {
+            "capabilities_id": "215",
+            "version_id": "632",
+            "capabilities_keyname": "erter",
+            "capabilities_keyvalue": "tert"
         }
     ],
     "abo_import_statement": [
@@ -472,6 +519,24 @@
             "import_statement": "import java.util.mobile; ",
             "created": "2026-06-16 19:17:55",
             "updated": "2026-06-16 20:14:50"
+        },
+        {
+            "import_statement_id": "201",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "632",
+            "import_statement": "retertet; ",
+            "created": "2026-06-16 20:24:47",
+            "updated": "2026-06-16 20:24:47"
+        },
+        {
+            "import_statement_id": "202",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "632",
+            "import_statement": "ertertert; ",
+            "created": "2026-06-16 20:24:47",
+            "updated": "2026-06-16 20:24:47"
         }
     ],
     "abo_maven_dependency": [],
@@ -500,6 +565,42 @@
             "gv_category": "runtime",
             "created": "2026-06-16 18:17:57",
             "updated": "2026-06-16 20:14:50"
+        },
+        {
+            "variable_id": "453",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "632",
+            "variable_type": "int",
+            "variable_name": "tertert",
+            "variable_value": "858",
+            "gv_category": "global",
+            "created": "2026-06-16 20:24:47",
+            "updated": "2026-06-16 20:24:47"
+        },
+        {
+            "variable_id": "454",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "632",
+            "variable_type": "int",
+            "variable_name": "ewrewr",
+            "variable_value": "555",
+            "gv_category": "global",
+            "created": "2026-06-16 20:24:47",
+            "updated": "2026-06-16 20:24:47"
+        },
+        {
+            "variable_id": "455",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "632",
+            "variable_type": "String",
+            "variable_name": "ewrwer",
+            "variable_value": "werwer",
+            "gv_category": "runtime",
+            "created": "2026-06-16 20:24:47",
+            "updated": "2026-06-16 20:24:47"
         }
     ],
     "ab_scheduler": [],
