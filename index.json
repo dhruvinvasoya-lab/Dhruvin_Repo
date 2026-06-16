@@ -16,7 +16,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "651",
+        "git_restore_id": "0",
         "is_delete": "0"
     },
     "app_id": "353",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-16 19:16:02",
+            "view_updated_date_time": "2026-06-16 19:52:12",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -378,7 +378,43 @@
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "17878",
+                            "version_page_id": "1752",
+                            "page_name": "test1",
+                            "version_module_id": "1782",
+                            "element_name": "ele_sdf",
+                            "element_display_name": "sdf",
+                            "element_image_url": "http://192.168.4.15/s/ele-imgs/1782/17878.png",
+                            "element_path_rid": "sdfsdfTGWEBCOMMACssClassTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "correct_autoheal_data": null,
+                            "shadow_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "6",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "492.31",
+                            "d_y": "235.21",
+                            "d_w": "317.26",
+                            "d_h": "295.38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1782/17878.png"
+                        }
+                    ]
                 }
             ]
         }
@@ -387,7 +423,7 @@
         {
             "capabilities_id": "212",
             "version_id": "632",
-            "capabilities_keyname": "appActivityw",
+            "capabilities_keyname": "app",
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
         }
     ],
@@ -397,9 +433,9 @@
             "user_id": "32",
             "app_id": "353",
             "version_id": "632",
-            "import_statement": "import java; ",
+            "import_statement": "import java.util.scanner; ",
             "created": "2026-06-16 19:17:55",
-            "updated": "2026-06-16 19:17:55"
+            "updated": "2026-06-16 19:53:52"
         }
     ],
     "abo_maven_dependency": [],
@@ -412,10 +448,10 @@
             "version_id": "632",
             "variable_type": "String",
             "variable_name": "pc",
-            "variable_value": "windows",
+            "variable_value": "linux",
             "gv_category": "global",
             "created": "2026-06-16 18:17:57",
-            "updated": "2026-06-16 19:17:55"
+            "updated": "2026-06-16 19:53:52"
         },
         {
             "variable_id": "452",
@@ -423,11 +459,11 @@
             "app_id": "353",
             "version_id": "632",
             "variable_type": "String",
-            "variable_name": "city",
+            "variable_name": "smc",
             "variable_value": "surat",
             "gv_category": "runtime",
             "created": "2026-06-16 18:17:57",
-            "updated": "2026-06-16 19:17:55"
+            "updated": "2026-06-16 19:53:52"
         }
     ],
     "ab_scheduler": [],
