@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<locators>
-  <locator name="ele_sdf">
-    <element type="web_class">sdfsdfTGWEBCOMMACssClassTGWEBCOMMA0</element>
-    <element type="image">http://192.168.4.15/s/ele-imgs/1782/17878.png</element>
-  </locator>
-</locators>
