@@ -21,11 +21,11 @@ public class restore1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void restore1() {
 		tg.openDevice();
-				tg.swipe(Direction.DOWN);
-				tg.wait("ele_EnteremailaddressEditText1781601439264", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1781601439264", 1);
-				tg.wait("ele_textinputendiconImageButton1781601444444", ComparisonType.IS_VISIBLE);
-				tg.click("ele_textinputendiconImageButton1781601444444", 1);
+		tg.swipe(Direction.DOWN);
+		tg.wait("ele_EnteremailaddressEditText1781601439264", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnteremailaddressEditText1781601439264", 1);
+		tg.wait("ele_textinputendiconImageButton1781601444444", ComparisonType.IS_VISIBLE);
+		tg.click("ele_textinputendiconImageButton1781601444444", 1);
 		tg.close();
 	}
 }

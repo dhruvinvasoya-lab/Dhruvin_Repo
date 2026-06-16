@@ -16,13 +16,13 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class functoncopy {
+@Listeners(TestListener.class);
+public class rnp2 {
 
-	public static void functoncopy() {
-				tg.swipe(Direction.DOWN);
-				tg.wait("ele_EnteremailaddressEditText1781601439264", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1781601439264", 1);
-				tg.wait("ele_textinputendiconImageButton1781601444444", ComparisonType.IS_VISIBLE);
-				tg.click("ele_textinputendiconImageButton1781601444444", 1);
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void rnp2() {
+		tg.openDevice();
+		tg.wait(3);
+		tg.close();
 	}
 }
