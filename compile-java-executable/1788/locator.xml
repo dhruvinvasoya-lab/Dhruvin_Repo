@@ -32,7 +32,7 @@
     <element type="image">http://192.168.4.15/s/ele-imgs/1788/17892.png</element>
   </locator>
   <locator name="ele_ManualResource">
-    <element type="web_class">SDSDSDSDSDSDSDSTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="web_class">SDSDSDSDSDSDSDSsssTGWEBCOMMACssClassTGWEBCOMMA0</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/1788/17893.png</element>
   </locator>
 </locators>
