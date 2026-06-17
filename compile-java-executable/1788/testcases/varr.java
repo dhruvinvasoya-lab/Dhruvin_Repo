@@ -1,5 +1,5 @@
-import bcd;
 import abc;
+import bcd;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -30,7 +30,7 @@ public class varr {
 		tg.printLogs(var_ra_rint);
 				var_Gstr = tg.readFromAPI("Req_api.json").getString();
 		tg.printLogs(var_Gstr);
-		tg.wait(5);
+		tg.wait(6);
 		tg.close();
 	}
 }
