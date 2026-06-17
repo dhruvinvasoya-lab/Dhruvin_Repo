@@ -35,4 +35,14 @@
     <element type="web_class">SDSDSDSDSDSDSDSsssTGWEBCOMMACssClassTGWEBCOMMA0</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/1788/17893.png</element>
   </locator>
+  <locator name="ele_SignUpTextView1781681796229">
+    <element type="xpath">(//android.widget.TextView[@resource-id='com.app.urunner:id/tv_sign_up'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[4]/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[4]/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_SignInTextView1781681802461">
+    <element type="xpath">(//android.widget.TextView[@resource-id='com.app.urunner:id/tv_sign_in'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[7]/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[7]/android.widget.TextView[2]</element>
+  </locator>
 </locators>
