@@ -1,3 +1,4 @@
+import bcd;
 import abc;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
@@ -29,6 +30,7 @@ public class varr {
 		tg.printLogs(var_ra_rint);
 				var_Gstr = tg.readFromAPI("Req_api.json").getString();
 		tg.printLogs(var_Gstr);
+		tg.wait(5);
 		tg.close();
 	}
 }
