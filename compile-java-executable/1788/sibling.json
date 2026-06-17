@@ -1,0 +1,241 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_EnteremailaddressEditText1781676776708",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@resource-id='com.app.urunner:id/et_email'])[1]",
+                    "locator_id": "3",
+                    "d_h": 138,
+                    "d_w": 964,
+                    "d_x": 58,
+                    "d_y": 1268,
+                    "suggest_name": "EnteremailaddressEditText1781676776708"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnteremailaddressEditText1781676776708",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "138",
+                    "d_w": "964",
+                    "d_x": "58",
+                    "d_y": "1268",
+                    "element_area": 1102,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EnterpasswordEditText1781676786573",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@resource-id='com.app.urunner:id/et_password'])[1]",
+                    "locator_id": "3",
+                    "d_h": 138,
+                    "d_w": 964,
+                    "d_x": 58,
+                    "d_y": 598,
+                    "suggest_name": "EnterpasswordEditText1781676786573"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnterpasswordEditText1781676786573",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "138",
+                    "d_w": "964",
+                    "d_x": "58",
+                    "d_y": "598",
+                    "element_area": 1102,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_textinputendiconImageButton1781676810574",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageButton[@resource-id='com.app.urunner:id/text_input_end_icon'])[1]",
+                    "locator_id": "3",
+                    "d_h": 132,
+                    "d_w": 132,
+                    "d_x": 890,
+                    "d_y": 601,
+                    "suggest_name": "textinputendiconImageButton1781676810574"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "textinputendiconImageButton1781676810574",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton"
+                    ],
+                    "img": "",
+                    "d_h": "132",
+                    "d_w": "132",
+                    "d_x": "890",
+                    "d_y": "601",
+                    "element_area": 264,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SignInButton1781676815494",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.Button[@resource-id='com.app.urunner:id/btn_sign_in'])[1]",
+                    "locator_id": "3",
+                    "d_h": 132,
+                    "d_w": 964,
+                    "d_x": 58,
+                    "d_y": 876,
+                    "suggest_name": "SignInButton1781676815494"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SignInButton1781676815494",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button"
+                    ],
+                    "img": "",
+                    "d_h": "132",
+                    "d_w": "964",
+                    "d_x": "58",
+                    "d_y": "876",
+                    "element_area": 1096,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ForgotPasswordTextView1781676856221",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locator_type": 0,
+                    "locators_val": "com.app.urunner:id/tv_forgot_password",
+                    "d_x": "692",
+                    "d_h": "84",
+                    "suggest_name": "ForgotPasswordTextView1781676856221",
+                    "d_w": "330",
+                    "d_y": "1600"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.TextView[@resource-id='com.app.urunner:id/tv_forgot_password'])[1]",
+                    "d_x": "692",
+                    "d_h": "84",
+                    "suggest_name": "ForgotPasswordTextView1781676856221",
+                    "d_w": "330",
+                    "d_y": "1600"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.TextView[@text='Forgot Password?'])[1]",
+                    "d_x": "692",
+                    "d_h": "84",
+                    "suggest_name": "ForgotPasswordTextView1781676856221",
+                    "d_w": "330",
+                    "d_y": "1600"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]",
+                    "d_x": "692",
+                    "d_h": "84",
+                    "suggest_name": "ForgotPasswordTextView1781676856221",
+                    "d_w": "330",
+                    "d_y": "1600"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "image_url": "http://192.168.4.15/s/ele-imgs/1788/17891.png"
+        },
+        {
+            "testcase_element": "ele_ImageView1781676876442",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 165,
+                    "d_w": 165,
+                    "d_x": 457,
+                    "d_y": 857,
+                    "suggest_name": "ImageView1781676876442"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.15/s/ele-imgs/1788/17892.png"
+        },
+        {
+            "testcase_element": "ele_ManualResource",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_class",
+                    "locators_val": "SDSDSDSDSDSDSDSTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 205,
+                    "d_x": 115,
+                    "d_y": 414,
+                    "suggest_name": "ManualResource"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_class",
+            "image_url": "http://192.168.4.15/s/ele-imgs/1788/17893.png"
+        }
+    ]
+}

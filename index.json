@@ -1,0 +1,99 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "636",
+    "user_id": 32,
+    "abo_version": {
+        "version_id": "636",
+        "app_id": "353",
+        "version_name": "GitRestoreVersion",
+        "version_description": "",
+        "cm_version_module": "1788",
+        "platform": "2",
+        "ai_modal_id": null,
+        "script_type": "1",
+        "is_master": "1",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "0",
+        "git_restore_id": "0",
+        "is_delete": "0"
+    },
+    "app_id": "353",
+    "platform": "2",
+    "ab_applications": {
+        "app_id": "353",
+        "project_id": "76",
+        "name": "AndroidProj2_c76f03e25a01e583",
+        "display_name": "AndroidProj2",
+        "user_id": "32",
+        "os_type": "0",
+        "platform": "2",
+        "nob": "44",
+        "application_token": "f40d9593f5d78007a4ade4a25c20625a",
+        "cm_version_id": "1,622,623,628,631,632,636",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "testcase_retries_number": "3",
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "jira_project_id": null,
+        "created_by": "35",
+        "project_restriction_type": "1",
+        "is_delete": "0",
+        "ai_modal_id": null,
+        "created": "2026-06-11 14:31:18",
+        "updated": "2026-06-11 14:31:18"
+    },
+    "abo_version_module": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "221",
+            "version_id": "636",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
+        }
+    ],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "208",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "636",
+            "import_statement": "import abc; ",
+            "created": "2026-06-17 07:05:30",
+            "updated": "2026-06-17 07:05:30"
+        }
+    ],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "466",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "636",
+            "variable_type": "String",
+            "variable_name": "Gstr",
+            "variable_value": "GlobalString",
+            "gv_category": "global",
+            "created": "2026-06-17 07:05:30",
+            "updated": "2026-06-17 07:05:30"
+        },
+        {
+            "variable_id": "467",
+            "user_id": "32",
+            "app_id": "353",
+            "version_id": "636",
+            "variable_type": "int",
+            "variable_name": "rint",
+            "variable_value": "250",
+            "gv_category": "runtime",
+            "created": "2026-06-17 07:05:30",
+            "updated": "2026-06-17 07:05:30"
+        }
+    ],
+    "ab_scheduler": [],
+    "domain": "cotestertest2.testgrid.io"
+}
