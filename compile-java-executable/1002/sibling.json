@@ -1,0 +1,451 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_UsernameEditText1781774153873",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@text='Username'])[1]",
+                    "locator_id": "1",
+                    "d_h": 54,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 178,
+                    "suggest_name": "UsernameEditText1781774153873"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@content-desc='test-Username'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "UsernameEditText1781774153873",
+                    "d_w": "855",
+                    "d_y": "446"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.widget.EditText",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "UsernameEditText1781774153873",
+                    "d_w": "855",
+                    "d_y": "446"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@hint='Username'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "UsernameEditText1781774153873",
+                    "d_w": "855",
+                    "d_y": "446"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240230.png"
+        },
+        {
+            "testcase_element": "ele_PasswordEditText1781774220066",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@text='Password'])[1]",
+                    "locator_id": "1",
+                    "d_h": 54,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 259,
+                    "suggest_name": "PasswordEditText1781774220066"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@content-desc='test-Password'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "PasswordEditText1781774220066",
+                    "d_w": "855",
+                    "d_y": "648"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.EditText",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "PasswordEditText1781774220066",
+                    "d_w": "855",
+                    "d_y": "648"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@hint='Password'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "PasswordEditText1781774220066",
+                    "d_w": "855",
+                    "d_y": "648"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240231.png"
+        },
+        {
+            "testcase_element": "ele_testLOGINViewGroup1781774279072",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.ViewGroup[@content-desc='test-LOGIN'])[1]",
+                    "locator_id": "1",
+                    "d_h": 56,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 383,
+                    "suggest_name": "testLOGINViewGroup1781774279072"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]",
+                    "d_x": "113",
+                    "d_h": "140",
+                    "suggest_name": "testLOGINViewGroup1781774279072",
+                    "d_w": "855",
+                    "d_y": "958"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240232.png"
+        },
+        {
+            "testcase_element": "ele_ImageView1781774435327",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 227,
+                    "d_w": 173,
+                    "d_x": 24,
+                    "d_y": 206,
+                    "suggest_name": "ImageView1781774435327"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240233.png"
+        },
+        {
+            "testcase_element": "ele_ADDTOCARTTextView1781774563741",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='ADD TO CART'])[1]",
+                    "locator_id": "1",
+                    "d_h": 26,
+                    "d_w": 135,
+                    "d_x": 148,
+                    "d_y": 250,
+                    "suggest_name": "ADDTOCARTTextView1781774563741"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "d_x": "370",
+                    "d_h": "66",
+                    "suggest_name": "ADDTOCARTTextView1781774563741",
+                    "d_w": "339",
+                    "d_y": "627"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240234.png"
+        },
+        {
+            "testcase_element": "ele_ViewGroup1781774701724",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 22,
+                    "d_x": 393,
+                    "d_y": 40,
+                    "suggest_name": "ViewGroup1781774701724"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240235.png"
+        },
+        {
+            "testcase_element": "ele_CHECKOUTTextView1781774762960",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='CHECKOUT'])[1]",
+                    "locator_id": "1",
+                    "d_h": 26,
+                    "d_w": 114,
+                    "d_x": 158,
+                    "d_y": 734,
+                    "suggest_name": "CHECKOUTTextView1781774762960"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[5]/android.widget.TextView",
+                    "d_x": "397",
+                    "d_h": "67",
+                    "suggest_name": "CHECKOUTTextView1781774762960",
+                    "d_w": "285",
+                    "d_y": "1836"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240236.png"
+        },
+        {
+            "testcase_element": "ele_FirstNameEditText1781774888679",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@text='First Name'])[1]",
+                    "locator_id": "1",
+                    "d_h": 54,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 215,
+                    "suggest_name": "FirstNameEditText1781774888679"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@content-desc='test-First Name'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "FirstNameEditText1781774888679",
+                    "d_w": "855",
+                    "d_y": "538"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.widget.EditText",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "FirstNameEditText1781774888679",
+                    "d_w": "855",
+                    "d_y": "538"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@hint='First Name'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "FirstNameEditText1781774888679",
+                    "d_w": "855",
+                    "d_y": "538"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240237.png"
+        },
+        {
+            "testcase_element": "ele_LastNameEditText1781777838525",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@text='Last Name'])[1]",
+                    "locator_id": "1",
+                    "d_h": 54,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 296,
+                    "suggest_name": "LastNameEditText1781777838525"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@content-desc='test-Last Name'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "LastNameEditText1781777838525",
+                    "d_w": "855",
+                    "d_y": "740"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.EditText",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "LastNameEditText1781777838525",
+                    "d_w": "855",
+                    "d_y": "740"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@hint='Last Name'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "LastNameEditText1781777838525",
+                    "d_w": "855",
+                    "d_y": "740"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240238.png"
+        },
+        {
+            "testcase_element": "ele_ZipPostalCodeEditText1781777875703",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[@text='Zip/Postal Code'])[1]",
+                    "locator_id": "1",
+                    "d_h": 54,
+                    "d_w": 342,
+                    "d_x": 45,
+                    "d_y": 376,
+                    "suggest_name": "ZipPostalCodeEditText1781777875703"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@content-desc='test-Zip/Postal Code'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "ZipPostalCodeEditText1781777875703",
+                    "d_w": "855",
+                    "d_y": "942"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/android.widget.EditText",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "ZipPostalCodeEditText1781777875703",
+                    "d_w": "855",
+                    "d_y": "942"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.EditText[@hint='Zip/Postal Code'])[1]",
+                    "d_x": "113",
+                    "d_h": "136",
+                    "suggest_name": "ZipPostalCodeEditText1781777875703",
+                    "d_w": "855",
+                    "d_y": "942"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240239.png"
+        },
+        {
+            "testcase_element": "ele_CONTINUETextView1781778419189",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='CONTINUE'])[1]",
+                    "locator_id": "1",
+                    "d_h": 26,
+                    "d_w": 108,
+                    "d_x": 162,
+                    "d_y": 628,
+                    "suggest_name": "CONTINUETextView1781778419189"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[7]/android.widget.TextView",
+                    "d_x": "405",
+                    "d_h": "67",
+                    "suggest_name": "CONTINUETextView1781778419189",
+                    "d_w": "270",
+                    "d_y": "1572"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240240.png"
+        },
+        {
+            "testcase_element": "ele_WalkStepRunandEarnTextView1781941769438",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='Walk Step Run and Earn'])[1]",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 401,
+                    "d_x": 279,
+                    "d_y": 1139,
+                    "suggest_name": "WalkStepRunandEarnTextView1781941769438"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "WalkStepRunandEarnTextView1781941769438",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "52",
+                    "d_w": "401",
+                    "d_x": "279",
+                    "d_y": "1139",
+                    "element_area": 453,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.136.5/s/ele-imgs/1002/240257.png"
+        }
+    ]
+}
