@@ -31,7 +31,7 @@ public class rnp {
 		tg.printLogs(var_S1);
 		tg.type("ele_firstname112", var_S1);
 		tg_int var_v123 = 100;
-		tg.writeToCSV("var_ra_RS1", var_ra_RS1, var_ra_RS1);
+		tg.writeToCSV("var_v123", var_v123, var_ra_RS1);
 		// [DISABLED] tg.writeToCSV("var_ra_RS2", var_ra_RS2, "sdgvds");
 		// [DISABLED] tg.writeToCSV("var_ra_Rs3", var_ra_Rs3, "gterge");
 		tg.close();
