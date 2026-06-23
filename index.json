@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "35",
-    "user_id": 3,
+    "user_id": "3",
     "abo_version": {
         "version_id": "35",
         "app_id": "7",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "7",
@@ -51,7 +51,7 @@
             "version_module_id": "41",
             "version_id": "35",
             "parent_id": "0",
-            "module_name": "WTS",
+            "module_name": "WTS1",
             "module_description": "",
             "count_resource": "0",
             "cm_resource_pages": "",
@@ -173,6 +173,15 @@
                     "version_module_id": "41",
                     "description": "",
                     "action_process": "add_version_module"
+                },
+                {
+                    "id": "239",
+                    "user_id": "3",
+                    "app_id": "7",
+                    "version_id": "35",
+                    "version_module_id": "41",
+                    "description": "WTS",
+                    "action_process": "edit_version_module"
                 }
             ],
             "abo_vm_test_story_manual": [],
