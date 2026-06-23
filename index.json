@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "40",
-    "user_id": 3,
+    "user_id": "3",
     "abo_version": {
         "version_id": "40",
         "app_id": "7",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "7",
@@ -51,7 +51,7 @@
             "version_module_id": "47",
             "version_id": "40",
             "parent_id": "0",
-            "module_name": "WTS123",
+            "module_name": "WTS123456465",
             "module_description": "",
             "count_resource": "3",
             "cm_resource_pages": "74",
@@ -412,6 +412,15 @@
                     "version_id": "40",
                     "version_module_id": "47",
                     "description": "WTS",
+                    "action_process": "edit_version_module"
+                },
+                {
+                    "id": "273",
+                    "user_id": "3",
+                    "app_id": "7",
+                    "version_id": "40",
+                    "version_module_id": "47",
+                    "description": "WTS123",
                     "action_process": "edit_version_module"
                 }
             ],
