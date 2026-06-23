@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "33",
-    "user_id": 18,
+    "user_id": "18",
     "abo_version": {
         "version_id": "33",
         "app_id": "24",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "24",
@@ -51,7 +51,7 @@
             "version_module_id": "44",
             "version_id": "33",
             "parent_id": "0",
-            "module_name": "WTS",
+            "module_name": "WTS33333",
             "module_description": "",
             "count_resource": "4",
             "cm_resource_pages": "84,85",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-23 15:16:03",
+            "view_updated_date_time": "2026-06-23 15:16:47",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -124,6 +124,15 @@
                     "version_module_id": "44",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "191",
+                    "user_id": "18",
+                    "app_id": "24",
+                    "version_id": "33",
+                    "version_module_id": "44",
+                    "description": "WTS",
+                    "action_process": "edit_version_module"
                 }
             ],
             "abo_vm_test_story_manual": [],
