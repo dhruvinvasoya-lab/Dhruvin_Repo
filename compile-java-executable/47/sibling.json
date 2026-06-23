@@ -85,7 +85,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": ""
+            "image_url": "http://117.240.112.135/s/ele-imgs/47/352.png"
         },
         {
             "testcase_element": "ele_firstname112",
@@ -172,7 +172,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": ""
+            "image_url": "http://117.240.112.135/s/ele-imgs/47/353.png"
         },
         {
             "testcase_element": "ele_firstname102",
@@ -260,7 +260,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": ""
+            "image_url": "http://117.240.112.135/s/ele-imgs/47/354.png"
         }
     ]
 }
