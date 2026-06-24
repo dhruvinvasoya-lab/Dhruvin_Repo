@@ -25,15 +25,15 @@ public class rnp {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void rnp() {
 		tg.openBrowser();
-		tg.wait(5);
-		tg_int var_in1 = 10;
-		// [DISABLED] var_S1 = (int) tg.testFunction("F2", new Object[]{var_V1});
-		tg.printLogs(var_S1);
-		tg.type("ele_firstname112", var_S1);
-		tg_int var_v123 = 100;
-		tg.writeToCSV("var_v123", var_v123, var_ra_RS1);
-		// [DISABLED] tg.writeToCSV("var_ra_RS2", var_ra_RS2, "sdgvds");
-		// [DISABLED] tg.writeToCSV("var_ra_Rs3", var_ra_Rs3, "gterge");
+				tg.wait(5);
+				tg_int var_in1 = 10;
+		// [DISABLED] 		int var_S1 = (int) tg.testFunction("F2", new Object[]{var_V1});
+				tg.printLogs(var_S1);
+				tg.type("ele_firstname112", var_S1);
+				tg_int var_v123 = 100;
+				tg.writeToCSV("var_v123", var_v123, var_ra_RS1);
+		// [DISABLED] 		tg.writeToCSV("var_ra_RS2", var_ra_RS2, "sdgvds");
+		// [DISABLED] 		tg.writeToCSV("var_ra_Rs3", var_ra_Rs3, "gterge");
 		tg.close();
 	}
 }

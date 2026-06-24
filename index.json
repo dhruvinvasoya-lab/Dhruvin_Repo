@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-23 11:08:17",
+            "view_updated_date_time": "2026-06-24 05:58:27",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -129,7 +129,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-06-23 11:08:17",
+                    "updated_at": "2026-06-24 05:58:27",
                     "created_at": "2026-06-23 09:32:13",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
@@ -630,6 +630,18 @@
             "gv_category": "runtime",
             "created": "2026-06-23 09:32:13",
             "updated": "2026-06-23 09:32:13"
+        },
+        {
+            "variable_id": "195",
+            "user_id": "3",
+            "app_id": "7",
+            "version_id": "40",
+            "variable_type": "String",
+            "variable_name": "v1234",
+            "variable_value": "https://photos.google.com/share/AF1QipOB9APHXFVy_XRLcCIi7MaJGnM2f9i2VUl0tNDUb86zrUxnmAL_wTJ87WOMv3z8VA/photo/",
+            "gv_category": "runtime",
+            "created": "2026-06-24 05:54:40",
+            "updated": "2026-06-24 05:55:38"
         }
     ],
     "ab_scheduler": [],
