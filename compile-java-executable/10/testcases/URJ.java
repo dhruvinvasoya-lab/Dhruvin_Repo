@@ -24,10 +24,13 @@ public class urj {
 		tg.wait(5);
 		var_upjson = tg.getJsonData("https://qainofc2.testgrid.io/s/csv-to-json/20260610/Z6W2jS.json");
 		var_upjson = (JSONObject) tg.testFunction("TF05", new Object[]{var_FullName, var_FullName});
-		// [DISABLED] tg.printLogs(var_JSONG);
+		tg.printLogs(var_JSONG);
 		tg.wait(1);
 		tg.printLogs(var_upjson);
 		tg.wait(1);
+		tg.deactivateApp(var_urbundle);
+		tg.deactivateApp(var_neval);
+		tg.wait(5);
 		tg.close();
 	}
 }
