@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-29 14:43:07",
+            "view_updated_date_time": "2026-06-29 14:43:25",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -335,14 +335,44 @@
                     "jira_id": "0",
                     "version_module_id": "10",
                     "tc_name": "Registerdemo",
-                    "thread_id": "",
+                    "thread_id": "cotester_thread_6a42849883d08190acc0276c7773332a04e8a798304d3534",
                     "tc_description": "",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "updated_at": "2026-06-29 14:43:21",
+                    "updated_at": "2026-06-29 14:43:49",
                     "created_at": "2026-06-29 14:43:21",
                     "figma_id": "0",
-                    "abo_vm_test_case_manual_steps": [],
-                    "cotester_chat_messages": []
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "497",
+                            "tc_id": "57",
+                            "step_order": "1",
+                            "step_action": "hello",
+                            "created_at": "2026-06-29 14:43:49",
+                            "updated_at": "2026-06-29 14:43:49"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "1",
+                            "tc_id": "57",
+                            "thread_id": "",
+                            "user_id": "3",
+                            "message": "tap on home button",
+                            "message_type": "sender",
+                            "created_at": "2026-06-29 14:43:34",
+                            "updated_at": "2026-06-29 14:43:34"
+                        },
+                        {
+                            "id": "2",
+                            "tc_id": "57",
+                            "thread_id": "",
+                            "user_id": "3",
+                            "message": "I could not find specific details about the \"home button\" from your uploaded files. Could you clarify the application or module where the Home button action occurs (for example: mobile app, web portal, specific screen, etc.)? This will help me create targeted test cases for tapping on the Home button.",
+                            "message_type": "replier",
+                            "created_at": "2026-06-29 14:43:40",
+                            "updated_at": "2026-06-29 14:43:40"
+                        }
+                    ]
                 }
             ],
             "abo_vm_network_assert": [],
