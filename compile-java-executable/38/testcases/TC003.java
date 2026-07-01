@@ -29,6 +29,7 @@ public class tc003 {
 		tg.type("ele_username094", "Vault_HashiCorp_username@@secret/data/testgrid");
 		tg.typeEncrypted("ele_password304", "Vault_HashiCorp_password@@secret/data/login");
 		tg.wait(3);
+		tg.takeFullScreenshot();
 		tg.close();
 	}
 }
