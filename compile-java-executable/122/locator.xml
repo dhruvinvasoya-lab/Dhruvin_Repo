@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname080">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+    <element type="image">http://10.0.126.5/s/ele-imgs/122/3449.png</element>
+  </locator>
+  <locator name="ele_firstname064">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+    <element type="image">http://10.0.126.5/s/ele-imgs/122/3450.png</element>
+  </locator>
+  <locator name="ele_firstname272">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.126.5/s/ele-imgs/122/3451.png</element>
+  </locator>
+  <locator name="ele_lastname360">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.126.5/s/ele-imgs/122/3452.png</element>
+  </locator>
+  <locator name="ele_textareatgwebcomma638">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[2]/div/textarea</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-valid.ng-touched</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-control ng-pristine ng-valid ng-touchedTGWEBCOMMA3</element>
+    <element type="image">http://10.0.126.5/s/ele-imgs/122/3453.png</element>
+  </locator>
+</locators>
