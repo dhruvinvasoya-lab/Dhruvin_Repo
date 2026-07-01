@@ -129,16 +129,16 @@
                     "locators": "Xpath",
                     "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextView",
                     "locator_id": "3",
-                    "d_h": 88,
-                    "d_w": 295,
-                    "d_x": 78,
-                    "d_y": 348,
+                    "d_h": 65,
+                    "d_w": 70,
+                    "d_x": 602,
+                    "d_y": 178,
                     "suggest_name": "TextView1781196969443"
                 }
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": ""
+            "image_url": "http://192.168.4.15/s/ele-imgs/1761/17709.png"
         },
         {
             "testcase_element": "ele_TextField1781197734723",
@@ -227,6 +227,80 @@
                     "d_y": "571",
                     "element_area": 85,
                     "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeWebView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[8]/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchSearchField1781251414344",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeSearchField[@name='Search'])[1]",
+                    "locator_id": "3",
+                    "d_h": 37,
+                    "d_w": 390,
+                    "d_x": 20,
+                    "d_y": 150,
+                    "suggest_name": "SearchSearchField1781251414344"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchSearchField1781251414344",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeSearchField"
+                    ],
+                    "img": "",
+                    "d_h": "37",
+                    "d_w": "390",
+                    "d_x": "20",
+                    "d_y": "150",
+                    "element_area": 427,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeSearchField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchButton1781251442875",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Search'])[1]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 106,
+                    "d_x": 322,
+                    "d_y": 806,
+                    "suggest_name": "SearchButton1781251442875"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchButton1781251442875",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "106",
+                    "d_x": "322",
+                    "d_y": "806",
+                    "element_area": 155,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
                     "locators": "xpath"
                 }
             ],
