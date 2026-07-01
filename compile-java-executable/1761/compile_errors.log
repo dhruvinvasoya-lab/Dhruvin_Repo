@@ -1,0 +1,24 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a44f5b81015f_6802/appium-ios/src/test/java/RNP123654copy.java:23: error: cannot find symbol
+    var_str = (String) tg.testFunction("F1", new Object[] { var_ra_rint, var_str1, var_ra_rint1 });
+    ^
+  symbol:   variable var_str
+  location: class RNP123654copy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a44f5b81015f_6802/appium-ios/src/test/java/RNP123654copy.java:23: error: cannot find symbol
+    var_str = (String) tg.testFunction("F1", new Object[] { var_ra_rint, var_str1, var_ra_rint1 });
+                                                            ^
+  symbol:   variable var_ra_rint
+  location: class RNP123654copy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a44f5b81015f_6802/appium-ios/src/test/java/RNP123654copy.java:23: error: cannot find symbol
+    var_str = (String) tg.testFunction("F1", new Object[] { var_ra_rint, var_str1, var_ra_rint1 });
+                                                                         ^
+  symbol:   variable var_str1
+  location: class RNP123654copy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a44f5b81015f_6802/appium-ios/src/test/java/RNP123654copy.java:23: error: cannot find symbol
+    var_str = (String) tg.testFunction("F1", new Object[] { var_ra_rint, var_str1, var_ra_rint1 });
+                                                                                   ^
+  symbol:   variable var_ra_rint1
+  location: class RNP123654copy
+4 errors
