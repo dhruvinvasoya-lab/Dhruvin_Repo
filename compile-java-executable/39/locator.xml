@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_username524">
+    <element type="xpath">//input[@id='username']</element>
+    <element type="xpath">//div[@id='form']/div/input</element>
+    <element type="id">usernameTGWEBCOMMA1</element>
+    <element type="css">#username</element>
+    <element type="css">input#usernameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/217.png</element>
+  </locator>
+  <locator name="ele_username259">
+    <element type="xpath">//input[@id='username']</element>
+    <element type="xpath">//div[@id='form']/div/input</element>
+    <element type="id">usernameTGWEBCOMMA1</element>
+    <element type="css">#username</element>
+    <element type="css">input#usernameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/218.png</element>
+  </locator>
+  <locator name="ele_password557">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="xpath">//div[@id='form']/div[2]/input</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="css">input#passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/219.png</element>
+  </locator>
+  <locator name="ele_password389">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="xpath">//div[@id='form']/div[2]/input</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="css">input#passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/220.png</element>
+  </locator>
+  <locator name="ele_password630">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="xpath">//div[@id='form']/div[2]/input</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="css">input#passwordTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/221.png</element>
+  </locator>
+  <locator name="ele_submit018">
+    <element type="xpath">//button[@id='submit']</element>
+    <element type="xpath">//div[@id='form']/button</element>
+    <element type="id">submitTGWEBCOMMA1</element>
+    <element type="css">#submit</element>
+    <element type="css">button#submitTGWEBCOMMA0</element>
+    <element type="xpath">//section/div/button</element>
+    <element type="class">btnTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/39/222.png</element>
+  </locator>
+</locators>

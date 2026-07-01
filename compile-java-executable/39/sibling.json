@@ -1,0 +1,525 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_username524",
+            "tg_text": "",
+            "sibling_selector": {
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "username"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "name": "username",
+                        "id": "username"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='username']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652,
+                    "d_y": 542,
+                    "suggest_name": "username524"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/div/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username524"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "usernameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username524"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#username",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username524"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#usernameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username524"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username524"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/217.png"
+        },
+        {
+            "testcase_element": "ele_username259",
+            "tg_text": "",
+            "sibling_selector": {
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "username"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "name": "username",
+                        "id": "username",
+                        "value": "test"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='username']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652,
+                    "d_y": 542,
+                    "suggest_name": "username259"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/div/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username259"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "usernameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username259"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#username",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username259"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#usernameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username259"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 542.5625,
+                    "suggest_name": "username259"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/218.png"
+        },
+        {
+            "testcase_element": "ele_password557",
+            "tg_text": "",
+            "sibling_selector": {
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "password"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "name": "password",
+                        "id": "password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='password']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652,
+                    "d_y": 649,
+                    "suggest_name": "password557"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password557"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passwordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password557"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#password",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password557"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passwordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password557"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password557"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/219.png"
+        },
+        {
+            "testcase_element": "ele_password389",
+            "tg_text": "",
+            "sibling_selector": {
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "password"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "name": "password",
+                        "id": "password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='password']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652,
+                    "d_y": 649,
+                    "suggest_name": "password389"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password389"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passwordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password389"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#password",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password389"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passwordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password389"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password389"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/220.png"
+        },
+        {
+            "testcase_element": "ele_password630",
+            "tg_text": "",
+            "sibling_selector": {
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "password"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "name": "password",
+                        "id": "password",
+                        "value": "ddd"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='password']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652,
+                    "d_y": 649,
+                    "suggest_name": "password630"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password630"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passwordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password630"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#password",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password630"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passwordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password630"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 600,
+                    "d_x": 652.5,
+                    "d_y": 649.5625,
+                    "suggest_name": "password630"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/221.png"
+        },
+        {
+            "testcase_element": "ele_submit018",
+            "tg_text": "Submit",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "id": "form"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "id": "submit",
+                        "class": "btn"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='submit']",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652,
+                    "d_y": 727,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='form']/button",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "submitTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#submit",
+                    "locator_id": "9",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#submitTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section/div/button",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btnTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 54,
+                    "d_w": 128,
+                    "d_x": 652.5,
+                    "d_y": 727.5625,
+                    "suggest_name": "submit018"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.118/s/ele-imgs/39/222.png"
+        }
+    ]
+}
