@@ -15,16 +15,13 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class f1 {
+@Listeners(TestListener.class);
+public class dv123546 {
 
-	public static Object f1(String FirstName, String LastName) {
-		tg_String var_TGReturn = "";
-		START_CUSTOM_SCRIPT;
-		System.out.println("FName " + FirstName);
-		            System.out.println("LName " + LastName);
-		            var_TGReturn = FirstName + " " + LastName;
-		            System.out.println("Full Name " + var_TGReturn);
-		END_CUSTOM_SCRIPT;
-		return var_TGReturn;
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void dv123546() {
+		tg.openDevice();
+		var_str = (String) tg.testFunction("F1", new Object[]{"dv", "as", 12});
+		tg.close();
 	}
 }
