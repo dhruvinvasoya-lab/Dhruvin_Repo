@@ -17,7 +17,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "3"
     },
     "app_id": "20",
     "platform": "3",
@@ -53,7 +53,7 @@
             "parent_id": "0",
             "module_name": "GitSuite",
             "module_description": "",
-            "count_resource": "0",
+            "count_resource": "5",
             "cm_resource_pages": "36",
             "cm_default_resource": "",
             "cm_test_function": "",
@@ -162,7 +162,7 @@
                 {
                     "version_page_id": "36",
                     "version_module_id": "39",
-                    "cm_resource": "",
+                    "cm_resource": "223,224,225,226,227",
                     "page_name": "TestLoginPracticeTestAutomation",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/main_36.png",
                     "git_restore_page_id": "0",
@@ -199,7 +199,7 @@
                             "d_y": "542.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "223",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/223.png"
@@ -234,7 +234,7 @@
                             "d_y": "542.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "224",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/224.png"
@@ -269,7 +269,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "225",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/225.png"
@@ -304,7 +304,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "226",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/226.png"
@@ -339,7 +339,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "227",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/227.png"
