@@ -18,6 +18,10 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class GitSuite {
+
+class gpathtf {
+
+	public static void gpathtf() {
+		tg.typeEncrypted("ele_username003", "Vault_HashiCorp_gjk@@secret/data/govind");
+	}
 }

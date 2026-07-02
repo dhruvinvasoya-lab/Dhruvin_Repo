@@ -18,6 +18,17 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class GitSuite {
+
+@Listeners(TestListener.class);
+public class tc004 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc004() {
+		tg.openBrowser();
+		tg.wait(2);
+		tg.type("ele_username003", "Vault_HashiCorp_gjk@@secret/data/govind");
+		tg.typeEncrypted("ele_password152", "Vault_HashiCorp_password@@secret/data/govind");
+		tg.takeFullScreenshot();
+		tg.close();
+	}
 }

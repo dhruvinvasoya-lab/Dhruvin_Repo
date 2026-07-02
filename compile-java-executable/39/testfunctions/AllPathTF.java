@@ -18,6 +18,15 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
-@Listeners(TestListener.class)
-public class GitSuite {
+
+class allpathtf {
+
+	public static void allpathtf() {
+		tg.wait(2);
+		tg.typeEncrypted("ele_username003", "Vault_HashiCorp_gjk@@secret/data/govind");
+		tg.typeEncrypted("ele_password152", "Vault_HashiCorp_password@@secret/data/testgrid");
+		tg.wait(3);
+		tg.type("ele_password152", "Vault_HashiCorp_password@@secret/data/testgrid");
+		tg.typeEncrypted("ele_username003", "Vault_HashiCorp_password@@secret/data/login");
+	}
 }

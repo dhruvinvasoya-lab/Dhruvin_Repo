@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": 24,
-    "user_id": 6,
+    "version_id": "24",
+    "user_id": "6",
     "abo_version": {
         "version_id": "24",
         "app_id": "20",
@@ -17,7 +17,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "4"
+        "git_restore_id": "0"
     },
     "app_id": "20",
     "platform": "3",
@@ -29,7 +29,7 @@
         "user_id": "6",
         "os_type": "0",
         "platform": "3",
-        "nob": "0",
+        "nob": "1",
         "application_token": "dadc45ef6e195f620ced98bddf2115f8",
         "cm_version_id": "1,24,25",
         "is_autoheal": "1",
@@ -56,12 +56,12 @@
             "count_resource": "5",
             "cm_resource_pages": "36",
             "cm_default_resource": "",
-            "cm_test_function": "",
-            "cm_test_case": "155,156,164",
+            "cm_test_function": "51,52",
+            "cm_test_case": "156,164,165",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-01 10:27:18",
+            "view_updated_date_time": "2026-07-02 22:47:47",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -70,32 +70,6 @@
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
             "abo_vm_test_case": [
-                {
-                    "tc_id": "155",
-                    "version_module_id": "39",
-                    "tc_name": "TC001",
-                    "tc_description": "TC001",
-                    "tc_website_url": "https://practicetestautomation.com/practice-test-login/",
-                    "it_json": "",
-                    "cm_step_list": "",
-                    "is_compiled": "1",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "is_draft": "6",
-                    "updated_at": "2026-07-01 09:26:38",
-                    "created_at": "2026-07-01 09:26:38",
-                    "qtest_skip_sync": "0",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/20/24/39/testcases/tc001.java",
-                    "vault_paths": [
-                        "secret/data/login",
-                        "secret/data/govind"
-                    ]
-                },
                 {
                     "tc_id": "156",
                     "version_module_id": "39",
@@ -110,7 +84,7 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "0",
+                    "is_draft": "6",
                     "updated_at": "2026-07-01 10:08:01",
                     "created_at": "2026-07-01 09:45:54",
                     "qtest_skip_sync": "0",
@@ -139,7 +113,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-01 10:28:38",
+                    "updated_at": "2026-07-02 22:47:20",
                     "created_at": "2026-07-01 10:27:18",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -149,11 +123,76 @@
                         "secret/data/login",
                         "secret/data/testgrid",
                         "secret/data/wrongpath",
+                        "secret/data/govind",
+                        "secret/data/ajaybhai"
+                    ]
+                },
+                {
+                    "tc_id": "165",
+                    "version_module_id": "39",
+                    "tc_name": "TC004",
+                    "tc_description": "TC004",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "191,192,193,194",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "6",
+                    "updated_at": "2026-07-01 14:08:41",
+                    "created_at": "2026-07-01 14:08:41",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/20/24/39/testcases/tc004.java",
+                    "vault_paths": [
                         "secret/data/govind"
                     ]
                 }
             ],
-            "abo_version_proc": [],
+            "abo_version_proc": [
+                {
+                    "proc_id": "51",
+                    "version_module_id": "39",
+                    "proc_name": "GpathTF",
+                    "proc_description": "GpathTF",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "6",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/20/24/39/testfunctions/gpathtf.java",
+                    "vault_paths": [
+                        "secret/data/govind"
+                    ]
+                },
+                {
+                    "proc_id": "52",
+                    "version_module_id": "39",
+                    "proc_name": "AllPathTF",
+                    "proc_description": "AllPathTF",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "6",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/20/24/39/testfunctions/allpathtf.java",
+                    "vault_paths": [
+                        "secret/data/govind",
+                        "secret/data/testgrid",
+                        "secret/data/login"
+                    ]
+                }
+            ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
             "abo_update": [
@@ -183,6 +222,24 @@
                     "version_module_id": "39",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "204",
+                    "user_id": "6",
+                    "app_id": "20",
+                    "version_id": "24",
+                    "version_module_id": "39",
+                    "description": "",
+                    "action_process": "delete_test_case"
+                },
+                {
+                    "id": "205",
+                    "user_id": "6",
+                    "app_id": "20",
+                    "version_id": "24",
+                    "version_module_id": "39",
+                    "description": "",
+                    "action_process": "add_test_function"
                 }
             ],
             "abo_vm_test_story_manual": [],
@@ -227,7 +284,7 @@
                             "d_y": "542.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "223",
+                            "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/223.png"
@@ -262,7 +319,7 @@
                             "d_y": "542.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "224",
+                            "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/224.png"
@@ -297,7 +354,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "225",
+                            "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/225.png"
@@ -332,7 +389,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "226",
+                            "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/226.png"
@@ -367,7 +424,7 @@
                             "d_y": "649.5625",
                             "d_w": "600",
                             "d_h": "48",
-                            "restore_maps_id": "227",
+                            "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/39/227.png"
