@@ -19,15 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc001 {
+class tf003 {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc001() {
-		tg.openBrowser();
-		tg.wait(2);
-		tg.type("ele_username603", "Vault_HashiCorp_password@@secret/data/testgrid");
-		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
-		tg.close();
+	public static void tf003() {
+		tg.type("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
 	}
 }
