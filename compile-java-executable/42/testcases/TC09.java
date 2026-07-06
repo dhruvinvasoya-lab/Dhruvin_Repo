@@ -26,7 +26,7 @@ public class tc09 {
 	public void tc09() {
 		tg.openBrowser();
 				tg.wait(3);
-				tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
+				tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
 		tg.close();
 	}
 }
