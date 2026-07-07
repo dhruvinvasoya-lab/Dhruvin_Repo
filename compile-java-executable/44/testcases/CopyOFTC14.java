@@ -28,6 +28,7 @@ public class copyoftc14 {
 		tg.wait(3);
 		tg.type("ele_username603", "Vault_HashiCorp_username@@secret/data/testgrid");
 		tg.type("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
+		tg.takeFullScreenshot();
 		tg.close();
 	}
 }
