@@ -31,7 +31,7 @@
         "platform": "2",
         "nob": "48",
         "application_token": "a995ee40d7961804dfbc73728391aa89",
-        "cm_version_id": "1,9,15,22",
+        "cm_version_id": "1,9,15,22,55,59",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-29 14:58:31",
+            "view_updated_date_time": null,
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -69,7 +69,6 @@
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
-            "vault_secret_path": null,
             "abo_vm_test_case": [
                 {
                     "tc_id": "35",
@@ -91,7 +90,8 @@
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/ur.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/ur.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "43",
@@ -121,7 +121,8 @@
                         }
                     ],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/upen.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/upen.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "121",
@@ -143,7 +144,8 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/urj.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testcases/urj.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -160,7 +162,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FirstName\"},{\"type\":\"String\",\"name\":\"LastName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf01.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf01.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "7",
@@ -175,7 +178,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"Integer\",\"name\":\"up\"},{\"type\":\"Integer\",\"name\":\"upen\"}]",
                     "return_type": "Integer",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf02.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf02.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "8",
@@ -190,7 +194,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"Double\",\"name\":\"DB1\"},{\"type\":\"Double\",\"name\":\"DB2\"}]",
                     "return_type": "Decimal",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf03.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf03.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "12",
@@ -205,7 +210,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"First\"},{\"type\":\"String\",\"name\":\"Last\"}]",
                     "return_type": "Json",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf05.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf05.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "16",
@@ -220,7 +226,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FName\"},{\"type\":\"String\",\"name\":\"LName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf04.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf04.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "40",
@@ -235,7 +242,8 @@
                     "has_parameters": "0",
                     "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf07.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf07.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "50",
@@ -250,7 +258,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/testdataf.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/testdataf.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "56",
@@ -265,7 +274,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"Fname\"},{\"type\":\"String\",\"name\":\"Lname\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf002.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf002.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "159",
@@ -280,7 +290,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FirstName\"},{\"type\":\"String\",\"name\":\"LastName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf008.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf008.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "167",
@@ -295,7 +306,8 @@
                     "has_parameters": "1",
                     "param_data": "[]",
                     "return_type": "Integer",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf009.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf009.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "172",
@@ -310,7 +322,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf010.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf010.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "178",
@@ -325,7 +338,8 @@
                     "has_parameters": "1",
                     "param_data": "[]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/huu.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/huu.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "255",
@@ -340,7 +354,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf09.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf09.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "256",
@@ -355,7 +370,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf0101.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf0101.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "258",
@@ -370,7 +386,8 @@
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf0111.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/tf0111.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "259",
@@ -385,7 +402,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/testdataf11.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/testdataf11.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "260",
@@ -400,7 +418,8 @@
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/upen12.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/10/testfunctions/upen12.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [
@@ -578,7 +597,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-29 15:14:49",
+            "view_updated_date_time": "2026-07-07 16:55:28",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -586,7 +605,6 @@
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
-            "vault_secret_path": null,
             "abo_vm_test_case": [
                 {
                     "tc_id": "277",
@@ -608,7 +626,8 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/urj_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/urj_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "278",
@@ -630,7 +649,8 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/upen_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/upen_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "279",
@@ -652,7 +672,8 @@
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/ur_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/ur_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "280",
@@ -669,12 +690,13 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-06-29 15:15:00",
+                    "updated_at": "2026-07-07 16:55:28",
                     "created_at": "2026-06-29 15:15:00",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/tc01.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testcases/tc01.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -691,7 +713,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FirstName\"},{\"type\":\"String\",\"name\":\"LastName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf01_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf01_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "277",
@@ -706,7 +729,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"Integer\",\"name\":\"up\"},{\"type\":\"Integer\",\"name\":\"upen\"}]",
                     "return_type": "Integer",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf02_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf02_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "278",
@@ -721,7 +745,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"Double\",\"name\":\"DB1\"},{\"type\":\"Double\",\"name\":\"DB2\"}]",
                     "return_type": "Decimal",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf03_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf03_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "279",
@@ -736,7 +761,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"First\"},{\"type\":\"String\",\"name\":\"Last\"}]",
                     "return_type": "Json",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf05_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf05_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "280",
@@ -751,7 +777,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FName\"},{\"type\":\"String\",\"name\":\"LName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf04_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf04_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "281",
@@ -766,7 +793,8 @@
                     "has_parameters": "0",
                     "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf07_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf07_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "282",
@@ -781,7 +809,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/testdataf_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/testdataf_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "283",
@@ -796,7 +825,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"Fname\"},{\"type\":\"String\",\"name\":\"Lname\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf002_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf002_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "284",
@@ -811,7 +841,8 @@
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"FirstName\"},{\"type\":\"String\",\"name\":\"LastName\"}]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf008_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf008_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "285",
@@ -826,7 +857,8 @@
                     "has_parameters": "1",
                     "param_data": "[]",
                     "return_type": "Integer",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf009_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf009_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "286",
@@ -841,7 +873,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf010_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf010_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "287",
@@ -856,7 +889,8 @@
                     "has_parameters": "1",
                     "param_data": "[]",
                     "return_type": "String",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/huu_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/huu_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "288",
@@ -871,7 +905,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf09_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf09_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "289",
@@ -886,7 +921,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf0101_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf0101_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "290",
@@ -901,7 +937,8 @@
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf0111_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/tf0111_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "291",
@@ -916,7 +953,8 @@
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/testdataf11_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/testdataf11_copy.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "292",
@@ -931,7 +969,8 @@
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/upen12_copy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/8/9/64/testfunctions/upen12_copy.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [
@@ -970,6 +1009,15 @@
                     "version_module_id": "64",
                     "description": "",
                     "action_process": "add_version_module"
+                },
+                {
+                    "id": "397",
+                    "user_id": "3",
+                    "app_id": "8",
+                    "version_id": "9",
+                    "version_module_id": "64",
+                    "description": "",
+                    "action_process": "edit_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],
