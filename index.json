@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 12:53:39",
+            "view_updated_date_time": "2026-07-08 12:58:26",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -559,7 +559,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-08 12:55:06",
+                    "updated_at": "2026-07-08 13:02:25",
                     "created_at": "2026-07-08 12:53:38",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -568,7 +568,7 @@
                     "vault_paths": [
                         "secret/data/testgrid",
                         "secret/data/govind",
-                        "secret/data/dummy-path"
+                        "secret/data/newpath"
                     ]
                 }
             ],
@@ -711,6 +711,15 @@
                     "version_module_id": "44",
                     "description": "",
                     "action_process": "add_test_case"
+                },
+                {
+                    "id": "246",
+                    "user_id": "6",
+                    "app_id": "21",
+                    "version_id": "29",
+                    "version_module_id": "44",
+                    "description": "",
+                    "action_process": "edit_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],
