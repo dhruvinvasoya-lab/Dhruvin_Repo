@@ -19,13 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class rnp1 {
+class f1 {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void rnp1() {
-		tg.openBrowser();
+	public static void f1() {
 		tg.wait(5);
-		tg.close();
 	}
 }
