@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 15:05:38",
+            "view_updated_date_time": "2026-07-08 15:09:09",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -73,7 +73,7 @@
                 {
                     "tc_id": "3020",
                     "version_module_id": "1811",
-                    "tc_name": "RNP1",
+                    "tc_name": "RNP",
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
@@ -86,12 +86,12 @@
                     "is_ai_generated": "0",
                     "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-07-08 09:36:43",
+                    "updated_at": "2026-07-08 09:39:38",
                     "created_at": "2026-07-08 14:12:42",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/374/655/1811/testcases/rnp1.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/374/655/1811/testcases/rnp.java",
                     "vault_paths": []
                 }
             ],
