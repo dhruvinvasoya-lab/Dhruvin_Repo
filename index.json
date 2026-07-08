@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 15:09:09",
+            "view_updated_date_time": "2026-07-08 15:22:08",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -86,7 +86,7 @@
                     "is_ai_generated": "0",
                     "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-07-08 09:39:38",
+                    "updated_at": "2026-07-08 09:54:03",
                     "created_at": "2026-07-08 14:12:42",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -116,7 +116,20 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "665",
+            "user_id": "41",
+            "app_id": "374",
+            "version_id": "655",
+            "variable_type": "String",
+            "variable_name": "V1",
+            "variable_value": "10",
+            "gv_category": "global",
+            "created": "2026-07-08 09:54:03",
+            "updated": "2026-07-08 09:54:03"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "cotestertest2.testgrid.io"
 }
