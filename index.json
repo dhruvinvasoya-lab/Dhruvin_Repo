@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-10 12:24:36",
+            "view_updated_date_time": "2026-07-10 12:35:18",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -711,7 +711,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-10 12:30:04",
+                    "updated_at": "2026-07-10 12:36:01",
                     "created_at": "2026-07-10 12:22:41",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -720,7 +720,8 @@
                     "vault_paths": [
                         "secret/data/testgrid",
                         "secret/data/govind",
-                        "secret/data/kaushik"
+                        "secret/data/kaushik",
+                        "secret/data/anotherpath"
                     ]
                 }
             ],
