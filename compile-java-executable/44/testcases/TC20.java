@@ -20,15 +20,18 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc016 {
+public class tc20 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc016() {
+	public void tc20() {
 		tg.openBrowser();
-				tg.wait(2);
-				tg.type("ele_username603", "Authenticator_Facebook_Temp@@29");
-				tg.takeFullScreenshot();
-				tg.testFunction("TF09", new Object[]{});
+		tg.wait(1);
+		tg.type("ele_username603", "Authenticator_Gooogle@@25");
+		tg.wait(1);
+		tg.type("ele_username670", "Authenticator_Mac_Mini@@30");
+		tg.wait(1);
+		tg.type("ele_username603", "Authenticator_Test@@35");
+		tg.wait(1);
 		tg.close();
 	}
 }

@@ -19,16 +19,11 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc016 {
+class tf09 {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc016() {
-		tg.openBrowser();
-				tg.wait(2);
-				tg.type("ele_username603", "Authenticator_Facebook_Temp@@29");
-				tg.takeFullScreenshot();
-				tg.testFunction("TF09", new Object[]{});
-		tg.close();
+	public static void tf09() {
+		tg.wait(2);
+		tg.type("ele_username603", "Authenticator_Gooogle@@25");
+		tg.takeFullScreenshot();
 	}
 }
