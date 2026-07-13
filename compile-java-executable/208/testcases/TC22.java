@@ -14,3 +14,14 @@ import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class tc22 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc22() {
+		tg.openDevice();
+		tg.wait(5);
+		tg.close();
+	}
+}
