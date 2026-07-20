@@ -20,15 +20,11 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc001 {
+public class tc001-1 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc001() {
+	public void tc001-1() {
 		tg.openBrowser();
-		tg.wait(2);
-		tg.type("ele_username603", "Vault_HashiCorp_password@@secret/data/testgrid");
-		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
-		tg.takeFullScreenshot();
 		tg.close();
 	}
 }
