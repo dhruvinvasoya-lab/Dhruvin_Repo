@@ -25,10 +25,10 @@ public class tc001 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc001() {
 		tg.openBrowser();
-		tg.wait(2);
-		tg.type("ele_username603", "Vault_HashiCorp_password@@secret/data/testgrid");
-		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
-		tg.takeFullScreenshot();
+				tg.wait(2);
+				tg.type("ele_username603", "Vault_HashiCorp_password@@secret/data/testgrid");
+				tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
+				tg.takeFullScreenshot();
 		tg.close();
 	}
 }
