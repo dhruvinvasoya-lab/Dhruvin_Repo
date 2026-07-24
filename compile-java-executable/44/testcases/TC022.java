@@ -27,6 +27,7 @@ public class tc022 {
 		tg.openBrowser();
 		tg.wait(1);
 		tg.type("ele_username603", "Vault_HashiCorp_gjk@@secret/data/govind");
+		tg.wait(5);
 		tg.close();
 	}
 }
