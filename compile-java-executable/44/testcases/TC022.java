@@ -28,6 +28,7 @@ public class tc022 {
 		tg.wait(1);
 		tg.type("ele_username603", "Vault_HashiCorp_gjk@@secret/data/govind");
 		tg.wait(5);
+		tg.type("ele_username603", "Authenticator_Govind_GitHub@@28");
 		tg.close();
 	}
 }
