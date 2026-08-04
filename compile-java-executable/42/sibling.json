@@ -370,7 +370,7 @@
                     "d_w": 600,
                     "d_x": 652,
                     "d_y": 649,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 },
                 {
                     "locators": "Xpath",
@@ -380,7 +380,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 649.5625,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 },
                 {
                     "locators": "id",
@@ -390,7 +390,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 649.5625,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 },
                 {
                     "locators": "CSS selector",
@@ -400,7 +400,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 649.5625,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 },
                 {
                     "locators": "CSS selector",
@@ -410,7 +410,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 649.5625,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 },
                 {
                     "locators": "Xpath",
@@ -420,7 +420,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 649.5625,
-                    "suggest_name": "password534"
+                    "suggest_name": "ele_password534"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -454,7 +454,7 @@
                     "d_w": 128,
                     "d_x": 652,
                     "d_y": 727,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "Xpath",
@@ -464,7 +464,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "id",
@@ -474,7 +474,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "CSS selector",
@@ -484,7 +484,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "CSS selector",
@@ -494,7 +494,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "Xpath",
@@ -504,7 +504,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 },
                 {
                     "locators": "class",
@@ -514,7 +514,7 @@
                     "d_w": 128,
                     "d_x": 652.5,
                     "d_y": 727.5625,
-                    "suggest_name": "submit524"
+                    "suggest_name": "ele_submit524"
                 }
             ],
             "iframe_and_shadow_root_data": [],
