@@ -780,7 +780,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "17",
+            "version_id": "27",
+            "capabilities_keyname": "One",
+            "capabilities_keyvalue": "1"
+        }
+    ],
     "abo_import_statement": [
         {
             "import_statement_id": "98",
@@ -789,7 +796,7 @@
             "version_id": "27",
             "import_statement": "import conio.io.lib; edit; ",
             "created": "2026-08-04 16:33:29",
-            "updated": "2026-08-04 16:35:39"
+            "updated": "2026-08-04 16:44:06"
         },
         {
             "import_statement_id": "99",
