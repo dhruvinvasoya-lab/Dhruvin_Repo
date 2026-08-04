@@ -28,7 +28,7 @@
                     "d_w": 600,
                     "d_x": 652,
                     "d_y": 542,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 },
                 {
                     "locators": "Xpath",
@@ -38,7 +38,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 },
                 {
                     "locators": "id",
@@ -48,7 +48,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 },
                 {
                     "locators": "CSS selector",
@@ -58,7 +58,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 },
                 {
                     "locators": "CSS selector",
@@ -68,7 +68,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 },
                 {
                     "locators": "Xpath",
@@ -78,7 +78,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username603"
+                    "suggest_name": "ele_username603"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -114,7 +114,7 @@
                     "d_w": 600,
                     "d_x": 652,
                     "d_y": 542,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 },
                 {
                     "locators": "Xpath",
@@ -124,7 +124,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 },
                 {
                     "locators": "id",
@@ -134,7 +134,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 },
                 {
                     "locators": "CSS selector",
@@ -144,7 +144,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 },
                 {
                     "locators": "CSS selector",
@@ -154,7 +154,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 },
                 {
                     "locators": "Xpath",
@@ -164,7 +164,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "username670"
+                    "suggest_name": "ele_username670"
                 }
             ],
             "iframe_and_shadow_root_data": [],
