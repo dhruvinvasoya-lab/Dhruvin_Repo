@@ -24,5 +24,6 @@ class tc08main {
 	public static void tc08main() {
 		tg.wait(5);
 		tg.type("ele_password417", "Vault_HashiCorp_username@@secret/data/testgrid");
+		tg.click("ele_submit524", 1);
 	}
 }

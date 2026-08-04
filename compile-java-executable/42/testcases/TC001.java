@@ -26,8 +26,11 @@ public class tc001 {
 	public void tc001() {
 		tg.openBrowser();
 				tg.wait(2);
-				tg.type("ele_username603", "Vault_HashiCorp_password@@secret/data/testgrid");
-				tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/login");
+				tg.type("ele_username603", var_ra_DarshakAuthVar);
+				tg.typeEncrypted("ele_password417", var_ra_AutheticatorVarTest);
+				tg.takeFullScreenshot();
+				tg.type("ele_username603", "Vault_HashiCorp_username@@secret/data/govind");
+				tg.takeFullScreenshot();
 		tg.close();
 	}
 }
