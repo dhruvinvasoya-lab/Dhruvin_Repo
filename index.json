@@ -787,9 +787,18 @@
             "user_id": "6",
             "app_id": "21",
             "version_id": "27",
-            "import_statement": "import conio.io.lib; ",
+            "import_statement": "import conio.io.lib; edit; ",
             "created": "2026-08-04 16:33:29",
-            "updated": "2026-08-04 16:33:29"
+            "updated": "2026-08-04 16:35:39"
+        },
+        {
+            "import_statement_id": "99",
+            "user_id": "6",
+            "app_id": "21",
+            "version_id": "27",
+            "import_statement": "import statement check; ",
+            "created": "2026-08-04 16:35:39",
+            "updated": "2026-08-04 16:35:39"
         }
     ],
     "abo_maven_dependency": [],
@@ -814,10 +823,10 @@
             "version_id": "27",
             "variable_type": "String",
             "variable_name": "Kaushik",
-            "variable_value": "KB Name",
+            "variable_value": "KB Name1",
             "gv_category": "global",
             "created": "2026-08-04 16:14:21",
-            "updated": "2026-08-04 16:14:21"
+            "updated": "2026-08-04 16:35:39"
         },
         {
             "variable_id": "701",
@@ -841,7 +850,7 @@
             "variable_value": "Authenticator_Gooogle@@25",
             "gv_category": "runtime",
             "created": "2026-08-04 16:26:00",
-            "updated": "2026-08-04 16:26:00"
+            "updated": "2026-08-04 16:35:39"
         },
         {
             "variable_id": "703",
