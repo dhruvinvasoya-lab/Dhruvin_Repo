@@ -786,6 +786,12 @@
             "version_id": "27",
             "capabilities_keyname": "One",
             "capabilities_keyvalue": "1"
+        },
+        {
+            "capabilities_id": "18",
+            "version_id": "27",
+            "capabilities_keyname": "Two",
+            "capabilities_keyvalue": "2"
         }
     ],
     "abo_import_statement": [
@@ -805,7 +811,7 @@
             "version_id": "27",
             "import_statement": "import statement check; ",
             "created": "2026-08-04 16:35:39",
-            "updated": "2026-08-04 16:35:39"
+            "updated": "2026-08-04 16:44:25"
         }
     ],
     "abo_maven_dependency": [],
