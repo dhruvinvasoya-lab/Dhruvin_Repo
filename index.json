@@ -57,11 +57,11 @@
             "cm_resource_pages": "39",
             "cm_default_resource": "",
             "cm_test_function": "57,58,59,60,167,168,169",
-            "cm_test_case": "173,174,175,176,177,178,222,223,224,225,226,227,228",
+            "cm_test_case": "173,174,175,176,177,178,222,223,224,225,226,227,228,1062",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-04 16:59:14",
+            "view_updated_date_time": "2026-08-04 17:47:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -412,6 +412,31 @@
                         "secret/data/testgrid",
                         "secret/data/govind"
                     ]
+                },
+                {
+                    "tc_id": "1062",
+                    "version_module_id": "42",
+                    "tc_name": "MohitTC",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "407",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "7",
+                    "updated_at": "2026-08-04 17:02:28",
+                    "created_at": "2026-08-04 17:02:28",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/mohittc.java",
+                    "vault_paths": [
+                        "secret/data/testgrid"
+                    ]
                 }
             ],
             "abo_version_proc": [
@@ -597,11 +622,11 @@
                             "version_page_id": "39",
                             "page_name": "TestLoginPracticeTestAutomation",
                             "version_module_id": "42",
-                            "element_name": "ele_username670",
+                            "element_name": "ele_username670d",
                             "element_display_name": "text_Input_Username",
                             "element_image_url": "http://192.168.88.118/s/ele-imgs/42/240.png",
                             "element_path_rid": "//input[@id='username']",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input[@id='username']\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/div[@id='form']\\/div\\/input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"id\",\"locators_val\":\"usernameTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#username\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#usernameTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670\"}]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input[@id='username']\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/div[@id='form']\\/div\\/input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"id\",\"locators_val\":\"usernameTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#username\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#usernameTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"ele_username670d\"}]",
                             "correct_autoheal_data": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='username']\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='form']/div/input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"id\",\"locators_val\":\"usernameTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#username\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#usernameTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"locator_id\":\"3\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":48,\"d_w\":600,\"d_x\":652.5,\"d_y\":542.5625,\"suggest_name\":\"username670\"}]",
                             "shadow_data": "",
                             "sibling_selector": "{\"previous_sibling\":{\"tag\":\"label\",\"tg_attributes\":{\"for\":\"username\"}},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"type\":\"text\",\"name\":\"username\",\"id\":\"username\",\"value\":\"test\"}}}",
@@ -794,26 +819,7 @@
             "capabilities_keyvalue": "2"
         }
     ],
-    "abo_import_statement": [
-        {
-            "import_statement_id": "98",
-            "user_id": "6",
-            "app_id": "21",
-            "version_id": "27",
-            "import_statement": "import conio.io.lib; edit; ",
-            "created": "2026-08-04 16:33:29",
-            "updated": "2026-08-04 16:44:06"
-        },
-        {
-            "import_statement_id": "99",
-            "user_id": "6",
-            "app_id": "21",
-            "version_id": "27",
-            "import_statement": "import statement check; ",
-            "created": "2026-08-04 16:35:39",
-            "updated": "2026-08-04 16:44:25"
-        }
-    ],
+    "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
@@ -839,7 +845,7 @@
             "variable_value": "KB Name1",
             "gv_category": "global",
             "created": "2026-08-04 16:14:21",
-            "updated": "2026-08-04 16:35:39"
+            "updated": "2026-08-04 17:49:05"
         },
         {
             "variable_id": "701",
@@ -876,6 +882,18 @@
             "gv_category": "runtime",
             "created": "2026-08-04 16:26:00",
             "updated": "2026-08-04 16:26:00"
+        },
+        {
+            "variable_id": "704",
+            "user_id": "6",
+            "app_id": "21",
+            "version_id": "27",
+            "variable_type": "String",
+            "variable_name": "Mohit",
+            "variable_value": "Mohit",
+            "gv_category": "global",
+            "created": "2026-08-04 17:49:05",
+            "updated": "2026-08-04 17:49:05"
         }
     ],
     "ab_scheduler": [],

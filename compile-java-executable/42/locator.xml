@@ -9,7 +9,7 @@
     <element type="xpath">//input</element>
     <element type="image">http://192.168.88.118/s/ele-imgs/42/239.png</element>
   </locator>
-  <locator name="ele_username670">
+  <locator name="ele_username670d">
     <element type="xpath">//input[@id='username']</element>
     <element type="xpath">//div[@id='form']/div/input</element>
     <element type="id">usernameTGWEBCOMMA1</element>

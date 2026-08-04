@@ -86,7 +86,7 @@
             "image_url": "http://192.168.88.118/s/ele-imgs/42/239.png"
         },
         {
-            "testcase_element": "ele_username670",
+            "testcase_element": "ele_username670d",
             "tg_text": "",
             "sibling_selector": {
                 "previous_sibling": {
@@ -114,7 +114,7 @@
                     "d_w": 600,
                     "d_x": 652,
                     "d_y": 542,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 },
                 {
                     "locators": "Xpath",
@@ -124,7 +124,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 },
                 {
                     "locators": "id",
@@ -134,7 +134,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 },
                 {
                     "locators": "CSS selector",
@@ -144,7 +144,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 },
                 {
                     "locators": "CSS selector",
@@ -154,7 +154,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 },
                 {
                     "locators": "Xpath",
@@ -164,7 +164,7 @@
                     "d_w": 600,
                     "d_x": 652.5,
                     "d_y": 542.5625,
-                    "suggest_name": "ele_username670"
+                    "suggest_name": "ele_username670d"
                 }
             ],
             "iframe_and_shadow_root_data": [],
