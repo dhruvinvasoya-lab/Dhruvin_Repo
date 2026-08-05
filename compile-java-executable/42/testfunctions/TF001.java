@@ -1,3 +1,4 @@
+dsfdsaf;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -22,7 +23,7 @@ import org.testng.annotations.Test;
 class tf001 {
 
 	public static void tf001() {
-		tg.wait(2);
+		tg.wait(3);
 		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/govind");
 	}
 }

@@ -1,3 +1,4 @@
+dsfdsaf;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -19,14 +20,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc09 {
+class tccheckdone {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc09() {
-		tg.openBrowser();
-		tg.wait(3);
-		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
-		tg.close();
+	public static void tccheckdone() {
+		tg.wait(2);
 	}
 }

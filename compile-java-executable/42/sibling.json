@@ -520,6 +520,26 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.88.118/s/ele-imgs/42/244.png"
+        },
+        {
+            "testcase_element": "ele_asdfdsafasd",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "dsafTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 514,
+                    "d_w": 1181,
+                    "d_x": 415,
+                    "d_y": 284,
+                    "suggest_name": "asdfdsafasd"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.118/s/ele-imgs/42/10837.png"
         }
     ]
 }

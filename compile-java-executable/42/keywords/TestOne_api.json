@@ -7,7 +7,7 @@
     "params": [],
     "p_static": [],
     "key_path": "0.id",
-    "resp_type": "json",
     "key_type": "integer",
+    "resp_type": "json",
     "timeout": 30
 }

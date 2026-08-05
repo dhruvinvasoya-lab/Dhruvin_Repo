@@ -55,4 +55,8 @@
     <element type="class">btnTGWEBCOMMA1</element>
     <element type="image">http://192.168.88.118/s/ele-imgs/42/244.png</element>
   </locator>
+  <locator name="ele_asdfdsafasd">
+    <element type="css">dsafTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.118/s/ele-imgs/42/10837.png</element>
+  </locator>
 </locators>

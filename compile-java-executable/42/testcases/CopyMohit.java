@@ -21,13 +21,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc05 {
+public class copymohit {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc05() {
+	public void copymohit() {
 		tg.openBrowser();
-		tg.wait(3);
-		tg.typeEncrypted("ele_password527", "Vault_HashiCorp_password@@secret/data/govind");
+		tg.wait(2);
 		tg.close();
 	}
 }

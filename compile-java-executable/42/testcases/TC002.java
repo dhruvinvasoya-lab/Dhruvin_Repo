@@ -1,3 +1,4 @@
+dsfdsaf;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -26,8 +27,9 @@ public class tc002 {
 	public void tc002() {
 		tg.openBrowser();
 		tg.wait(2);
-		tg.type("ele_username603", "Vault_HashiCorp_username@@secret/data/login");
-		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
+		tg.type("ele_username603", var_ra_AuthenticatorGoogle);
+		tg.typeEncrypted("ele_password417", var_ra_AutheticatorVarTest);
+		tg.takeFullScreenshot();
 		tg.close();
 	}
 }

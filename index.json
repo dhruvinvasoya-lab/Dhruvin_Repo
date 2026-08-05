@@ -29,7 +29,7 @@
         "user_id": "6",
         "os_type": "0",
         "platform": "3",
-        "nob": "78",
+        "nob": "83",
         "cm_version_id": "1,27,28,29,50,75,76,77",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -56,12 +56,12 @@
             "count_resource": "0",
             "cm_resource_pages": "39",
             "cm_default_resource": "",
-            "cm_test_function": "57,58,59,60,167,168,169",
-            "cm_test_case": "173,174,175,176,177,178,222,223,224,225,226,227,228,1062",
+            "cm_test_function": "57,58,59,60,167,168,169,1808",
+            "cm_test_case": "173,174,175,176,177,178,222,223,224,225,226,227,228,1062,1063,1064",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-04 17:47:49",
+            "view_updated_date_time": "2026-08-05 15:49:43",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -85,11 +85,29 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-08-04 16:26:00",
+                    "updated_at": "2026-08-05 15:50:15",
                     "created_at": "2026-07-03 12:05:53",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
-                    "iterative_test_case": [],
+                    "iterative_test_case": {
+                        "id": "1",
+                        "user_id": "6",
+                        "tc_id": "173",
+                        "json_url": "",
+                        "json_keys": "",
+                        "test_case": "[{\"where\":\"\",\"rows\":[{\"key\":\"userId\",\"operator\":\"=\",\"capability\":\"1\",\"where\":\"\"}]}]",
+                        "type": "2",
+                        "api_url": "https://jsonplaceholder.typicode.com/posts",
+                        "api_keys": "userId",
+                        "database_object": "",
+                        "database_keys": "",
+                        "api_selected_key": "__root__",
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
+                    },
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/tc001.java",
                     "vault_paths": [
                         "secret/data/testgrid",
@@ -113,7 +131,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-03 12:43:35",
+                    "updated_at": "2026-08-05 15:50:15",
                     "created_at": "2026-07-03 12:10:24",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -193,13 +211,15 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-03 14:06:08",
+                    "updated_at": "2026-08-05 15:50:15",
                     "created_at": "2026-07-03 14:06:08",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/tc05.java",
-                    "vault_paths": []
+                    "vault_paths": [
+                        "secret/data/testgrid"
+                    ]
                 },
                 {
                     "tc_id": "178",
@@ -276,7 +296,25 @@
                     "created_at": "2026-07-06 10:33:34",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
-                    "iterative_test_case": [],
+                    "iterative_test_case": {
+                        "id": "2",
+                        "user_id": "6",
+                        "tc_id": "223",
+                        "json_url": "",
+                        "json_keys": "",
+                        "test_case": "[{\"where\":\"\",\"rows\":[{\"key\":\"userId\",\"operator\":\"=\",\"capability\":\"1\",\"where\":\"\"}]}]",
+                        "type": "2",
+                        "api_url": "https://jsonplaceholder.typicode.com/posts",
+                        "api_keys": "userId",
+                        "database_object": "",
+                        "database_keys": "",
+                        "api_selected_key": "__root__",
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
+                    },
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/tc07.java",
                     "vault_paths": [
                         "secret/data/testgrid",
@@ -325,7 +363,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-06 13:00:56",
+                    "updated_at": "2026-08-05 15:50:15",
                     "created_at": "2026-07-06 10:59:35",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -437,6 +475,54 @@
                     "vault_paths": [
                         "secret/data/testgrid"
                     ]
+                },
+                {
+                    "tc_id": "1063",
+                    "version_module_id": "42",
+                    "tc_name": "CopyMohit",
+                    "tc_description": "dsafdasf",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "0",
+                    "updated_at": "2026-08-05 15:50:15",
+                    "created_at": "2026-08-04 19:51:57",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/copymohit.java",
+                    "vault_paths": [
+                        "secret/data/testgrid"
+                    ]
+                },
+                {
+                    "tc_id": "1064",
+                    "version_module_id": "42",
+                    "tc_name": "tc00010",
+                    "tc_description": "adsffds",
+                    "tc_website_url": "https://practicetestautomation.com/practice-test-login/",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "0",
+                    "updated_at": "2026-08-05 14:04:43",
+                    "created_at": "2026-08-05 14:04:43",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testcases/tc00010.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -520,7 +606,7 @@
                     "is_compiled": "0",
                     "is_ai_generated": "0",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "0",
+                    "is_draft": "7",
                     "has_parameters": "0",
                     "param_data": "[]",
                     "return_type": null,
@@ -564,6 +650,24 @@
                     "vault_paths": [
                         "secret/data/testgrid",
                         "secret/data/kaushik"
+                    ]
+                },
+                {
+                    "proc_id": "1808",
+                    "version_module_id": "42",
+                    "proc_name": "TCCheckDone",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "0",
+                    "has_parameters": "0",
+                    "param_data": null,
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/21/27/42/testfunctions/tccheckdone.java",
+                    "vault_paths": [
+                        "secret/data/testgrid"
                     ]
                 }
             ],
@@ -791,6 +895,41 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/42/244.png"
+                        },
+                        {
+                            "maps_id": "10837",
+                            "version_page_id": "39",
+                            "page_name": "TestLoginPracticeTestAutomation",
+                            "version_module_id": "42",
+                            "element_name": "ele_asdfdsafasd",
+                            "element_display_name": "Manual Resource",
+                            "element_image_url": "http://192.168.88.118/s/ele-imgs/42/10837.png",
+                            "element_path_rid": "dsafTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "correct_autoheal_data": "",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "9",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "415.73",
+                            "d_y": "284.44",
+                            "d_w": "1181.54",
+                            "d_h": "514.19",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/42/10837.png"
                         }
                     ]
                 },
@@ -819,7 +958,17 @@
             "capabilities_keyvalue": "2"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "100",
+            "user_id": "6",
+            "app_id": "21",
+            "version_id": "27",
+            "import_statement": "dsfdsaf; ",
+            "created": "2026-08-05 15:50:15",
+            "updated": "2026-08-05 15:50:15"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
@@ -894,6 +1043,18 @@
             "gv_category": "global",
             "created": "2026-08-04 17:49:05",
             "updated": "2026-08-04 17:49:05"
+        },
+        {
+            "variable_id": "707",
+            "user_id": "6",
+            "app_id": "21",
+            "version_id": "27",
+            "variable_type": "String",
+            "variable_name": "Mohitd",
+            "variable_value": "adsfdafasf",
+            "gv_category": "global",
+            "created": "2026-08-05 15:50:15",
+            "updated": "2026-08-05 15:50:15"
         }
     ],
     "ab_scheduler": [],

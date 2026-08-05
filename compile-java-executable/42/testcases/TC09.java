@@ -1,3 +1,4 @@
+dsfdsaf;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -25,8 +26,8 @@ public class tc09 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc09() {
 		tg.openBrowser();
-				tg.wait(3);
-				tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
+		tg.wait(3);
+		tg.typeEncrypted("ele_password417", "Vault_HashiCorp_password@@secret/data/testgrid");
 		tg.close();
 	}
 }
