@@ -769,4 +769,8 @@
     <element type="class">controlTGWEBCOMMA2</element>
     <element type="image">http://192.168.4.26/s/ele-imgs/1106/66939.png</element>
   </locator>
+  <locator name="ele_KM123">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
+    <element type="image">http://192.168.4.26/s/ele-imgs/1106/67987.png</element>
+  </locator>
 </locators>
