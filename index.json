@@ -7838,18 +7838,6 @@
             "gv_category": "runtime",
             "created": "2026-07-16 05:40:22",
             "updated": "2026-07-16 05:40:22"
-        },
-        {
-            "variable_id": "684",
-            "user_id": "53",
-            "app_id": "536",
-            "version_id": "830",
-            "variable_type": "int",
-            "variable_name": "G1",
-            "variable_value": "11",
-            "gv_category": "global",
-            "created": "2026-08-17 13:22:17",
-            "updated": "2026-08-17 13:22:17"
         }
     ],
     "ab_scheduler": [],
