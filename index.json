@@ -7751,7 +7751,17 @@
         }
     ],
     "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "143",
+            "user_id": "53",
+            "app_id": "536",
+            "version_id": "830",
+            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
+            "created": "2026-08-17 13:20:48",
+            "updated": "2026-08-17 13:20:48"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
