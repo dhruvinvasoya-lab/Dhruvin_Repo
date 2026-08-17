@@ -7750,7 +7750,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "140",
+            "version_id": "830",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.app.chrome.Main"
+        }
+    ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
