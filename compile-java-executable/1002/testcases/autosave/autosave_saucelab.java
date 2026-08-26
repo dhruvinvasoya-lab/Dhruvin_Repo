@@ -16,13 +16,21 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class callfunc {
+public class saucelab {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void callfunc() {
+	public void saucelab() {
 		tg.openDevice();
-		tg.testFunction("utilityFunc");
 		tg.wait(2);
+		// [DISABLED] tg.pageLoadStart("saucelab");
+		tg.printPageSource();
+		tg.printLogs("==========================================================================================================================================================");
+		tg.testFunction("date_utility", new Object[]{});
+		tg_String var_var1 = "null";
+				var_var1 = tg.readFromAPI("request1_api.json").getString();
+		tg.printLogs(var_var1);
+		// [DISABLED] tg.writeToCSV("var_var1", var_var1, "");
+		tg.type("ele_ADDTOCARTTextView1781774563741", var_var1, false);
 		tg.close();
 	}
 }

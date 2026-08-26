@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "664",
-    "user_id": "12",
+    "user_id": 0,
     "abo_version": {
         "version_id": "664",
         "app_id": "185",
@@ -10,11 +10,11 @@
         "version_description": "",
         "cm_version_module": "992,996,997,998,1000,1002",
         "platform": "2",
-        "ai_modal_id": "cotester_client_XqrJu8J9eqqxrUQfncE5btLS",
+        "ai_modal_id": "cotester_client_v2_6a362255e3c08191865ef4a9b72ac9f7",
         "script_type": "1",
         "is_master": "1",
         "is_delete": "0",
-        "xray_project_version": null,
+        "xray_project_version": "",
         "restore_id": "0",
         "is_git_enabled": "1",
         "git_restore_id": "0"
@@ -29,12 +29,12 @@
         "user_id": "12",
         "os_type": "0",
         "platform": "2",
-        "nob": "2024",
-        "application_token": "004aac6b127fe1bb912736c136033c3b",
-        "cm_version_id": "1,298,320,347,362,384,391,446,447,449,452,454,456,457,464,468,473,477,482,487,490,500,530,531,536,537,544,553,556,558,560,568,569,570,572,575,576,594,612,618,647,664,668",
-        "is_autoheal": "1",
+        "nob": "4063",
+        "cm_version_id": "1,298,320,347,362,384,391,446,447,449,452,454,456,457,464,468,473,477,482,487,490,500,530,531,536,537,544,553,556,558,560,568,569,570,572,575,576,594,612,618,647,664,668,698,702,718,747,751,773,781,788,799,811,822,826",
+        "is_autoheal": "0",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
+        "is_adaptive_ai": "0",
         "testcase_retries_number": "1",
         "is_ai_autoheal": "0",
         "is_ai_autoheal_autofixed": "0",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 09:03:49",
+            "view_updated_date_time": null,
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -84,6 +84,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 05:37:57",
                     "created_at": "2026-06-20 05:22:37",
@@ -102,9 +104,14 @@
                         "database_object": null,
                         "database_keys": null,
                         "api_selected_key": null,
-                        "is_using_proxy": "0"
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testcases/sec1tc1.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testcases/sec1tc1.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "16151",
@@ -120,13 +127,16 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 06:44:51",
                     "created_at": "2026-06-20 06:40:27",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testcases/callfuncss.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testcases/callfuncss.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -138,72 +148,20 @@
                     "cm_step_list": "",
                     "is_compiled": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testfunctions/convertfunc.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/992/testfunctions/convertfunc.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7061",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7067",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "7068",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "7069",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "edit_element"
-                },
-                {
-                    "id": "7071",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "7106",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "992",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -465,8 +423,8 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 09:06:40",
-            "is_updated": "1",
+            "view_updated_date_time": null,
+            "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
             "is_running": "0",
@@ -488,6 +446,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 09:06:40",
                     "created_at": "2026-06-20 05:39:34",
@@ -506,70 +466,20 @@
                         "database_object": null,
                         "database_keys": null,
                         "api_selected_key": "records",
-                        "is_using_proxy": "0"
+                        "is_using_proxy": "0",
+                        "tdp_api_id": "15",
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/996/testcases/sec2tc1.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/996/testcases/sec2tc1.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7080",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7081",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "7082",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "7083",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "7084",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "edit_element"
-                },
-                {
-                    "id": "7105",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "996",
-                    "description": "",
-                    "action_process": "delete_element"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -889,7 +799,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 09:04:40",
+            "view_updated_date_time": null,
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -912,6 +822,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 06:08:53",
                     "created_at": "2026-06-20 05:57:25",
@@ -930,52 +842,20 @@
                         "database_object": null,
                         "database_keys": null,
                         "api_selected_key": null,
-                        "is_using_proxy": "0"
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/997/testcases/sec3tc1.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/997/testcases/sec3tc1.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7087",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "997",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7088",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "997",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "7089",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "997",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "7090",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "997",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1213,7 +1093,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 07:32:08",
+            "view_updated_date_time": null,
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -1236,6 +1116,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 06:31:50",
                     "created_at": "2026-06-20 06:12:12",
@@ -1254,52 +1136,20 @@
                         "database_object": null,
                         "database_keys": null,
                         "api_selected_key": null,
-                        "is_using_proxy": "0"
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/998/testcases/sec42tc1.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/998/testcases/sec42tc1.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7093",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "998",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7094",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "998",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "7097",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "998",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "7098",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "998",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1439,41 +1289,19 @@
             "cm_resource_pages": "",
             "cm_default_resource": "240200,240201,240202",
             "cm_test_function": "34335,34336,34337",
-            "cm_test_case": "16146,16147,16148,16149",
+            "cm_test_case": "16147,16148,16149",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 07:32:04",
+            "view_updated_date_time": "2026-08-26 13:12:35",
             "is_updated": "0",
             "is_complie": "1",
-            "server_ids": null,
+            "server_ids": "2,2,2,2,2,2,2,2,2,2,6,6,2,2,2,2,2,2,2",
             "is_running": "0",
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
-            "qtest_skip_exec_sync": "0",
+            "qtest_skip_exec_sync": "1",
             "abo_vm_test_case": [
-                {
-                    "tc_id": "16146",
-                    "version_module_id": "1000",
-                    "tc_name": "CallFunc",
-                    "tc_description": "",
-                    "tc_website_url": "",
-                    "it_json": "",
-                    "cm_step_list": "",
-                    "is_compiled": "1",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "is_draft": "0",
-                    "updated_at": "2026-06-20 06:34:33",
-                    "created_at": "2026-06-20 06:34:33",
-                    "qtest_skip_sync": "1",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/callfunc.java"
-                },
                 {
                     "tc_id": "16147",
                     "version_module_id": "1000",
@@ -1488,13 +1316,16 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 06:34:59",
                     "created_at": "2026-06-20 06:34:33",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/utitilitystringcopy.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/utitilitystringcopy.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "16148",
@@ -1510,21 +1341,16 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
                     "updated_at": "2026-06-20 06:34:33",
                     "created_at": "2026-06-20 06:34:33",
                     "qtest_skip_sync": "1",
-                    "test_case_tags": [
-                        {
-                            "id": "18194",
-                            "version_module_id": "1000",
-                            "name": "app",
-                            "tc_id": "16148",
-                            "user_id": "12"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/appactivate.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/appactivate.java",
+                    "vault_paths": []
                 },
                 {
                     "tc_id": "16149",
@@ -1540,13 +1366,18 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "229",
                     "updated_at": "2026-06-20 06:36:35",
                     "created_at": "2026-06-20 06:34:33",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/dateutilitykeywords.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testcases/dateutilitykeywords.java",
+                    "vault_paths": [
+                        "tmobile/APM0103858/shared/accounts/resource/"
+                    ]
                 }
             ],
             "abo_version_proc": [
@@ -1558,12 +1389,15 @@
                     "cm_step_list": "",
                     "is_compiled": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/utilityfunc.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/utilityfunc.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "34336",
@@ -1573,12 +1407,15 @@
                     "cm_step_list": "",
                     "is_compiled": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/copy2.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/copy2.java",
+                    "vault_paths": []
                 },
                 {
                     "proc_id": "34337",
@@ -1588,36 +1425,20 @@
                     "cm_step_list": "",
                     "is_compiled": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/funccall.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1000/testfunctions/funccall.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7103",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1000",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7104",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1000",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1750,14 +1571,14 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-20 08:46:50",
-            "is_updated": "1",
+            "view_updated_date_time": "2026-08-26 12:19:33",
+            "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
             "is_running": "0",
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
-            "qtest_skip_exec_sync": "0",
+            "qtest_skip_exec_sync": "1",
             "abo_vm_test_case": [
                 {
                     "tc_id": "16161",
@@ -1773,10 +1594,12 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-06-20 07:50:35",
+                    "updated_at": "2026-07-22 06:30:44",
                     "created_at": "2026-06-20 07:11:37",
-                    "qtest_skip_sync": "1",
+                    "qtest_skip_sync": "0",
                     "test_case_tags": [],
                     "iterative_test_case": {
                         "id": "393",
@@ -1791,9 +1614,16 @@
                         "database_object": "",
                         "database_keys": "",
                         "api_selected_key": null,
-                        "is_using_proxy": "0"
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1002/testcases/saucelab.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1002/testcases/saucelab.java",
+                    "vault_paths": [
+                        "tmobile/APM0103858/shared/accounts/resource/"
+                    ]
                 }
             ],
             "abo_version_proc": [
@@ -1805,54 +1635,20 @@
                     "cm_step_list": "",
                     "is_compiled": "0",
                     "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1002/testfunctions/date_utility.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/185/664/1002/testfunctions/date_utility.java",
+                    "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "7109",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1002",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "7110",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1002",
-                    "description": "",
-                    "action_process": "add_element"
-                },
-                {
-                    "id": "7111",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1002",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "7112",
-                    "user_id": "12",
-                    "app_id": "185",
-                    "version_id": "664",
-                    "version_module_id": "1002",
-                    "description": "",
-                    "action_process": "delete_element"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {

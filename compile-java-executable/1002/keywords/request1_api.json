@@ -1,0 +1,19 @@
+{
+    "url": "https://tmobile.testgrid.io/api/get-config",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": [],
+    "h_static": [],
+    "params": {
+        "user_token": "wgi3lbv4px7zbnp6lje6ev68b2kujgtu",
+        "key": "user"
+    },
+    "p_static": {
+        "user_token": "",
+        "key": ""
+    },
+    "key_path": "value",
+    "key_type": "string",
+    "resp_type": "json",
+    "timeout": 30
+}
