@@ -59,6 +59,30 @@ public class dateutilitykeywords {
 		var_ans1 = tg.performCalculations("{MATH[~"+var_one+"]}").toString();
 		var_ans1 = tg.performCalculations("{MATH["+var_one+" << "+var_two+"]}").toString();
 		var_ans1 = tg.performCalculations("{MATH["+var_one+" >> "+var_two+"]}").toString();
+		tg.wait(5);
+		tg.wait(1);
+		tg.wait(2);
+		tg.wait(3);
+		tg.wait(4);
+		tg.wait(5);
+		tg.wait(6);
+		tg.wait(7);
+		tg.wait(8);
+		tg.wait(9);
+		tg.wait(10);
+		tg.wait(11);
+		tg.wait(12);
+		tg.wait(13);
+		tg.wait(14);
+		tg.wait(15);
+		tg.wait(16);
+		tg.wait(17);
+		tg.wait(18);
+		tg.wait(19);
+		tg.wait(20);
+		tg.wait(21);
+		tg.wait(22);
+		tg.wait(23);
 		tg.close();
 	}
 }
