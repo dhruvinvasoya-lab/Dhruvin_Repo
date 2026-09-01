@@ -1859,7 +1859,7 @@
                     "d_w": 69,
                     "d_x": 1006,
                     "d_y": 68,
-                    "suggest_name": "Home"
+                    "suggest_name": "ele_Home"
                 },
                 {
                     "d_h": 38,
@@ -1868,7 +1868,7 @@
                     "d_y": 68.015625,
                     "locators": "Xpath",
                     "locators_val": "//button[normalize-space()='Home']",
-                    "suggest_name": "Home"
+                    "suggest_name": "ele_Home"
                 },
                 {
                     "d_h": 38,
@@ -1877,7 +1877,7 @@
                     "d_y": 68.015625,
                     "locators": "Xpath",
                     "locators_val": "//html[1]/body[1]/header[1]/div[1]/a[1]/button[1]",
-                    "suggest_name": "Home"
+                    "suggest_name": "ele_Home"
                 },
                 {
                     "d_h": 38,
@@ -1886,7 +1886,7 @@
                     "d_y": 68.015625,
                     "locators": "class",
                     "locators_val": "btn btn-primaryTGWEBCOMMA1",
-                    "suggest_name": "Home"
+                    "suggest_name": "ele_Home"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -4304,6 +4304,3253 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.4.21/s/ele-imgs/71/681.png"
+        },
+        {
+            "testcase_element": "ele_firstname83054307304811",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "nav-search-field "
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "twotabsearchtextbox",
+                        "style": "display: none;"
+                    },
+                    "tg_text": "Search Amazon.in"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "twotabsearchtextbox",
+                        "value": "",
+                        "name": "field-keywords",
+                        "autocomplete": "off",
+                        "placeholder": "Search Amazon.in",
+                        "class": "nav-input nav-progressive-attribute",
+                        "dir": "auto",
+                        "tabindex": "0",
+                        "aria-label": "Search Amazon.in",
+                        "role": "searchbox",
+                        "aria-autocomplete": "list",
+                        "aria-controls": "sac-autocomplete-results-container",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "grid",
+                        "spellcheck": "false"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='twotabsearchtextbox']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='nav-search-bar-form']/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "twotabsearchtextboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#twotabsearchtextbox",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#twotabsearchtextboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attributeTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz641"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1084.png"
+        },
+        {
+            "testcase_element": "ele_lastname83054307304811",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "nav-search-field "
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "twotabsearchtextbox",
+                        "style": "display: none;"
+                    },
+                    "tg_text": "Search Amazon.in"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "twotabsearchtextbox",
+                        "value": "",
+                        "name": "field-keywords",
+                        "autocomplete": "off",
+                        "placeholder": "Search Amazon.in",
+                        "class": "nav-input nav-progressive-attribute",
+                        "dir": "auto",
+                        "tabindex": "0",
+                        "aria-label": "Search Amazon.in",
+                        "role": "searchbox",
+                        "aria-autocomplete": "list",
+                        "aria-controls": "sac-autocomplete-results-container",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "grid",
+                        "spellcheck": "false"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='twotabsearchtextbox']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='nav-search-bar-form']/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "twotabsearchtextboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#twotabsearchtextbox",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#twotabsearchtextboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attributeTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz161"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1085.png"
+        },
+        {
+            "testcase_element": "ele_email83054307304811",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "nav-search-field "
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "twotabsearchtextbox",
+                        "style": "display: none;"
+                    },
+                    "tg_text": "Search Amazon.in"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "twotabsearchtextbox",
+                        "value": "",
+                        "name": "field-keywords",
+                        "autocomplete": "off",
+                        "placeholder": "Search Amazon.in",
+                        "class": "nav-input nav-progressive-attribute",
+                        "dir": "auto",
+                        "tabindex": "0",
+                        "aria-label": "Search Amazon.in",
+                        "role": "searchbox",
+                        "aria-autocomplete": "list",
+                        "aria-controls": "sac-autocomplete-results-container",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "grid",
+                        "spellcheck": "false"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='twotabsearchtextbox']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='nav-search-bar-form']/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "twotabsearchtextboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#twotabsearchtextbox",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#twotabsearchtextboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attributeTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz537"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1086.png"
+        },
+        {
+            "testcase_element": "ele_phone83054307304811",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "nav-search-field "
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "for": "twotabsearchtextbox",
+                        "style": "display: none;"
+                    },
+                    "tg_text": "Search Amazon.in"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "twotabsearchtextbox",
+                        "value": "",
+                        "name": "field-keywords",
+                        "autocomplete": "off",
+                        "placeholder": "Search Amazon.in",
+                        "class": "nav-input nav-progressive-attribute",
+                        "dir": "auto",
+                        "tabindex": "0",
+                        "aria-label": "Search Amazon.in",
+                        "role": "searchbox",
+                        "aria-autocomplete": "list",
+                        "aria-controls": "sac-autocomplete-results-container",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "grid",
+                        "spellcheck": "false"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='twotabsearchtextbox']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='nav-search-bar-form']/div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "twotabsearchtextboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#twotabsearchtextbox",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#twotabsearchtextboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-input nav-progressive-attributeTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 999,
+                    "d_x": 428.765625,
+                    "d_y": 11,
+                    "suggest_name": "searchamaz310"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1087.png"
+        },
+        {
+            "testcase_element": "ele_FirstName59054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "FirstName",
+                        "required": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname955"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname955"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname955"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname955"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname955"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname955"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1088.png"
+        },
+        {
+            "testcase_element": "ele_LastName60054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname799"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname799"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[placeholder='Last Name']",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname799"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname799"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname799"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname799"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1089.png"
+        },
+        {
+            "testcase_element": "ele_Emailaddress63054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4",
+                        "id": "eid"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "email",
+                        "class": "form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-required",
+                        "ng-model": "EmailAdress",
+                        "required": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='email']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 362,
+                    "suggest_name": "emailemail636"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='eid']/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail636"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail636"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#eid > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail636"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div[3]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail636"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 362.59375,
+                    "suggest_name": "emailemail636"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1090.png"
+        },
+        {
+            "testcase_element": "ele_Phone66054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "tel",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-pattern",
+                        "ng-model": "Phone",
+                        "required": "",
+                        "pattern": "^\\d{10}$"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@type='tel']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 411,
+                    "suggest_name": "telphoned247"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[4]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned247"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required.ng-valid-pattern",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned247"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(4) > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned247"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned247"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-patternTGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 411.59375,
+                    "suggest_name": "telphoned247"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1091.png"
+        },
+        {
+            "testcase_element": "ele_Male69054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "radio",
+                        "name": "radiooptions",
+                        "ng-model": "radiovalue",
+                        "value": "Male",
+                        "required": "",
+                        "class": "ng-pristine ng-untouched ng-invalid ng-invalid-required"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[normalize-space()='Male']//input[@name='radiooptions']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745,
+                    "d_y": 464,
+                    "suggest_name": "radioradio350"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[5]/div/label/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio350"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"radiooptions\"]",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio350"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(5) > div > label > inputTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio350"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//label/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio350"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7",
+                    "locator_id": "6",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 745.59375,
+                    "d_y": 464.59375,
+                    "suggest_name": "radioradio350"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1092.png"
+        },
+        {
+            "testcase_element": "ele_Cricket73054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "checks",
+                        "style": "text-align: right"
+                    },
+                    "tg_text": "Cricket"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "checkbox",
+                        "id": "checkbox1",
+                        "value": "Cricket"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='checkbox1']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773,
+                    "d_y": 506,
+                    "suggest_name": "checkbox940"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[6]/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773.03125,
+                    "d_y": 506.59375,
+                    "suggest_name": "checkbox940"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "checkbox1TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773.03125,
+                    "d_y": 506.59375,
+                    "suggest_name": "checkbox940"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#checkbox1",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773.03125,
+                    "d_y": 506.59375,
+                    "suggest_name": "checkbox940"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#checkbox1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773.03125,
+                    "d_y": 506.59375,
+                    "suggest_name": "checkbox940"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 773.03125,
+                    "d_y": 506.59375,
+                    "suggest_name": "checkbox940"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1093.png"
+        },
+        {
+            "testcase_element": "ele_Englishlanguagelink87054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "list-select": "",
+                        "class": "ng-scope"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "style": "text-decoration:none",
+                        "class": "ui-corner-all"
+                    },
+                    "tg_text": "English"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'English')]",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[7]/div/multi-select/div[2]/ul/li[8]/a",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > section:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > form:nth-child(1) > div:nth-child(7) > div:nth-child(2) > multi-select:nth-child(1) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(8) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(7) > div > multi-select > div:nth-of-type(2) > ul > li:nth-of-type(8) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "EngliTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "EnglishTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//multi-select/div[2]/ul/li[8]/a",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ui-corner-allTGWEBCOMMA9",
+                    "locator_id": "6",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "english709"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1094.png"
+        },
+        {
+            "testcase_element": "ele_Hindilanguagelink95054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "list-select": "",
+                        "class": "ng-scope"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "style": "text-decoration:none",
+                        "class": "ui-corner-all"
+                    },
+                    "tg_text": "Hindi"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Hindi')]",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[7]/div/multi-select/div[2]/ul/li[16]/a",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > section:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > form:nth-child(1) > div:nth-child(7) > div:nth-child(2) > multi-select:nth-child(1) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(16) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(7) > div > multi-select > div:nth-of-type(2) > ul > li:nth-of-type(16) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "HindiTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[16]/a",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ui-corner-allTGWEBCOMMA17",
+                    "locator_id": "6",
+                    "d_h": 30,
+                    "d_w": 165,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hindi183"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1095.png"
+        },
+        {
+            "testcase_element": "ele_Skills200054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "id": "countries",
+                        "required": "",
+                        "ng-model": "country",
+                        "ng-init": "country=''"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Select Country"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='countries']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 671,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[9]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "countriesTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#countries",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#countriesTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[9]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun268"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1096.png"
+        },
+        {
+            "testcase_element": "ele_Country200054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "id": "countries",
+                        "required": "",
+                        "ng-model": "country",
+                        "ng-init": "country=''"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Select Country"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='countries']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 671,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[9]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "countriesTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#countries",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#countriesTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[9]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 671.59375,
+                    "suggest_name": "selectcoun397"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1097.png"
+        },
+        {
+            "testcase_element": "ele_Year216054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Year",
+                        "id": "yearbox",
+                        "ng-model": "yearbox",
+                        "ng-init": "yearbox=''",
+                        "required": ""
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "year"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1916"
+                        },
+                        "tg_text": "1916"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1917"
+                        },
+                        "tg_text": "1917"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1918"
+                        },
+                        "tg_text": "1918"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1919"
+                        },
+                        "tg_text": "1919"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1920"
+                        },
+                        "tg_text": "1920"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1921"
+                        },
+                        "tg_text": "1921"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1922"
+                        },
+                        "tg_text": "1922"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1923"
+                        },
+                        "tg_text": "1923"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1924"
+                        },
+                        "tg_text": "1924"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1925"
+                        },
+                        "tg_text": "1925"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1926"
+                        },
+                        "tg_text": "1926"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1927"
+                        },
+                        "tg_text": "1927"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1928"
+                        },
+                        "tg_text": "1928"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1929"
+                        },
+                        "tg_text": "1929"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1930"
+                        },
+                        "tg_text": "1930"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1931"
+                        },
+                        "tg_text": "1931"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1932"
+                        },
+                        "tg_text": "1932"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1933"
+                        },
+                        "tg_text": "1933"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1934"
+                        },
+                        "tg_text": "1934"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1935"
+                        },
+                        "tg_text": "1935"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1936"
+                        },
+                        "tg_text": "1936"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1937"
+                        },
+                        "tg_text": "1937"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1938"
+                        },
+                        "tg_text": "1938"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1939"
+                        },
+                        "tg_text": "1939"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1940"
+                        },
+                        "tg_text": "1940"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1941"
+                        },
+                        "tg_text": "1941"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1942"
+                        },
+                        "tg_text": "1942"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1943"
+                        },
+                        "tg_text": "1943"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1944"
+                        },
+                        "tg_text": "1944"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1945"
+                        },
+                        "tg_text": "1945"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1946"
+                        },
+                        "tg_text": "1946"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1947"
+                        },
+                        "tg_text": "1947"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1948"
+                        },
+                        "tg_text": "1948"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1949"
+                        },
+                        "tg_text": "1949"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1950"
+                        },
+                        "tg_text": "1950"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1951"
+                        },
+                        "tg_text": "1951"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1952"
+                        },
+                        "tg_text": "1952"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1953"
+                        },
+                        "tg_text": "1953"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1954"
+                        },
+                        "tg_text": "1954"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1955"
+                        },
+                        "tg_text": "1955"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1956"
+                        },
+                        "tg_text": "1956"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1957"
+                        },
+                        "tg_text": "1957"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1958"
+                        },
+                        "tg_text": "1958"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1959"
+                        },
+                        "tg_text": "1959"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1960"
+                        },
+                        "tg_text": "1960"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1961"
+                        },
+                        "tg_text": "1961"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1962"
+                        },
+                        "tg_text": "1962"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1963"
+                        },
+                        "tg_text": "1963"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1964"
+                        },
+                        "tg_text": "1964"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1965"
+                        },
+                        "tg_text": "1965"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1966"
+                        },
+                        "tg_text": "1966"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1967"
+                        },
+                        "tg_text": "1967"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1968"
+                        },
+                        "tg_text": "1968"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1969"
+                        },
+                        "tg_text": "1969"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1970"
+                        },
+                        "tg_text": "1970"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1971"
+                        },
+                        "tg_text": "1971"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1972"
+                        },
+                        "tg_text": "1972"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1973"
+                        },
+                        "tg_text": "1973"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1974"
+                        },
+                        "tg_text": "1974"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1975"
+                        },
+                        "tg_text": "1975"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1976"
+                        },
+                        "tg_text": "1976"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1977"
+                        },
+                        "tg_text": "1977"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1978"
+                        },
+                        "tg_text": "1978"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1979"
+                        },
+                        "tg_text": "1979"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1980"
+                        },
+                        "tg_text": "1980"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1981"
+                        },
+                        "tg_text": "1981"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1982"
+                        },
+                        "tg_text": "1982"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1983"
+                        },
+                        "tg_text": "1983"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1984"
+                        },
+                        "tg_text": "1984"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1985"
+                        },
+                        "tg_text": "1985"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1986"
+                        },
+                        "tg_text": "1986"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1987"
+                        },
+                        "tg_text": "1987"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1988"
+                        },
+                        "tg_text": "1988"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1989"
+                        },
+                        "tg_text": "1989"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1990"
+                        },
+                        "tg_text": "1990"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1991"
+                        },
+                        "tg_text": "1991"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1992"
+                        },
+                        "tg_text": "1992"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1993"
+                        },
+                        "tg_text": "1993"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1994"
+                        },
+                        "tg_text": "1994"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1995"
+                        },
+                        "tg_text": "1995"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1996"
+                        },
+                        "tg_text": "1996"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1997"
+                        },
+                        "tg_text": "1997"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1998"
+                        },
+                        "tg_text": "1998"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1999"
+                        },
+                        "tg_text": "1999"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2000"
+                        },
+                        "tg_text": "2000"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2001"
+                        },
+                        "tg_text": "2001"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2002"
+                        },
+                        "tg_text": "2002"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2003"
+                        },
+                        "tg_text": "2003"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2004"
+                        },
+                        "tg_text": "2004"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2005"
+                        },
+                        "tg_text": "2005"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2006"
+                        },
+                        "tg_text": "2006"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2007"
+                        },
+                        "tg_text": "2007"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2008"
+                        },
+                        "tg_text": "2008"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2009"
+                        },
+                        "tg_text": "2009"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2010"
+                        },
+                        "tg_text": "2010"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2011"
+                        },
+                        "tg_text": "2011"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2012"
+                        },
+                        "tg_text": "2012"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2013"
+                        },
+                        "tg_text": "2013"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2014"
+                        },
+                        "tg_text": "2014"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2015"
+                        },
+                        "tg_text": "2015"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='yearbox']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723,
+                    "d_y": 763,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "yearboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#yearbox",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#yearboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[11]/div/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA8",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 723.75,
+                    "d_y": 763.59375,
+                    "suggest_name": "year671"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1098.png"
+        },
+        {
+            "testcase_element": "ele_Month317054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Month",
+                        "ng-model": "monthbox",
+                        "ng-init": "monthbox=''",
+                        "required": ""
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Month"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "January"
+                        },
+                        "tg_text": "January"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "February"
+                        },
+                        "tg_text": "February"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "March"
+                        },
+                        "tg_text": "March"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "April"
+                        },
+                        "tg_text": "April"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "May"
+                        },
+                        "tg_text": "May"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "June"
+                        },
+                        "tg_text": "June"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "July"
+                        },
+                        "tg_text": "July"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "August"
+                        },
+                        "tg_text": "August"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "September"
+                        },
+                        "tg_text": "September"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "October"
+                        },
+                        "tg_text": "October"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "November"
+                        },
+                        "tg_text": "November"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "December"
+                        },
+                        "tg_text": "December"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@placeholder='Month']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763,
+                    "suggest_name": "monthjanua522"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div[2]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua522"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select[placeholder='Month']",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua522"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(11) > div:nth-of-type(2) > selectTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua522"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua522"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA9",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 870,
+                    "d_y": 763.59375,
+                    "suggest_name": "monthjanua522"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1099.png"
+        },
+        {
+            "testcase_element": "ele_Day330054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-3 col-xs-3 col-sm-3"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "select",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "placeholder": "Day",
+                        "id": "daybox",
+                        "ng-model": "daybox",
+                        "ng-init": "daybox=''",
+                        "required": ""
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": ""
+                        },
+                        "tg_text": "Day"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "1"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "2"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "3"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "4"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "5"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "6"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "7"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "8"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "9"
+                        }
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "10"
+                        },
+                        "tg_text": "10"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "11"
+                        },
+                        "tg_text": "11"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "12"
+                        },
+                        "tg_text": "12"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "13"
+                        },
+                        "tg_text": "13"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "14"
+                        },
+                        "tg_text": "14"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "15"
+                        },
+                        "tg_text": "15"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "16"
+                        },
+                        "tg_text": "16"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "17"
+                        },
+                        "tg_text": "17"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "18"
+                        },
+                        "tg_text": "18"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "19"
+                        },
+                        "tg_text": "19"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "20"
+                        },
+                        "tg_text": "20"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "21"
+                        },
+                        "tg_text": "21"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "22"
+                        },
+                        "tg_text": "22"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "23"
+                        },
+                        "tg_text": "23"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "24"
+                        },
+                        "tg_text": "24"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "25"
+                        },
+                        "tg_text": "25"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "26"
+                        },
+                        "tg_text": "26"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "27"
+                        },
+                        "tg_text": "27"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "28"
+                        },
+                        "tg_text": "28"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "29"
+                        },
+                        "tg_text": "29"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "30"
+                        },
+                        "tg_text": "30"
+                    },
+                    {
+                        "tag": "option",
+                        "tg_attributes": {
+                            "value": "31"
+                        },
+                        "tg_text": "31"
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='daybox']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016,
+                    "d_y": 763,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[11]/div[3]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "dayboxTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#daybox",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "select#dayboxTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/select",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA10",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 116,
+                    "d_x": 1016.25,
+                    "d_y": 763.59375,
+                    "suggest_name": "day174"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1100.png"
+        },
+        {
+            "testcase_element": "ele_Password363054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "firstpassword",
+                        "type": "password",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlength",
+                        "ng-model": "Password",
+                        "required": "",
+                        "minlength": "6",
+                        "onblur": "validatepattern(this)"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='firstpassword']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 812,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[12]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "firstpasswordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#firstpassword",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#firstpasswordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[12]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlengthTGWEBCOMMA11",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 812.59375,
+                    "suggest_name": "firstpassw889"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1101.png"
+        },
+        {
+            "testcase_element": "ele_ConfirmPassword365054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "secondpassword",
+                        "type": "password",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "CPassword",
+                        "required": "",
+                        "onblur": "validatepasswords(this)"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='secondpassword']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 861,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[13]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "secondpasswordTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#secondpassword",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#secondpasswordTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[13]/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA12",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 861.59375,
+                    "suggest_name": "secondpass884"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1102.png"
+        },
+        {
+            "testcase_element": "ele_Photofile369054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-xs-6 col-xs-offset-6"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "imagesrc",
+                        "type": "file",
+                        "style": " margin-top: 10px!important; ",
+                        "onchange": "uploadimg()"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='imagesrc']",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357,
+                    "d_y": 397,
+                    "suggest_name": "imagesrc462"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='section']/div/div/div[3]/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357.5,
+                    "d_y": 397.59375,
+                    "suggest_name": "imagesrc462"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "imagesrcTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357.5,
+                    "d_y": 397.59375,
+                    "suggest_name": "imagesrc462"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#imagesrc",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357.5,
+                    "d_y": 397.59375,
+                    "suggest_name": "imagesrc462"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#imagesrcTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357.5,
+                    "d_y": 397.59375,
+                    "suggest_name": "imagesrc462"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 273,
+                    "d_x": 1357.5,
+                    "d_y": 397.59375,
+                    "suggest_name": "imagesrc462"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1103.png"
+        },
+        {
+            "testcase_element": "ele_Submit366054454539812",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-9 col-md-offset-3 com-sm-9 col-sm-offset-3 col-xs-9 col-xs-offset-3 "
+                    }
+                },
+                "next_sibling": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "id": "Button1",
+                        "type": "button",
+                        "class": "btn btn-primary",
+                        "value": "Refresh"
+                    },
+                    "tg_text": "Refresh"
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "id": "submitbtn",
+                        "type": "submit",
+                        "class": "btn btn-primary",
+                        "name": "signup",
+                        "value": "sign up"
+                    },
+                    "tg_text": "Submit"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='submitbtn']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848,
+                    "d_y": 923,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[14]/div/button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "submitbtnTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#submitbtn",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#submitbtnTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[14]/div/button",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-primaryTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 73,
+                    "d_x": 848.09375,
+                    "d_y": 923.59375,
+                    "suggest_name": "submit467"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AutomationDemoSiteheading2055123889487",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8 col-xs-8 col-md-8",
+                        "align": "center"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-sm-8 col-xs-8 col-md-8",
+                        "align": "center"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h1[contains(text(),'Automation Demo Site')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 750,
+                    "d_x": 577,
+                    "d_y": 20,
+                    "suggest_name": "automation736"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//header[@id='header']/div/div/div/div[2]/h1",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 750,
+                    "d_x": 577.5,
+                    "d_y": 20,
+                    "suggest_name": "automation736"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h1",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 750,
+                    "d_x": 577.5,
+                    "d_y": 20,
+                    "suggest_name": "automation736"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "header#header > div > div > div > div:nth-of-type(2) > h1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 750,
+                    "d_x": 577.5,
+                    "d_y": 20,
+                    "suggest_name": "automation736"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h1",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 750,
+                    "d_x": 577.5,
+                    "d_y": 20,
+                    "suggest_name": "automation736"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1105.png"
+        },
+        {
+            "testcase_element": "ele_Registerheading40055123889487",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "container center"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "row "
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "container center"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Register')]",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 382,
+                    "d_y": 179,
+                    "suggest_name": "register489"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='section']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 382.5,
+                    "d_y": 179.59375,
+                    "suggest_name": "register489"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 382.5,
+                    "d_y": 179.59375,
+                    "suggest_name": "register489"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "section#section > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 382.5,
+                    "d_y": 179.59375,
+                    "suggest_name": "register489"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 1140,
+                    "d_x": 382.5,
+                    "d_y": 179.59375,
+                    "suggest_name": "register489"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/71/1106.png"
         }
     ]
 }
