@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_Register">
+    <element type="xpath">//h2[normalize-space()='Register']</element>
+    <element type="css">section#section &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/h2[1]</element>
+  </locator>
+  <locator name="ele_input186">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_input239">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[2]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_textarea097">
+    <element type="xpath">//form[@id='basicBootstrapForm']//div//div//textarea</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/textarea[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Email">
+    <element type="xpath">//input[@type='email']</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[3]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_phone">
+    <element type="xpath">//input[@type='tel']</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(4) &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[4]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-patternTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_Male">
+    <element type="xpath">//input[@value='Male']</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(5) &gt; div &gt; label &gt; inputTGWEBCOMMA1</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[5]/div[1]/label[1]/input[1]</element>
+    <element type="class">ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7</element>
+  </locator>
+  <locator name="ele_Cricket">
+    <element type="id">checkbox1TGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">checkbox1TGWEBCOMMA1</element>
+    <element type="css">input#checkbox1TGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='checkbox1']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[6]/div[1]/div[1]/input[1]</element>
+  </locator>
+  <locator name="ele_Languages">
+    <element type="id">msddTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">msddTGWEBCOMMA1</element>
+    <element type="css">div#msddTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='msdd']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[7]/div[1]/multi-select[1]/div[1]</element>
+    <element type="class">ui-autocomplete-multiselect ui-state-default ui-widgetTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_arabic">
+    <element type="linktext">ArabicTGWEBCOMMALinkTextTGWEBCOMMA00</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(7) &gt; div &gt; multi-select &gt; div:nth-of-type(2) &gt; ul &gt; li &gt; aTGWEBCOMMA40</element>
+    <element type="linktext">ArabicTGWEBCOMMA0</element>
+    <element type="xpath">//a[normalize-space()='Arabic']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[7]/div[1]/multi-select[1]/div[2]/ul[1]/li[1]/a[1]</element>
+    <element type="partiallinktext">ArabTGWEBCOMMA0</element>
+    <element type="class">ui-corner-allTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_FullNameAddressEmailaddressPhoneGender">
+    <element type="css">section#section &gt; div &gt; divTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">section#section &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//body/section[@id='section']/div/div[1]</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]</element>
+    <element type="class">row TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_SelectSkills">
+    <element type="id">SkillsTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">SkillsTGWEBCOMMA1</element>
+    <element type="css">select#SkillsTGWEBCOMMA0</element>
+    <element type="xpath">//select[@id='Skills']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[8]/div[1]/select[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_firstpassword1">
+    <element type="tag">inputTGWEBCOMMATagTGWEBCOMMA10</element>
+    <element type="id">firstpasswordTGWEBCOMMA1</element>
+    <element type="css">input#firstpasswordTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='firstpassword']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[12]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlengthTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_secondpassword1">
+    <element type="id">secondpasswordTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">secondpasswordTGWEBCOMMA1</element>
+    <element type="css">input#secondpasswordTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='secondpassword']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[13]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA12</element>
+  </locator>
+  <locator name="ele_Submit">
+    <element type="id">submitbtnTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">submitbtnTGWEBCOMMA1</element>
+    <element type="css">button#submitbtnTGWEBCOMMA0</element>
+    <element type="xpath">//button[@id='submitbtn']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[14]/div[1]/button[1]</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_pYourbrowserdoesnotsupportiframesp">
+    <element type="id">singleframeTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">iframe#singleframeTGWEBCOMMA0</element>
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/iframe[1]</element>
+  </locator>
+  <locator name="ele_IframewithinanIframe">
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; aTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
+    <element type="linktext">Iframe with in an IframeTGWEBCOMMA0</element>
+    <element type="xpath">//a[normalize-space()='Iframe with in an Iframe']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]</element>
+    <element type="partiallinktext">Iframe with in an IfTGWEBCOMMA0</element>
+    <element type="class">analysticTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_NestediFrames">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="css">div#Multiple &gt; iframeTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/iframe[1]</element>
+  </locator>
+  <locator name="ele_ifram2">
+    <element type="xpath">//iframe[@src='SingleFrame.html']</element>
+    <element type="css">div#Multiple &gt; iframeTGWEBCOMMA0</element>
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/iframe[1]</element>
+  </locator>
+  <locator name="ele_Inputboxifram">
+    <element type="css">div#Multiple &gt; iframeTGWEBCOMMA0</element>
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/iframe[1]</element>
+  </locator>
+  <locator name="ele_input286">
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input[@type='text']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/input[1]</element>
+  </locator>
+  <locator name="ele_Tap">
+    <element type="xpath">//body</element>
+  </locator>
+  <locator name="ele_firstp">
+    <element type="xpath">//input[@id='firstpassword']</element>
+    <element type="id">firstpasswordTGWEBCOMMA1</element>
+    <element type="css">input#firstpasswordTGWEBCOMMA0</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[12]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlengthTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_menwomen338">
+    <element type="xpath">//body/div[@id='__next']/main/main/div/div/div[2]</element>
+    <element type="xpath">//div[@id='__next']/main/main/div/div/div[2]</element>
+    <element type="css">div#__next &gt; main &gt; main &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="xpath">//main/div/div/div[2]</element>
+    <element type="class">w-full bg-cover bg-center relative pt-[26px] lg:pt-12TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_FirstName">
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMACssSelectorTGWEBCOMMA5</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_LastName">
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[2]/input[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_textarea702">
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']//div//div//textarea</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/textarea[1]</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Form">
+    <element type="css">html &gt; body &gt; app-root &gt; app-forms &gt; app-pageheader &gt; section &gt; div &gt; h1TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; app-root &gt; app-forms &gt; app-pageheader &gt; section &gt; div &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1[normalize-space()='Form']</element>
+    <element type="xpath">//html[1]/body[1]/app-root[1]/app-forms[1]/app-pageheader[1]/section[1]/div[1]/h1[1]</element>
+    <element type="class">title has-text-centered is-pulled-leftTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_in">
+    <element type="id">nav-logo-spritesTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">nav-logo-spritesTGWEBCOMMA1</element>
+    <element type="css">a#nav-logo-spritesTGWEBCOMMA0</element>
+    <element type="xpath">//a[@id='nav-logo-sprites']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]</element>
+    <element type="class">nav-logo-link nav-progressive-attributeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Mobiles">
+    <element type="css">div#nav-xshop &gt; ul &gt; li:nth-of-type(6) &gt; div &gt; aTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">div#nav-xshop &gt; ul &gt; li:nth-of-type(6) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="linktext">MobilesTGWEBCOMMA0</element>
+    <element type="xpath">//a[normalize-space()='Mobiles']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[6]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/a[1]</element>
+    <element type="partiallinktext">MobilTGWEBCOMMA0</element>
+    <element type="class">nav-a  TGWEBCOMMA12</element>
+  </locator>
+  <locator name="ele_NewReleases">
+    <element type="css">div#nav-xshop &gt; ul &gt; li:nth-of-type(10) &gt; div &gt; aTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">div#nav-xshop &gt; ul &gt; li:nth-of-type(10) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="linktext">New ReleasesTGWEBCOMMA0</element>
+    <element type="xpath">//a[normalize-space()='New Releases']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[6]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/a[1]</element>
+    <element type="partiallinktext">New ReleasTGWEBCOMMA0</element>
+    <element type="class">nav-a  TGWEBCOMMA16</element>
+  </locator>
+  <locator name="ele_AllCategoriesAlexaSkillsAmazonDevicesAmazon">
+    <element type="id">searchDropdownBoxTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">searchDropdownBoxTGWEBCOMMA1</element>
+    <element type="css">select#searchDropdownBoxTGWEBCOMMA0</element>
+    <element type="xpath">//select[@id='searchDropdownBox']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/select[1]</element>
+    <element type="class">nav-search-dropdown searchSelect nav-progressive-attrubute nav-progressive-search-dropdownTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_AlexaSkills">
+    <element type="xpath">//option[normalize-space(text())='Alexa Skills']</element>
+    <element type="css">div#CardInstanceC0ENqZCIuK0OftgGIY-vLw &gt; a &gt; imgTGWEBCOMMA0</element>
+    <element type="xpath">//img[@alt='Great Freedom Festival | Shop now']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/div[1]/div[1]/a[1]/img[1]</element>
+  </locator>
+  <locator name="ele_PracticePage">
+    <element type="css">html &gt; body &gt; h1TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1[normalize-space()='Practice Page']</element>
+    <element type="xpath">//html[1]/body[1]/h1[1]</element>
+  </locator>
+  <locator name="ele_SelectOption1Option2Option3">
+    <element type="id">dropdown-class-exampleTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">dropdown-class-exampleTGWEBCOMMA1</element>
+    <element type="css">select#dropdown-class-exampleTGWEBCOMMA0</element>
+    <element type="xpath">//select[@id='dropdown-class-example']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[3]/fieldset[1]/select[1]</element>
+  </locator>
+  <locator name="ele_MouseHover">
+    <element type="id">mousehoverTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">mousehoverTGWEBCOMMA1</element>
+    <element type="css">button#mousehoverTGWEBCOMMA0</element>
+    <element type="xpath">//button[@id='mousehover']</element>
+    <element type="xpath">//html[1]/body[1]/div[4]/div[1]/fieldset[1]/div[1]/button[1]</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_alertbtn1">
+    <element type="id">alertbtnTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">alertbtnTGWEBCOMMA1</element>
+    <element type="css">input#alertbtnTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='alertbtn']</element>
+    <element type="xpath">//html[1]/body[1]/div[2]/div[3]/fieldset[1]/input[2]</element>
+    <element type="class">btn-styleTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Home">
+    <element type="css">html &gt; body &gt; header &gt; div &gt; a &gt; buttonTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; header &gt; div &gt; a &gt; buttonTGWEBCOMMA0</element>
+    <element type="xpath">//button[normalize-space()='Home']</element>
+    <element type="xpath">//html[1]/body[1]/header[1]/div[1]/a[1]/button[1]</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_checkBoxOption11">
+    <element type="id">checkBoxOption1TGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">checkBoxOption1TGWEBCOMMA1</element>
+    <element type="css">input#checkBoxOption1TGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='checkBoxOption1']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[4]/fieldset[1]/label[1]/input[1]</element>
+  </locator>
+  <locator name="ele_confirmbtn1">
+    <element type="id">confirmbtnTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">confirmbtnTGWEBCOMMA1</element>
+    <element type="css">input#confirmbtnTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='confirmbtn']</element>
+    <element type="xpath">//html[1]/body[1]/div[2]/div[3]/fieldset[1]/input[3]</element>
+    <element type="class">btn-styleTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_AutomationDemoSite">
+    <element type="css">header#header &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">header#header &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1[normalize-space()='Automation Demo Site']</element>
+    <element type="xpath">//html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/h1[1]</element>
+  </locator>
+  <locator name="ele_SingleIframe">
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li &gt; aTGWEBCOMMACssSelectorTGWEBCOMMA1</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li &gt; aTGWEBCOMMA1</element>
+    <element type="linktext">Single IframeTGWEBCOMMA0</element>
+    <element type="xpath">//a[normalize-space()='Single Iframe']</element>
+    <element type="xpath">//html[1]/body[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]</element>
+    <element type="partiallinktext">Single IfraTGWEBCOMMA0</element>
+    <element type="class">analysticTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_singleifra502">
+    <element type="xpath">//a[normalize-space()='Single Iframe']</element>
+    <element type="css">a.analystic</element>
+    <element type="partiallinktext">Single IfraTGWEBCOMMA0</element>
+    <element type="linktext">Single IframeTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/ul/li/a</element>
+    <element type="class">analysticTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_pyourbrows871">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_div824">
+    <element type="xpath">//body//section//div//div//div</element>
+    <element type="css">div.col-xs-6.col-xs-offset-5</element>
+    <element type="xpath">//div/div/div</element>
+    <element type="class">col-xs-6 col-xs-offset-5TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_pyourbrows426">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text947">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_text026">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows137">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text951">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows737">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text757">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows285">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text226">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows693">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text289">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_text589">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows630">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows182">
+    <element type="xpath">//iframe[@id='singleframe']</element>
+    <element type="xpath">//div[@id='Single']/iframe</element>
+    <element type="id">singleframeTGWEBCOMMA1</element>
+    <element type="css">#singleframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_singleifra680">
+    <element type="xpath">//body/section/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="css">div.nav.nav-tabs</element>
+    <element type="xpath">//section/div/div/div/div</element>
+    <element type="class"> nav nav-tabsTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_pyourbrows855">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows619">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_text279">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows442">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows881">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_text089">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows180">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows964">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_text928">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_text047">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows213">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_text235">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows490">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text900">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows140">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows958">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows607">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_text005">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="xpath">//input</element>
+  </locator>
+  <locator name="ele_pyourbrows895">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows352">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows165">
+    <element type="xpath">//iframe[normalize-space()='&lt;p&gt;Your browser does not support iframes.&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="xpath">//iframe</element>
+  </locator>
+  <locator name="ele_pyourbrows481">
+    <element type="xpath">//iframe[@src='MultipleFrames.html']</element>
+    <element type="xpath">//div[@id='Multiple']/iframe</element>
+    <element type="css">#Multiple &gt; iframe</element>
+    <element type="xpath">//div[2]/iframe</element>
+  </locator>
+  <locator name="ele_firstname110">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_searchamaz301">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="xpath">//form[@id='nav-search-bar-form']/div[2]/div/input</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="xpath">//div[2]/div/input</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.21/s/ele-imgs/71/678.png</element>
+  </locator>
+  <locator name="ele_i881">
+    <element type="xpath">//a[@id='nav-hamburger-menu']//i</element>
+    <element type="xpath">//a[@id='nav-hamburger-menu']/i</element>
+    <element type="css">i.hm-icon.nav-sprite</element>
+    <element type="xpath">//a/i</element>
+    <element type="class">hm-icon nav-spriteTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.21/s/ele-imgs/71/679.png</element>
+  </locator>
+  <locator name="ele_bestseller423">
+    <element type="xpath">//a[@href='/gp/bestsellers/?ref_=nav_em_cs_bestsellers_0_1_1_2']</element>
+    <element type="xpath">//div[@id='hmenu-content']/div/section/ul/li/a</element>
+    <element type="css">a.hmenu-item</element>
+    <element type="partiallinktext">BestselleTGWEBCOMMA2</element>
+    <element type="linktext">BestsellersTGWEBCOMMA1</element>
+    <element type="xpath">//section/ul/li/a</element>
+    <element type="class">hmenu-itemTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.21/s/ele-imgs/71/680.png</element>
+  </locator>
+  <locator name="ele_firstname268">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-invalid.ng-invalid-required.ng-touched</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.21/s/ele-imgs/71/681.png</element>
+  </locator>
+</locators>
