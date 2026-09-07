@@ -30,6 +30,7 @@ public class amzupen {
 		tg.wait("ele_i881", ComparisonType.IS_VISIBLE);
 		tg.click("ele_i881", 1);
 		tg.wait("ele_bestseller423", ComparisonType.IS_VISIBLE);
+		tg.check.isEqualTo("ele_bestseller423","50");
 		tg.click("ele_bestseller423", 1);
 		tg.pageLoadEnd("Amazon");
 		// [DISABLED] tg.networkAssert("Amazon");

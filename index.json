@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "373",
-    "user_id": 100,
+    "user_id": 0,
     "abo_version": {
         "version_id": "373",
         "app_id": "218",
@@ -17,7 +17,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "218",
@@ -153,15 +153,7 @@
                     "qtest_skip_sync": "1",
                     "sub_user_id": null,
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "636",
-                            "version_module_id": "504",
-                            "name": "Demo",
-                            "tc_id": "3579",
-                            "user_id": "100"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/218/373/504/testcases/amazon.java",
                     "vault_paths": []
@@ -294,7 +286,7 @@
                     "version_module_id": "504",
                     "tc_name": "AMZupen",
                     "tc_description": "",
-                    "tc_website_url": "https://www.amazon.in/",
+                    "tc_website_url": "",
                     "it_json": "",
                     "cm_step_list": "",
                     "is_compiled": "1",
@@ -306,22 +298,14 @@
                     "is_ai_generated": "0",
                     "created_source": "import_zip",
                     "created_source_ref": "tc_3579",
-                    "is_draft": "106",
+                    "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-09-07 11:41:01",
+                    "updated_at": "2026-09-07 11:47:55",
                     "created_at": "2026-09-07 11:41:01",
                     "qtest_skip_sync": "1",
                     "sub_user_id": null,
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "637",
-                            "version_module_id": "504",
-                            "name": "Demo",
-                            "tc_id": "3590",
-                            "user_id": "100"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/218/373/504/testcases/amzupen.java",
                     "vault_paths": []
@@ -4035,26 +4019,7 @@
                     "abo_na_steps": []
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "2322",
-                    "user_id": "100",
-                    "app_id": "218",
-                    "version_id": "373",
-                    "version_module_id": "504",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "2325",
-                    "user_id": "100",
-                    "app_id": "218",
-                    "version_id": "373",
-                    "version_module_id": "504",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
