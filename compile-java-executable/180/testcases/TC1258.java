@@ -21,7 +21,11 @@ public class tc1258 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc1258() {
 		tg.openDevice();
-		tg.wait(1);
+		tg.wait(5);
+		tg_String var_name = "#TGITVAR.full_name";
+		tg_String var_salary = "#TGITVAR.salary";
+		tg.printLogs(var_name);
+		tg.printLogs(var_salary);
 		tg.close();
 	}
 }
