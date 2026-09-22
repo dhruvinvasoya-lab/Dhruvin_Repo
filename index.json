@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "115",
-    "user_id": 20,
+    "user_id": 0,
     "abo_version": {
         "version_id": "115",
         "app_id": "78",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "78",
@@ -57,7 +57,7 @@
             "cm_resource_pages": "324,325,326,327,328,329",
             "cm_default_resource": "1627,1629,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663,1664,1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1689,1690,1691,1696,1698,1699,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710",
             "cm_test_function": "152,159",
-            "cm_test_case": "812,860,861,862,863,864,865",
+            "cm_test_case": "860,861,862,863,864,865",
             "cm_test_case_ai": "",
             "cm_network": "32,33",
             "cm_renderer": "",
@@ -70,32 +70,6 @@
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
             "abo_vm_test_case": [
-                {
-                    "tc_id": "812",
-                    "version_module_id": "140",
-                    "tc_name": "test_case_1790050569",
-                    "tc_description": "Extract testcases for the url https://demo.automationtesting.in/Register.html",
-                    "tc_website_url": "https://demo.automationtesting.in/Register.html",
-                    "it_json": "",
-                    "cm_step_list": "",
-                    "is_compiled": "0",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "created_source": "unknown",
-                    "created_source_ref": null,
-                    "is_draft": "24",
-                    "updated_at": "2026-09-22 04:33:01",
-                    "created_at": "2026-09-22 04:33:01",
-                    "qtest_skip_sync": "1",
-                    "status": "2",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/78/115/140/testcases/test_case_1790050569.java",
-                    "vault_paths": []
-                },
                 {
                     "tc_id": "860",
                     "version_module_id": "140",
@@ -169,15 +143,7 @@
                     "created_at": "2026-09-22 09:15:14",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "57",
-                            "version_module_id": "140",
-                            "name": "Demo",
-                            "tc_id": "862",
-                            "user_id": "20"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/78/115/140/testcases/amazon.java",
                     "vault_paths": []
@@ -304,12 +270,12 @@
                     "proc_name": "RNP1",
                     "proc_description": "",
                     "cm_step_list": "",
-                    "is_compiled": "0",
+                    "is_compiled": "1",
                     "is_ai_generated": "0",
                     "created_source": "recorder_wizard",
                     "created_source_ref": null,
                     "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "24",
+                    "is_draft": "0",
                     "has_parameters": "0",
                     "param_data": null,
                     "return_type": null,
@@ -9303,53 +9269,7 @@
                     "abo_na_steps": []
                 }
             ],
-            "abo_update": [
-                {
-                    "id": "703",
-                    "user_id": "20",
-                    "app_id": "78",
-                    "version_id": "115",
-                    "version_module_id": "140",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "704",
-                    "user_id": "20",
-                    "app_id": "78",
-                    "version_id": "115",
-                    "version_module_id": "140",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "705",
-                    "user_id": "20",
-                    "app_id": "78",
-                    "version_id": "115",
-                    "version_module_id": "140",
-                    "description": "",
-                    "action_process": "add_test_function"
-                },
-                {
-                    "id": "739",
-                    "user_id": "20",
-                    "app_id": "78",
-                    "version_id": "115",
-                    "version_module_id": "140",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                },
-                {
-                    "id": "740",
-                    "user_id": "20",
-                    "app_id": "78",
-                    "version_id": "115",
-                    "version_module_id": "140",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {

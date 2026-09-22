@@ -536,7 +536,7 @@
     <element type="css">#twotabsearchtextbox</element>
     <element type="xpath">//div[2]/div/input</element>
     <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/159.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1689.png</element>
   </locator>
   <locator name="ele_i881">
     <element type="xpath">//a[@id='nav-hamburger-menu']//i</element>
@@ -544,7 +544,7 @@
     <element type="css">i.hm-icon.nav-sprite</element>
     <element type="xpath">//a/i</element>
     <element type="class">hm-icon nav-spriteTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/160.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1690.png</element>
   </locator>
   <locator name="ele_bestseller423">
     <element type="xpath">//a[@href='/gp/bestsellers/?ref_=nav_em_cs_bestsellers_0_1_1_2']</element>
@@ -554,7 +554,7 @@
     <element type="linktext">BestsellersTGWEBCOMMA1</element>
     <element type="xpath">//section/ul/li/a</element>
     <element type="class">hmenu-itemTGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/161.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1691.png</element>
   </locator>
   <locator name="ele_textinput280">
     <element type="xpath">//input[@id='firstname']</element>
@@ -563,7 +563,7 @@
     <element type="css">input#firstnameTGWEBCOMMA0</element>
     <element type="xpath">//input</element>
     <element type="class">inputTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/171.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1692.png</element>
   </locator>
   <locator name="ele_firstname211">
     <element type="xpath">//label[contains(text(),'First Name')]</element>
@@ -571,7 +571,7 @@
     <element type="css">html &gt; body &gt; app-root &gt; app-forms &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; form &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA11</element>
     <element type="xpath">//label</element>
     <element type="class">labelTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/172.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1693.png</element>
   </locator>
   <locator name="ele_submit717">
     <element type="xpath">//button[@id='submitbtn']</element>
@@ -581,7 +581,7 @@
     <element type="css">button#submitbtnTGWEBCOMMA0</element>
     <element type="xpath">//div[14]/div/button</element>
     <element type="class">btn btn-primaryTGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/176.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1694.png</element>
   </locator>
   <locator name="ele_mousehover377">
     <element type="xpath">//button[@id='mousehover']</element>
@@ -590,11 +590,11 @@
     <element type="css">button#mousehoverTGWEBCOMMA0</element>
     <element type="xpath">//fieldset/div/button</element>
     <element type="class">btn btn-primaryTGWEBCOMMA5</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/182.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1695.png</element>
   </locator>
   <locator name="ele_myre">
     <element type="xpath">dswxs</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/345.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1696.png</element>
   </locator>
   <locator name="ele_divtgwebcomma354">
     <element type="css">body &gt; section:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(2) &gt; form:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3)</element>
@@ -602,7 +602,7 @@
     <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA2</element>
     <element type="xpath">//form/div/div[2]</element>
     <element type="class">col-md-4 col-xs-4 col-sm-4TGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/523.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1697.png</element>
   </locator>
   <locator name="ele_Registertextele40041533611683">
     <element type="xpath">//h2[contains(text(),'Register')]</element>
@@ -610,7 +610,7 @@
     <element type="css">h2</element>
     <element type="css">section#section &gt; div &gt; h2TGWEBCOMMA0</element>
     <element type="xpath">//h2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/916.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1698.png</element>
   </locator>
   <locator name="ele_AutomationDemoSiteele2042103293804">
     <element type="xpath">//h1[contains(text(),'Automation Demo Site')]</element>
@@ -618,7 +618,7 @@
     <element type="css">h1</element>
     <element type="css">header#header &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMA0</element>
     <element type="xpath">//h1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/917.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1699.png</element>
   </locator>
   <locator name="ele_Maleele69042918210999">
     <element type="xpath">//label[normalize-space()='Male']//input[@name='radiooptions']</element>
@@ -627,7 +627,7 @@
     <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(5) &gt; div &gt; label &gt; inputTGWEBCOMMA1</element>
     <element type="xpath">//label/input</element>
     <element type="class">ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/918.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1700.png</element>
   </locator>
   <locator name="ele_Cricketele73042918210999">
     <element type="xpath">//input[@id='checkbox1']</element>
@@ -636,7 +636,7 @@
     <element type="css">#checkbox1</element>
     <element type="css">input#checkbox1TGWEBCOMMA0</element>
     <element type="xpath">//div[6]/div/div/input</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/919.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1701.png</element>
   </locator>
   <locator name="ele_Englishlanguageele87042918210999">
     <element type="xpath">//a[contains(text(),'English')]</element>
@@ -647,7 +647,7 @@
     <element type="linktext">EnglishTGWEBCOMMA0</element>
     <element type="xpath">//multi-select/div[2]/ul/li[8]/a</element>
     <element type="class">ui-corner-allTGWEBCOMMA9</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/920.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1702.png</element>
   </locator>
   <locator name="ele_Hindilanguageele95042918210999">
     <element type="xpath">//a[contains(text(),'Hindi')]</element>
@@ -657,7 +657,7 @@
     <element type="partiallinktext">HindiTGWEBCOMMA0</element>
     <element type="xpath">//li[16]/a</element>
     <element type="class">ui-corner-allTGWEBCOMMA17</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/921.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1703.png</element>
   </locator>
   <locator name="ele_Skillsele121042918210999">
     <element type="xpath">//label[contains(text(),'Skills')]</element>
@@ -666,7 +666,7 @@
     <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(8) &gt; labelTGWEBCOMMA0</element>
     <element type="xpath">//div[8]/label</element>
     <element type="class">col-md-3 col-xs-3 col-sm-3 control-labelTGWEBCOMMA8</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/922.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1704.png</element>
   </locator>
   <locator name="ele_Countryele200042918210999">
     <element type="xpath">//select[@id='countries']</element>
@@ -676,7 +676,7 @@
     <element type="css">select#countriesTGWEBCOMMA0</element>
     <element type="xpath">//div[9]/div/select</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA7</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/923.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1705.png</element>
   </locator>
   <locator name="ele_Yearele216042918210999">
     <element type="xpath">//select[@id='yearbox']</element>
@@ -686,7 +686,7 @@
     <element type="css">select#yearboxTGWEBCOMMA0</element>
     <element type="xpath">//div[11]/div/select</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA8</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/924.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1706.png</element>
   </locator>
   <locator name="ele_Monthele317042918210999">
     <element type="xpath">//select[@placeholder='Month']</element>
@@ -695,7 +695,7 @@
     <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(11) &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
     <element type="xpath">//div[2]/select</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA9</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/925.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1707.png</element>
   </locator>
   <locator name="ele_Dayele330042918210999">
     <element type="xpath">//select[@id='daybox']</element>
@@ -705,7 +705,7 @@
     <element type="css">select#dayboxTGWEBCOMMA0</element>
     <element type="xpath">//div[3]/select</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA10</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/926.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1708.png</element>
   </locator>
   <locator name="ele_ConfirmPasswordele365042918210999">
     <element type="xpath">//input[@id='secondpassword']</element>
@@ -715,7 +715,7 @@
     <element type="css">input#secondpasswordTGWEBCOMMA0</element>
     <element type="xpath">//div[13]/div/input</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA12</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/927.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1709.png</element>
   </locator>
   <locator name="ele_Photouploadele369042918210999">
     <element type="xpath">//input[@id='imagesrc']</element>
@@ -724,7 +724,7 @@
     <element type="css">#imagesrc</element>
     <element type="css">input#imagesrcTGWEBCOMMA0</element>
     <element type="xpath">//div[3]/div[2]/input</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/928.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1710.png</element>
   </locator>
   <locator name="ele_textinput342">
     <element type="xpath">//input[@id='firstname']</element>
@@ -733,7 +733,7 @@
     <element type="css">input#firstnameTGWEBCOMMA0</element>
     <element type="xpath">//input</element>
     <element type="class">inputTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/1157.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1711.png</element>
   </locator>
   <locator name="ele_textinput465">
     <element type="xpath">//input[@id='firstname']</element>
@@ -742,7 +742,7 @@
     <element type="css">input#firstnameTGWEBCOMMA0</element>
     <element type="xpath">//input</element>
     <element type="class">inputTGWEBCOMMA1</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/1158.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1712.png</element>
   </locator>
   <locator name="ele_textinput891">
     <element type="xpath">//input[@id='lasttname']</element>
@@ -751,7 +751,7 @@
     <element type="css">input#lasttnameTGWEBCOMMA0</element>
     <element type="xpath">//div[2]/div/div/input</element>
     <element type="class">inputTGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/1159.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1713.png</element>
   </locator>
   <locator name="ele_textinput299">
     <element type="xpath">//input[@id='lasttname']</element>
@@ -760,13 +760,13 @@
     <element type="css">input#lasttnameTGWEBCOMMA0</element>
     <element type="xpath">//div[2]/div/div/input</element>
     <element type="class">inputTGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/1160.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1714.png</element>
   </locator>
   <locator name="ele_divtgwebco457">
     <element type="css">body &gt; app-root:nth-child(4) &gt; app-forms:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2)</element>
     <element type="css">html &gt; body &gt; app-root &gt; app-forms &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; form &gt; div &gt; div:nth-of-type(2) &gt; div &gt; divTGWEBCOMMA5</element>
     <element type="xpath">//form/div/div[2]/div/div</element>
     <element type="class">controlTGWEBCOMMA2</element>
-    <element type="image">http://192.168.4.21/s/ele-imgs/24/1161.png</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/140/1715.png</element>
   </locator>
 </locators>
