@@ -16,10 +16,10 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tdpgovind {
+public class tdpgovinds {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tdpgovind() {
+	public void tdpgovinds() {
 		tg.openDevice();
 		tg.wait(2);
 		tg_String var_Name = "#TGITVAR.name";

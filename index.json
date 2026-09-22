@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-09-22 09:50:33",
+            "view_updated_date_time": "2026-09-22 15:09:56",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "2,2",
@@ -863,7 +863,7 @@
                 {
                     "tc_id": "1044",
                     "version_module_id": "180",
-                    "tc_name": "TDPGovind",
+                    "tc_name": "TDPGovinds",
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
@@ -877,7 +877,7 @@
                     "created_source": "manual_add",
                     "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-09-22 09:24:37",
+                    "updated_at": "2026-09-22 15:10:11",
                     "created_at": "2026-09-22 09:14:11",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -901,7 +901,7 @@
                         "api_params": null,
                         "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/165/180/testcases/tdpgovind.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/165/180/testcases/tdpgovinds.java",
                     "vault_paths": []
                 }
             ],
@@ -4183,6 +4183,230 @@
                             "message_type": "replier",
                             "created_at": "2026-09-19 07:15:08",
                             "updated_at": "2026-09-19 07:15:08"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "358",
+                    "test_case_id": "0",
+                    "jira_id": "12",
+                    "azure_id": "0",
+                    "version_module_id": "180",
+                    "tc_name": "Successful Weather Data Update and Confirmation Handling",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Successful Weather Data Update and Confirmation Handling\nModule: Weather Update Flow\nPriority: High\n\nPreconditions:\n- - The application is installed and launched.\n- - User is on the home screen where the initial confirmation/alert appears.\n\nTest Steps:\n1. Wait for the \"OK\" button to be visible on the initial confirmation/alert.\n2. Tap the \"OK\" button.\n3. Wait for the \"Wind\" text to appear on the weather dashboard screen.\n4. Swipe down on the dashboard to refresh.\n5. Tap on the \"Update\" text view to trigger weather data update.\n\nExpected Result:\n- - \"OK\" button is displayed and can be tapped.\n- - Confirmation/alert disappears after tapping \"OK\".\n- - \"Wind\" text becomes visible, indicating the weather dashboard has loaded.\n- - Swiping down triggers refresh action without errors.\n- - Tapping \"Update\" successfully refreshes and displays the latest weather data.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-110",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-09-22 15:05:12",
+                    "created_at": "2026-09-22 15:05:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2975",
+                            "tc_id": "358",
+                            "step_order": "1",
+                            "step_action": "Wait for the \"OK\" button to be visible on the initial confirmation/alert.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2976",
+                            "tc_id": "358",
+                            "step_order": "2",
+                            "step_action": "Tap the \"OK\" button.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2977",
+                            "tc_id": "358",
+                            "step_order": "3",
+                            "step_action": "Wait for the \"Wind\" text to appear on the weather dashboard screen.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2978",
+                            "tc_id": "358",
+                            "step_order": "4",
+                            "step_action": "Swipe down on the dashboard to refresh.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2979",
+                            "tc_id": "358",
+                            "step_order": "5",
+                            "step_action": "Tap on the \"Update\" text view to trigger weather data update.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "311",
+                            "tc_id": "358",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Please generate a manual test case based on JIRA story - 31106",
+                            "message_type": "sender",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "id": "312",
+                            "tc_id": "358",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Test Case Title: Successful Weather Data Update and Confirmation Handling\nModule: Weather Update Flow\nPriority: High\n\nPreconditions:\n- - The application is installed and launched.\n- - User is on the home screen where the initial confirmation/alert appears.\n\nTest Steps:\n1. Wait for the \"OK\" button to be visible on the initial confirmation/alert.\n2. Tap the \"OK\" button.\n3. Wait for the \"Wind\" text to appear on the weather dashboard screen.\n4. Swipe down on the dashboard to refresh.\n5. Tap on the \"Update\" text view to trigger weather data update.\n\nExpected Result:\n- - \"OK\" button is displayed and can be tapped.\n- - Confirmation/alert disappears after tapping \"OK\".\n- - \"Wind\" text becomes visible, indicating the weather dashboard has loaded.\n- - Swiping down triggers refresh action without errors.\n- - Tapping \"Update\" successfully refreshes and displays the latest weather data.",
+                            "message_type": "replier",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "359",
+                    "test_case_id": "0",
+                    "jira_id": "12",
+                    "azure_id": "0",
+                    "version_module_id": "180",
+                    "tc_name": "Search for Invalid Location and Verify No Results Displayed",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Search for Invalid Location and Verify No Results Displayed\nModule: Location Search\nPriority: Medium\n\nPreconditions:\n- - The application is installed and on the weather dashboard screen.\n\nTest Steps:\n1. Tap on the \"Search\" button to open the search interface.\n2. Wait for the \"Search location\" edit text field to appear.\n3. Type \"AtlantisXYZ\" in the search location field (an invalid/non-existent location).\n4. Wait for any search suggestions or results.\n\nExpected Result:\n- - \"Search\" button is available and navigates to search interface.\n- - \"Search location\" field is displayed and accepts input.\n- - No valid location option (like \"IN\") appears for the invalid input.\n- - User is shown an appropriate \"No results found\" message or empty list.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-110",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-09-22 15:05:12",
+                    "created_at": "2026-09-22 15:05:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2980",
+                            "tc_id": "359",
+                            "step_order": "1",
+                            "step_action": "Tap on the \"Search\" button to open the search interface.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2981",
+                            "tc_id": "359",
+                            "step_order": "2",
+                            "step_action": "Wait for the \"Search location\" edit text field to appear.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2982",
+                            "tc_id": "359",
+                            "step_order": "3",
+                            "step_action": "Type \"AtlantisXYZ\" in the search location field (an invalid/non-existent location).",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2983",
+                            "tc_id": "359",
+                            "step_order": "4",
+                            "step_action": "Wait for any search suggestions or results.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "313",
+                            "tc_id": "359",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Please generate a manual test case based on JIRA story - 31106",
+                            "message_type": "sender",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "id": "314",
+                            "tc_id": "359",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Test Case Title: Search for Invalid Location and Verify No Results Displayed\nModule: Location Search\nPriority: Medium\n\nPreconditions:\n- - The application is installed and on the weather dashboard screen.\n\nTest Steps:\n1. Tap on the \"Search\" button to open the search interface.\n2. Wait for the \"Search location\" edit text field to appear.\n3. Type \"AtlantisXYZ\" in the search location field (an invalid/non-existent location).\n4. Wait for any search suggestions or results.\n\nExpected Result:\n- - \"Search\" button is available and navigates to search interface.\n- - \"Search location\" field is displayed and accepts input.\n- - No valid location option (like \"IN\") appears for the invalid input.\n- - User is shown an appropriate \"No results found\" message or empty list.",
+                            "message_type": "replier",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "360",
+                    "test_case_id": "0",
+                    "jira_id": "12",
+                    "azure_id": "0",
+                    "version_module_id": "180",
+                    "tc_name": "Maximum Location Name Length in Search Field",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Maximum Location Name Length in Search Field\nModule: Location Search\nPriority: Low\n\nPreconditions:\n- - The application is installed and on the weather dashboard screen.\n- - The maximum allowed input length for the location search field is known (e.g., 50 characters).\n\nTest Steps:\n1. Tap on the \"Search\" button to enter the location search mode.\n2. Wait for the \"Search location\" edit text field to appear.\n3. Enter a location name with the maximum allowed number of characters (e.g., \"A\" repeated 50 times).\n4. Observe the search results or behavior.\n\nExpected Result:\n- - The \"Search location\" field accepts input up to its maximum length limit.\n- - No additional characters can be entered beyond the allowed length.\n- - If no matching location exists, an appropriate message (e.g., \"No results found\") is displayed.\n- - The application does not crash or display UI glitches when handling maximum length input.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-110",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-09-22 15:05:12",
+                    "created_at": "2026-09-22 15:05:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "2984",
+                            "tc_id": "360",
+                            "step_order": "1",
+                            "step_action": "Tap on the \"Search\" button to enter the location search mode.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2985",
+                            "tc_id": "360",
+                            "step_order": "2",
+                            "step_action": "Wait for the \"Search location\" edit text field to appear.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2986",
+                            "tc_id": "360",
+                            "step_order": "3",
+                            "step_action": "Enter a location name with the maximum allowed number of characters (e.g., \"A\" repeated 50 times).",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "step_id": "2987",
+                            "tc_id": "360",
+                            "step_order": "4",
+                            "step_action": "Observe the search results or behavior.",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "315",
+                            "tc_id": "360",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Please generate a manual test case based on JIRA story - 31106",
+                            "message_type": "sender",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
+                        },
+                        {
+                            "id": "316",
+                            "tc_id": "360",
+                            "thread_id": "cotester_thread_v2_6ab29923baf48193818ab934d1a6ae340d00f7087a4c4bff",
+                            "user_id": "133",
+                            "message": "Test Case Title: Maximum Location Name Length in Search Field\nModule: Location Search\nPriority: Low\n\nPreconditions:\n- - The application is installed and on the weather dashboard screen.\n- - The maximum allowed input length for the location search field is known (e.g., 50 characters).\n\nTest Steps:\n1. Tap on the \"Search\" button to enter the location search mode.\n2. Wait for the \"Search location\" edit text field to appear.\n3. Enter a location name with the maximum allowed number of characters (e.g., \"A\" repeated 50 times).\n4. Observe the search results or behavior.\n\nExpected Result:\n- - The \"Search location\" field accepts input up to its maximum length limit.\n- - No additional characters can be entered beyond the allowed length.\n- - If no matching location exists, an appropriate message (e.g., \"No results found\") is displayed.\n- - The application does not crash or display UI glitches when handling maximum length input.",
+                            "message_type": "replier",
+                            "created_at": "2026-09-22 15:05:12",
+                            "updated_at": "2026-09-22 15:05:12"
                         }
                     ]
                 }
