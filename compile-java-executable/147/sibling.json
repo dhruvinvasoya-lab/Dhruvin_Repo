@@ -4817,7 +4817,7 @@
                     "d_w": 117,
                     "d_x": 157,
                     "d_y": 58,
-                    "suggest_name": "EnvironmentsView1773184979107"
+                    "suggest_name": "ele_EnvironmentswitcherPagetitle"
                 },
                 {
                     "locators": "Xpath",
@@ -4825,7 +4825,7 @@
                     "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View",
                     "d_x": "393",
                     "d_h": "62",
-                    "suggest_name": "EnvironmentsView1773184979107",
+                    "suggest_name": "ele_EnvironmentswitcherPagetitle",
                     "d_w": "294",
                     "d_y": "146"
                 }

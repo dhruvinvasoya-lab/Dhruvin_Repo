@@ -12,7 +12,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import java.time.Duration;
-import java.util.List;
 import java.util.Random;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -20,13 +19,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.*;
 import org.openqa.selenium.html5.Location;
-import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.interactions.PointerInput;
 import org.openqa.selenium.interactions.Sequence;
 import org.openqa.selenium.interactions.Pause;
-import java.time.Duration;
 import static org.openqa.selenium.interactions.PointerInput.Kind.TOUCH;
 import static org.openqa.selenium.interactions.PointerInput.Origin.viewport;
 import static org.openqa.selenium.interactions.PointerInput.MouseButton.LEFT;
@@ -77,5 +74,6 @@ class fndigitaltlifeandroidhandleenvironmentswitcher {
 		if(tg.performAssert("ele_Closebutton", ComparisonType.IS_VISIBLE)){
 		tg.click("ele_Closebutton");
 		}
+		tg.wait(5);
 	}
 }
