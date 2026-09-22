@@ -312,4 +312,8 @@
     <element type="xpath">//div[14]/div/button</element>
     <element type="class">btn btn-primaryTGWEBCOMMA2</element>
   </locator>
+  <locator name="ele_firstpassword">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
+    <element type="image">http://10.0.116.5/s/ele-imgs/247/5403.png</element>
+  </locator>
 </locators>

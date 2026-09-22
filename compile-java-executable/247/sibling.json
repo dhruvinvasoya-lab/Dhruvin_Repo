@@ -5122,6 +5122,26 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_firstpassword",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "firstpassword"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/247/5403.png"
         }
     ]
 }
