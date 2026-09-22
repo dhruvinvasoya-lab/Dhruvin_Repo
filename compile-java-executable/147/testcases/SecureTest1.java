@@ -1,0 +1,81 @@
+import org.openqa.selenium.support.ui.Select;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+import java.util.ArrayList;
+import io.appium.java_client.android.nativekey.AndroidKey;
+import io.appium.java_client.android.nativekey.KeyEvent;
+import java.time.MonthDay;
+import org.testng.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
+import java.util.Random;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.*;
+import org.openqa.selenium.html5.Location;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.Point;
+import org.openqa.selenium.interactions.PointerInput;
+import org.openqa.selenium.interactions.Sequence;
+import org.openqa.selenium.interactions.Pause;
+import static org.openqa.selenium.interactions.PointerInput.Kind.TOUCH;
+import static org.openqa.selenium.interactions.PointerInput.Origin.viewport;
+import static org.openqa.selenium.interactions.PointerInput.MouseButton.LEFT;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import io.testgrid.enums.Alert;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class securetest1 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void securetest1() {
+		tg.openDevice();
+		tg.wait("ele_EnteremailaddressEditText1782727175745", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnteremailaddressEditText1782727175745", 1);
+		tg.wait("ele_EnteremailaddressEditText1782727175745", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnteremailaddressEditText1782727175745", 1);
+		tg.testFunction("TestFunctionForQtestTest", new Object[]{});
+		tg.startSecureBlock();
+		tg.wait("ele_EnteremailaddressEditText1782727175745", ComparisonType.IS_VISIBLE);
+		tg.type("ele_EnteremailaddressEditText1782727175745", "gautamkumar@testgmail.com", true);
+		tg.wait("ele_EnterpasswordEditText1782727214455", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnterpasswordEditText1782727214455", 1);
+		tg.wait("ele_EnterpasswordEditText1782727214455", ComparisonType.IS_VISIBLE);
+		tg.type("ele_EnterpasswordEditText1782727214455", "testpassword@123", true);
+		tg.wait("ele_textinputendiconImageButton1782727228418", ComparisonType.IS_VISIBLE);
+		tg.click("ele_textinputendiconImageButton1782727228418", 1);
+		tg.wait("ele_textinputendiconImageButton1782727228418", ComparisonType.IS_VISIBLE);
+		tg.click("ele_textinputendiconImageButton1782727228418", 1);
+		tg.endSecureBlock();
+		tg.wait(1);
+		tg.wait(1);
+		tg.click("ele_AlgeriaTextView1781517755743");
+		tg.click("ele_AlgeriaTextView1781517755743");
+		tg.click("ele_AlgeriaTextView1781517755743");
+		tg.testFunction("CallTestFunctionCheck", new Object[]{});
+		tg_int var_intvariables = 20;
+		tg.printLogs("ele_ForgotPasswordTextView1783329197916");
+		tg.networkAssert("QtestNewAsesert");
+		tg.close();
+	}
+}

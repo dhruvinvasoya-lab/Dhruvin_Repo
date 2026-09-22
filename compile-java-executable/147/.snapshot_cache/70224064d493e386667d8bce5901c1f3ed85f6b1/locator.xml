@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_CountriesImageView1781517742955">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+  </locator>
+  <locator name="ele_AustraliaTextView1781517746740">
+    <element type="xpath">(//android.widget.TextView[@resource-id='ru.androidtools.countries_of_the_world:id/card_name'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/262.png</element>
+  </locator>
+  <locator name="ele_ivcountrybackImageView1781517751084">
+    <element type="xpath">(//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_country_back'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/263.png</element>
+  </locator>
+  <locator name="ele_AlgeriaTextView1781517755743">
+    <element type="xpath">(//android.widget.TextView[@resource-id='ru.androidtools.countries_of_the_world:id/card_name'])[5]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[5]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[5]/android.widget.TextView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/264.png</element>
+  </locator>
+  <locator name="ele_ivbackImageView1781517762112">
+    <element type="xpath">(//android.widget.ImageView[@resource-id='ru.androidtools.countries_of_the_world:id/iv_back'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/265.png</element>
+  </locator>
+  <locator name="ele_EnteremailaddressEditText1782727175745">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_email'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/480.png</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1782727214455">
+    <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_password'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/481.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1782727228418">
+    <element type="xpath">(//android.widget.ImageButton[@resource-id='com.app.urunner:id/text_input_end_icon'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/482.png</element>
+  </locator>
+  <locator name="ele_EnteremailaddressEditText1782989341799">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_email')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/497.png</element>
+  </locator>
+  <locator name="ele_LinearLayout1782989366178">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/498.png</element>
+  </locator>
+  <locator name="ele_ForgotPasswordTextView1783329197916">
+    <element type="xpath">(//android.widget.TextView[@resource-id='com.app.urunner:id/tv_forgot_password'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/532.png</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1784028263660">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/565.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1784028279429">
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/566.png</element>
+  </locator>
+  <locator name="ele_ForgotPasswordTextView1784028289696">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'tv_forgot_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/567.png</element>
+  </locator>
+  <locator name="ele_LoginView1775060160216">
+    <element type="xpath">(//android.view.View[@content-desc='Log in'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/623.png</element>
+  </locator>
+  <locator name="ele_tlifeAndBtnContinueWelcome">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/624.png</element>
+  </locator>
+  <locator name="ele_tlifeAnLogInWithPasswordButton">
+    <element type="xpath">(//android.view.View[@content-desc='Log in with password'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeButtonSkipForNow">
+    <element type="xpath">(//android.view.View[@content-desc='Skip for now'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeButtonYesSkip">
+    <element type="xpath">(//android.view.View[@content-desc='Yes, skip'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnNotnowButton">
+    <element type="xpath">(//android.view.View[@content-desc='Not now'] | //android.widget.TextView[@text='Not now' and @clickable='true'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Not now']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Next']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='3']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/628.png</element>
+  </locator>
+  <locator name="ele_tlifeAnUsePasswordButton">
+    <element type="xpath">(//android.view.View[@content-desc='Use password'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnTmobileIDTextBox">
+    <element type="xpath">//android.widget.EditText[contains(@resource-id,'textInputPhone')]</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="xpath">//androidx.compose.ui.viewinterop.ViewFactoryHolder[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/androidx.compose.ui.viewinterop.ViewFactoryHolder</element>
+    <element type="id">com.tmobile.tuesdays:id/textInputPhone</element>
+    <element type="xpath">//android.widget.EditText[@resource-id='com.tmobile.tuesdays:id/textInputPhone']</element>
+    <element type="xpath">//android.widget.EditText[@text='T-Mobile ID']</element>
+    <element type="xpath">//android.widget.EditText[@index='0']</element>
+    <element type="xpath">//android.widget.EditText[@hint='T-Mobile ID']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/androidx.compose.ui.viewinterop.ViewFactoryHolder/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/630.png</element>
+  </locator>
+  <locator name="ele_tlifePasswordAnTextBox">
+    <element type="id">//android.widget.EditText[contains(@resource-id,'textInputPassword')]</element>
+    <element type="id">com.tmobile.tuesdays:id/textInputPassword</element>
+    <element type="xpath">//android.widget.EditText[@resource-id='com.tmobile.tuesdays:id/textInputPassword']</element>
+    <element type="xpath">//android.widget.EditText[@text='Password']</element>
+    <element type="xpath">//android.widget.EditText[@index='0']</element>
+    <element type="xpath">//android.widget.EditText[@hint='Password']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/androidx.compose.ui.viewinterop.ViewFactoryHolder[2]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="xpath">//androidx.compose.ui.viewinterop.ViewFactoryHolder[@index='4']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/androidx.compose.ui.viewinterop.ViewFactoryHolder[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/631.png</element>
+  </locator>
+  <locator name="ele_tlifeAnLoginButton">
+    <element type="xpath">(//android.view.View[@content-desc='Log in'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[4]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Log in']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Don't have a T-Mobile ID?']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[4]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="id">buttonSignIn</element>
+    <element type="xpath">//android.view.View[@resource-id='buttonSignIn']</element>
+    <element type="xpath">//android.view.View[@index='7']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]</element>
+    <element type="id">textViewSignUpWithoutPhone</element>
+    <element type="xpath">//android.view.View[@resource-id='textViewSignUpWithoutPhone']</element>
+    <element type="xpath">//android.view.View[@index='8']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[4]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/632.png</element>
+  </locator>
+  <locator name="ele_tlifeAnSettingsBackButton">
+    <element type="xpath">//android.widget.Button[contains(@resource-id,'me_setting_button_back')]</element>
+    <element type="xpath">//android.widget.Button[@index='3']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.Button[2]</element>
+    <element type="id">com.tmobile.tuesdays:id/me_profile_button_setting</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.tmobile.tuesdays:id/me_profile_button_setting']</element>
+    <element type="xpath">//android.widget.Button[@content-desc='Chat']</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="xpath">//android.widget.Button[@content-desc='Settings']</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/633.png</element>
+  </locator>
+  <locator name="ele_continueUpgradingButton">
+    <element type="xpath">//android.view.View[@content-desc='Continue upgrading']/parent::android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnLocationWhileUsingTheAppButton">
+    <element type="id">com.android.permissioncontroller:id/permission_allow_foreground_only_button</element>
+    <element type="xpath">(//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_foreground_only_button'])[1]</element>
+    <element type="xpath">(//android.widget.Button[@text='While using the app'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.Button</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/635.png</element>
+  </locator>
+  <locator name="ele_tlifeAnButtonPersonaliseShortcutCloseIcon">
+    <element type="xpath">(//android.widget.ImageView[@resource-id='com.tmobile.tuesdays:id/home_shortcuts_tooltip_more_shortcuts_close_icon'])[1]</element>
+    <element type="id">com.tmobile.tuesdays:id/home_shortcuts_tooltip_more_shortcuts_close_icon</element>
+    <element type="xpath">(//android.widget.ImageView[@content-desc='Close'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/636.png</element>
+  </locator>
+  <locator name="ele_Welcomepagecontinuebutton">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/637.png</element>
+  </locator>
+  <locator name="ele_Closebutton">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.Button</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/638.png</element>
+  </locator>
+  <locator name="ele_ManageTab">
+    <element type="xpath">(//android.widget.TextView[@text='Manage'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text='Manage']</element>
+    <element type="xpath">//android.widget.TextView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]/android.widget.TextView</element>
+    <element type="xpath">//android.view.View[@index='4']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]</element>
+    <element type="xpath">//android.view.View[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Manage']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[5]/android.view.View</element>
+    <element type="xpath">//android.view.View[@content-desc='Shop']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@index='3']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/639.png</element>
+  </locator>
+  <locator name="ele_tlifeAnFirstDevice">
+    <element type="xpath">(//android.view.View[contains(@resource-id,'sales_product_card')]/android.widget.TextView[2])[1]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/640.png</element>
+  </locator>
+  <locator name="ele_tlifeAnFirstDeviceColor">
+    <element type="xpath">(//android.view.View[contains(@resource-id,'sales_color_option_card_pdp')]//android.widget.TextView)[1]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/641.png</element>
+  </locator>
+  <locator name="ele_tlifeAllownotificationsLabel">
+    <element type="xpath">(//android.widget.TextView[@text='Allow notifications'])[1]</element>
+    <element type="id">com.tmobile.tuesdays:id/notifications_permission_label_title</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.tmobile.tuesdays:id/notifications_permission_label_title']</element>
+    <element type="xpath">//android.widget.TextView[@text='Allow notifications']</element>
+    <element type="xpath">//android.widget.TextView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.TextView</element>
+    <element type="id">com.tmobile.tuesdays:id/notifications_permission_label_body</element>
+    <element type="xpath">//android.widget.TextView[@resource-id='com.tmobile.tuesdays:id/notifications_permission_label_body']</element>
+    <element type="xpath">//android.widget.TextView[@text='Get important alerts, location updates, deals, and more.']</element>
+    <element type="xpath">//android.widget.TextView[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.TextView[2]</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/642.png</element>
+  </locator>
+  <locator name="ele_tlifeAnSkipAccessoriesButton">
+    <element type="xpath">//android.view.View[contains(@resource-id,'sales_skip_accessory_pdp_button')]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/643.png</element>
+  </locator>
+  <locator name="ele_tlifeAnNoThanksButton">
+    <element type="xpath">(//android.view.View[@content-desc='No Thanks'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='No Thanks']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View</element>
+    <element type="xpath">//android.view.View[@content-desc='Change Settings']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='3']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/644.png</element>
+  </locator>
+  <locator name="ele_tlifeAnShippingButton">
+    <element type="xpath">//android.view.View[contains(@resource-id,'sales_ship_to_me_button')]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/645.png</element>
+  </locator>
+  <locator name="ele_tlifeAnAllowButton">
+    <element type="id">com.android.permissioncontroller:id/permission_allow_button</element>
+    <element type="xpath">//android.widget.Button[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button</element>
+    <element type="id">com.android.permissioncontroller:id/permission_deny_button</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_deny_button']</element>
+    <element type="xpath">//android.widget.Button[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button[2]</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_button']</element>
+    <element type="xpath">//android.widget.Button[@text='Allow']</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/646.png</element>
+  </locator>
+  <locator name="ele_tlifeAnCartDeviceMenuButton">
+    <element type="xpath">(//android.widget.Button[@content-desc='Menu'])[1]</element>
+    <element type="xpath">//android.widget.Button[@content-desc='Menu']</element>
+    <element type="xpath">//android.widget.Button[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='6']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/647.png</element>
+  </locator>
+  <locator name="ele_tlifeAnAddToCartButtonn">
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Add to cart']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="id">com.tmobile.tuesdays:id/sales_add_to_cart_pdp_button</element>
+    <element type="xpath">//android.view.View[@resource-id='com.tmobile.tuesdays:id/sales_add_to_cart_pdp_button']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/648.png</element>
+  </locator>
+  <locator name="ele_tlifeAnProtectionSelectButtonn">
+    <element type="id">com.tmobile.tmte:id/sales_protection_plan_buttonnull</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/649.png</element>
+  </locator>
+  <locator name="ele_NoThanksButton">
+    <element type="xpath">(//android.widget.TextView[@text='No thanks'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.widget.TextView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/650.png</element>
+  </locator>
+  <locator name="ele_salesdoneaccessorypdpbutton">
+    <element type="xpath">//*[contains(@resource-id,'sales_done_accessory_pdp_button')]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Done']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="id">com.tmobile.tmte:id/sales_done_accessory_pdp_button</element>
+    <element type="xpath">//android.view.View[@resource-id='com.tmobile.tmte:id/sales_done_accessory_pdp_button']</element>
+    <element type="xpath">//android.view.View[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]</element>
+    <element type="id">com.tmobile.tmte:id/sales_pdp_list_selectionnull</element>
+    <element type="xpath">//android.view.View[@resource-id='com.tmobile.tmte:id/sales_pdp_list_selectionnull']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/651.png</element>
+  </locator>
+  <locator name="ele_CloseButton">
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'drive_snacbar_close')])[1]</element>
+    <element type="id">com.tmobile.tuesdays:id/drive_snacbar_close</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.tmobile.tuesdays:id/drive_snacbar_close']</element>
+    <element type="xpath">//android.widget.Button[@text='Close']</element>
+    <element type="xpath">//android.widget.Button[@content-desc='Close']</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.Button</element>
+    <element type="xpath">//android.widget.Button[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Check out']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/652.png</element>
+  </locator>
+  <locator name="ele_YourpaymentsadjustedbasedonourfinancingofferPopup">
+    <element type="xpath">(//android.widget.TextView[@text='Your payments adjusted based on our financing offer'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text='Your payments adjusted based on our financing offer']</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.widget.TextView</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/653.png</element>
+  </locator>
+  <locator name="ele_PaymentAdjustmentPopUpCloseBtn">
+    <element type="xpath">//android.view.View[@content-desc="Close"]</element>
+    <element type="xpath">//android.widget.TextView[@text='Your payments adjusted based on our financing offer']</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.widget.TextView</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Close']</element>
+    <element type="xpath">//android.widget.ImageView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.widget.ImageView</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/654.png</element>
+  </locator>
+  <locator name="ele_BOWISCheckinCTA">
+    <element type="xpath">(//android.view.View[@content-desc='Check in'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[4]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Check in']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[4]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[4]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[4]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/655.png</element>
+  </locator>
+  <locator name="ele_ClosePopUp">
+    <element type="xpath">(//android.view.View[@content-desc='Close'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Close']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/656.png</element>
+  </locator>
+  <locator name="ele_bopisStoreInCartPage">
+    <element type="xpath">//android.widget.TextView[contains(@text,'Pick up in-store')]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/657.png</element>
+  </locator>
+  <locator name="ele_DeviceDetailsUnavailableTextPopUpHeader">
+    <element type="xpath">(//android.widget.TextView[@text='Device Details Unavailable'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text='Device Details Unavailable']</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/658.png</element>
+  </locator>
+  <locator name="ele_tlifeAnToggleSavetomywallet">
+    <element type="xpath">(//android.view.View[@content-desc='Save to my wallet,SWITCH, on'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View[3]/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/659.png</element>
+  </locator>
+  <locator name="ele_TradeinView">
+    <element type="xpath">(//android.view.View[@content-desc='Trade in'])[1]</element>
+    <element type="xpath">//android.widget.Button[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.Button</element>
+    <element type="xpath">//android.view.View[@content-desc='Trade in']</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Skip trade in']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='4']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]</element>
+    <element type="id">com.tmobile.tuesdays:id/sales_pdp_list_selectionnull</element>
+    <element type="xpath">//android.view.View[@resource-id='com.tmobile.tuesdays:id/sales_pdp_list_selectionnull']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='5']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/660.png</element>
+  </locator>
+  <locator name="ele_selectskiptradein">
+    <element type="xpath">(//android.view.View[@content-desc='Skip trade in'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[6]/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/661.png</element>
+  </locator>
+  <locator name="ele_tlifeAnSelectToggleUsethisasmypaymentaddress">
+    <element type="xpath">(//android.view.View[@content-desc='Use this as my payment address,SWITCH, on'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View[5]/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/662.png</element>
+  </locator>
+  <locator name="ele_tlifeAnBtnChangeSettings">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View/android.view.View[2]</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/663.png</element>
+  </locator>
+  <locator name="ele_tlifeAnButtonCloseImage">
+    <element type="xpath">(//android.widget.ImageView[@content-desc='Close'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text='Your payments adjusted based on our financing offer']</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.widget.TextView</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Close']</element>
+    <element type="xpath">//android.widget.ImageView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.widget.ImageView</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/664.png</element>
+  </locator>
+  <locator name="ele_EnvironmentswitcherPagetitle">
+    <element type="xpath">(//android.view.View[@content-desc='Environments'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/665.png</element>
+  </locator>
+  <locator name="ele_AppEnvselection">
+    <element type="xpath">//*[contains(@resource-id,'me_setting_button_item_0')]</element>
+    <element type="id">com.tmobile.tmte:id/me_setting_button_item_0</element>
+    <element type="xpath">(//android.view.View[@resource-id='com.tmobile.tmte:id/me_setting_button_item_0'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/666.png</element>
+  </locator>
+  <locator name="ele_tlifeAnTabShop">
+    <element type="xpath">//android.view.View[contains(@content-desc,'Shop')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[4]/android.view.View</element>
+  </locator>
+  <locator name="ele_BackButton1773166713328">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.Button</element>
+  </locator>
+  <locator name="ele_tlifeAnTradeInButton">
+    <element type="xpath">//android.view.View[@content-desc='Trade in']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnContinueButton">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnEnterIMEINumberLink">
+    <element type="xpath">//android.widget.TextView[@text="Enter IMEI number instead"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnDeviceStorageButton">
+    <element type="xpath">(//android.widget.RadioButton[contains(@content-desc,'GB') or contains(@content-desc,'MB')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.RadioButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.RadioButton</element>
+  </locator>
+  <locator name="ele_tlifeAnIMEINumberFieldd">
+    <element type="id">com.tmobile.tmte:id/sales_tradein_imei_text_label</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.EditText/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.EditText/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnTradeInContinueButton">
+    <element type="id">com.tmobile.tmte:id/sales_tradein_imei_continue_button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.widget.Button</element>
+  </locator>
+  <locator name="ele_tlifeAnTradeinYesButton">
+    <element type="id">com.tmobile.tmte:id/sales_verify_tradein_yes_button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[9]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[9]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnAcceptAndContinueButton">
+    <element type="id">com.tmobile.tmte:id/sales_tradein_promotion_continue_button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnSkipTradeinContinueButton">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_MenuButton1773294044176">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.Button</element>
+  </locator>
+  <locator name="ele_tlifeAnShopForMoreButton">
+    <element type="xpath">//android.view.View[@content-desc='Shop for more']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnPickupStore">
+    <element type="xpath">//android.view.View[contains(@resource-id,'sales_store_pickup_button')]/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnkeyboardSearchButton">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnCheckOutButton">
+    <element type="xpath">//android.view.View[@content-desc="Check out"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnShopSmartwatchesPage">
+    <element type="xpath">//android.view.View[@content-desc="Shop smartwatches"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnSelectWatch">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymonthly">
+    <element type="xpath">(//android.widget.RadioButton[contains(@content-desc,'Pay monthly') or contains(@text,'Pay monthly')] | //android.view.View[@clickable='true'][.//android.widget.TextView[contains(@text,'Pay monthly')] or contains(@content-desc,'Pay monthly')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnAddFirstAccessory">
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id, 'sales_add_delete_recommended_accessory_button') and @content-desc='Add'] | //android.widget.ImageView[@content-desc='Add'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnDialogRemoveButton">
+    <element type="xpath">//android.view.View[@content-desc='Remove']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnCartDeviceName">
+    <element type="xpath">(//android.widget.TextView[following-sibling::android.widget.TextView[contains(@text,'GB')]])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnCartTradeInCreditLabel">
+    <element type="xpath">//android.widget.TextView[contains(@text,'Credit of')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView[8]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView[8]</element>
+  </locator>
+  <locator name="ele_tlifeAnDeliveryMethodEditButton">
+    <element type="xpath">//android.widget.Button[@content-desc='Delivery method' and @clickable='true']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.Button[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.Button[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnDeliveryGround">
+    <element type="xpath">//android.view.View[contains(@content-desc,'Ground')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnDeliveryTypeGround">
+    <element type="xpath">//android.widget.TextView[@text='Ground - Up to 7 business days']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.TextView[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.TextView[3]</element>
+  </locator>
+  <locator name="ele_tlifeAnDeliveryTwoDay">
+    <element type="xpath">//android.view.View[contains(@content-desc,'Two Day')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.ScrollView/android.view.View[2]/android.view.View[3]</element>
+  </locator>
+  <locator name="ele_tlifeAnConsentElectronicCheckbox">
+    <element type="xpath">//android.view.View[@content-desc='Consent to use electronic records and signatures']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View[3]</element>
+  </locator>
+  <locator name="ele_tlifeAnEquipmentPlanCheckboxFirst">
+    <element type="xpath">//android.view.View[@checkable='true' and .//android.view.View[contains(@content-desc,'24 month')]]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View[3]</element>
+  </locator>
+  <locator name="ele_tlifeAnTradeInAgreementCheckbox">
+    <element type="xpath">//android.view.View[@content-desc='I agree to the following trade-in agreement']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View[3]</element>
+  </locator>
+  <locator name="ele_tlifeAnAgreeAndContinueButton">
+    <element type="xpath">//android.view.View[@content-desc="Agree and continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentNameField">
+    <element type="xpath">//android.widget.EditText[@resource-id="com.tmobile.tmte:id/payment_addcard_name"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentCardNumberField">
+    <element type="xpath">//android.widget.EditText[@resource-id="com.tmobile.tmte:id/payment_addcard_cardNumber"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText[2]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentExpiryDateField">
+    <element type="xpath">//android.widget.EditText[@resource-id="com.tmobile.tmte:id/payment_addcard_expiryDate"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View/android.widget.EditText/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View/android.widget.EditText/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentCVVField">
+    <element type="xpath">//android.widget.EditText[@resource-id="com.tmobile.tmte:id/payment_addcard_cvv"]</element>
+    <element type="xpath">(//android.widget.TextView[@resource-id='LABEL_TEXT'])[1]</element>
+    <element type="id">(//android.widget.TextView[@resource-id='LABEL_TEXT'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View[2]/android.widget.EditText/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.view.View[2]/android.widget.EditText/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentNicknameField">
+    <element type="xpath">//android.widget.EditText[@resource-id="com.tmobile.tmte:id/payment_addcard_nick_name"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText[2]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ScrollView/android.widget.EditText[2]/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnPaymentContinueButton">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.widget.Button</element>
+  </locator>
+  <locator name="ele_tlifeAnBreakdownDeviceName">
+    <element type="xpath">(//android.view.View[@content-desc='Description']/following-sibling::android.view.View//android.widget.TextView)[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[3]/android.view.View[2]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[3]/android.view.View[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnBreakdownProtection360Label">
+    <element type="xpath">//android.widget.TextView[contains(@text,'Protection 360')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[5]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[5]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnBreakdownShippingLabel">
+    <element type="xpath">//android.widget.TextView[@text='Shipping']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[6]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[6]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnBreakdownEstimatedTaxLabel">
+    <element type="xpath">//android.widget.TextView[@text='Estimated tax']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnBreakdownTotalLabel">
+    <element type="xpath">//android.widget.TextView[@text='Total']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[8]/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]/android.view.View[8]/android.view.View/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchaseBreakdownClose">
+    <element type="xpath">//android.view.View[@content-desc='Close']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnWatchStorage">
+    <element type="xpath">//android.widget.RadioButton[contains(@content-desc,'Due today')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.RadioButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.widget.RadioButton</element>
+  </locator>
+  <locator name="ele_tlifeAnReviewOrderHeader">
+    <element type="xpath">//android.view.View[@content-desc="Review order"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnViewPurchaseBreakdownLink">
+    <element type="xpath">//android.widget.TextView[@text="View purchase breakdown"]  </element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.TextView[5]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.TextView[5]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownHeader">
+    <element type="xpath">//android.widget.TextView[@text="Purchase breakdown"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnRemoveDeviceOption">
+    <element type="xpath">//android.widget.TextView[contains(@text,'Remove')]</element>
+    <element type="xpath">//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.widget.TextView</element>
+    <element type="xpath">//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnReadytoCheckout">
+    <element type="xpath">//android.widget.TextView[@content-desc="Ready to check out?"]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.TextView</element>
+    <element type="xpath">(//android.widget.TextView[@resource-id='com.tmobile.tmte:id/persistent_cart_text_title'])[1]</element>
+    <element type="id">(//android.widget.TextView[@resource-id='com.tmobile.tmte:id/persistent_cart_text_title'])[1]</element>
+  </locator>
+  <locator name="ele_RemovedeviceTextView1773574735446">
+    <element type="xpath">//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_tlifeAnShopForMore">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+  </locator>
+  <locator name="ele_tlifeAnRemovecartdevice">
+    <element type="xpath">//android.view.View[@content-desc="Remove"]</element>
+  </locator>
+  <locator name="ele_tlifeAnAddWatch">
+    <element type="xpath">//android.widget.TextView[@text="Watch SE 3 40mm"]</element>
+  </locator>
+  <locator name="ele_tlifeAnAccEIP">
+    <element type="xpath">//android.widget.RadioButton[@content-desc="Pay monthly"]</element>
+  </locator>
+  <locator name="ele_tlifeAnAddtoCart">
+    <element type="xpath">//android.view.View[@content-desc="Add to cart"]</element>
+  </locator>
+  <locator name="ele_tlifeAnFirstColor">
+    <element type="xpath">//android.view.View[contains(@resource-id,'sales_color_option_card_pdp1')]/android.view.View/android.widget.RadioButton</element>
+  </locator>
+  <locator name="ele_tlifeAnCartHeader">
+    <element type="xpath">//android.widget.TextView[@text="Cart"]</element>
+  </locator>
+  <locator name="ele_tlifeAnAddButton">
+    <element type="xpath">//android.view.View[@content-desc="Add"]</element>
+  </locator>
+  <locator name="ele_tlifeAnAddProtection">
+    <element type="xpath">//android.view.View[@content-desc="SelectProtection 360®"]</element>
+  </locator>
+  <locator name="ele_tlifeAnUpgradeCard">
+    <element type="xpath">//android.widget.TextView[@text="Upgrade"]</element>
+  </locator>
+  <locator name="ele_tlifeAnCartProtection">
+    <element type="xpath">//android.widget.TextView[@text="Protection 360™"]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownDevice">
+    <element type="xpath">//android.widget.TextView[@text="Watch SE 3 40mm"]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownProtection">
+    <element type="xpath">//android.widget.TextView[@content-desc="DescriptionProtection 360™"]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownEstimatedTax">
+    <element type="xpath">//android.widget.TextView[@text="Estimated tax"]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownTotal">
+    <element type="xpath">//android.widget.TextView[@content-desc="DescriptionTotal"]</element>
+  </locator>
+  <locator name="ele_tlifeAnRevieworderBopisDeliveryMethod">
+    <element type="xpath">//android.widget.TextView[@text="Free store pickup at Plaza at Windward"]</element>
+  </locator>
+  <locator name="ele_tlifeAnPurchasebreakdownCloseButton">
+    <element type="xpath">//android.view.View[@content-desc="Close"]</element>
+  </locator>
+  <locator name="ele_tlifeAnChangeStoreButton">
+    <element type="xpath">//android.widget.Button[contains(@resource-id, 'sales_your_store_text')]</element>
+  </locator>
+  <locator name="ele_tlifeAnStorePickupSearchBox">
+    <element type="xpath">//android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnStorePickupFirstStore">
+    <element type="xpath">(//android.widget.RadioButton)[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnStorePickupUpdateButton">
+    <element type="id">com.tmobile.tuesdays:id/sales_store_pickup_update_button</element>
+  </locator>
+  <locator name="ele_tlifeAnAccessoriesPayMonthlyOption">
+    <element type="xpath">(//android.widget.RadioButton[contains(@content-desc,'Pay monthly') or contains(@text,'Pay monthly')] | //android.view.View[@clickable='true'][.//android.widget.TextView[contains(@text,'Pay monthly')] or contains(@content-desc,'Pay monthly')])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnCartLineCardChevron">
+    <element type="xpath">//android.widget.TextView[@text='Lines']/following-sibling::android.view.View[2]//android.view.View[@clickable='true']/android.view.View[last()]</element>
+  </locator>
+  <locator name="ele_tlifeAnAccountAccessReviewLabel">
+    <element type="xpath">(//android.widget.TextView[contains(@text,'Review who can access and manage your account')])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnFingerprintSetupCloseButton">
+    <element type="xpath">(//android.widget.ScrollView/preceding-sibling::android.view.View[@clickable='true'][.//android.view.View[@content-desc='Close']])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnFingerprintSetupUseFingerprintLabel">
+    <element type="xpath">(//android.view.View[@content-desc='Use Fingerprint']/ancestor::android.view.View[@clickable='true'])[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnSettingsButtonn">
+    <element type="xpath">//*[@content-desc='Settings' and @clickable='true'] | //*[@content-desc='Settings']/parent::*[@clickable='true']</element>
+  </locator>
+  <locator name="ele_tlifeAnStorePickupSearchEditBox">
+    <element type="xpath">//android.view.View[contains(@content-desc,'Search for City')]</element>
+  </locator>
+  <locator name="ele_tlifeAnEquipmentPlanCheckboxSecond">
+    <element type="xpath">//android.view.View[@checkable='true' and .//android.view.View[contains(@content-desc,'12 month')]]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidProsGetTradeinEstimate">
+    <element type="xpath">//android.view.View[@content-desc="Get a trade-in estimate"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidNextButton">
+    <element type="xpath">(//android.view.View[@content-desc='Next'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnPromotionCard">
+    <element type="xpath">//android.widget.TextView[contains(@text,'per month')]/ancestor::android.view.View[1]/following-sibling::android.view.View[1]/android.view.View[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnlabelReviewCartCheckout">
+    <element type="xpath">(//android.view.View[@content-desc='Check out'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View</element>
+  </locator>
+  <locator name="ele_tlifeAnShopForMoreButtonn">
+    <element type="xpath">//android.view.View[@content-desc='Shop for more']</element>
+  </locator>
+  <locator name="ele_BOWISToggle">
+    <element type="xpath">//android.view.View[contains(@resource-id,"sales_bowis_toggle_pdp")]/android.view.View[@resource-id="SWITCH"]</element>
+  </locator>
+  <locator name="ele_tlifeAnCancelBtn">
+    <element type="xpath">//android.widget.TextView[@text="Cancel"]</element>
+  </locator>
+  <locator name="ele_tlifeAnCustomizeDeviceTitle">
+    <element type="xpath">//*[@content-desc='Customize your device']</element>
+  </locator>
+  <locator name="ele_tlifeAnShopThisStoreButton">
+    <element type="xpath">//android.view.View[@content-desc="Shop this store"]/following-sibling::android.widget.Button</element>
+  </locator>
+  <locator name="ele_DismissPopup">
+    <element type="xpath">//android.widget.Button[@content-desc="Dismiss"]</element>
+  </locator>
+  <locator name="ele_tlifeAnlabelAdddevicesbeforecheckingout">
+    <element type="xpath">(//android.widget.TextView[@text='Add devices before checking out?'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text="Add devices before checking out?"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Add devices before checking out?"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView[1]</element>
+  </locator>
+  <locator name="ele_tlifeAnBtnLogInWithTmoID">
+    <element type="xpath">//android.view.View[contains(@content-desc,'Log in')]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidQlab01Environment">
+    <element type="xpath">//android.widget.Button[@text="Qlab01"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidQlab02Environment">
+    <element type="xpath">//android.widget.Button[@text="Qlab02"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidQlab03Environment">
+    <element type="xpath">//android.widget.Button[@text="Qlab03"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidStageEnvironment">
+    <element type="xpath">//android.widget.Button[@text="Staging"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidProdGreenEnvironment">
+    <element type="xpath">//android.widget.Button[@text="Prodgreen"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidProdEnvironment">
+    <element type="xpath">//android.widget.Button[@text="Production"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidSaveButton">
+    <element type="xpath">//android.view.View[@content-desc="Save"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidWelcomeToMagentaStatusPageCloseButton">
+    <element type="xpath">//android.view.View[@content-desc="Close"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidWelcomeToMagentaStatusPage">
+    <element type="xpath">//android.widget.TextView[@text="Welcome to Magenta Status (duplicate)"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidIntelligentHubCancel">
+    <element type="xpath">//android.view.View[contains(@resource-id,"intelligent_hub_splash_cancel")]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidDataChoicesScreen">
+    <element type="xpath">//android.widget.ImageView[@content-desc="Your data, your choice"] | //android.widget.ImageView[@content-desc="Enhance your experiences"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidDataChoicesAcceptButton">
+    <element type="xpath">//android.view.View[@content-desc="Accept"]</element>
+  </locator>
+  <locator name="ele_tlifeAndroidDataChoicesContinueButton">
+    <element type="xpath">//android.view.View[@content-desc="Continue"]</element>
+  </locator>
+  <locator name="ele_tlifeAnSnackbarRetryButton">
+    <element type="xpath">//*[contains(@resource-id,'drive_snacbar_close')]</element>
+  </locator>
+  <locator name="ele_tlifeAnWelcomeContinueButton">
+    <element type="xpath">//android.view.View[contains(@resource-id,'welcome_screen_button_primary') and @clickable='true']</element>
+  </locator>
+  <locator name="ele_mainmenurefreshTextView1788169786082">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/773.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1788169794160">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/774.png</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView1788169797194">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="image">http://192.168.88.151/s/ele-imgs/47/775.png</element>
+  </locator>
+</locators>
