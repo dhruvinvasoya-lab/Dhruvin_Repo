@@ -38,7 +38,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1314.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1537.png"
         },
         {
             "testcase_element": "ele_Formfieldemail",
@@ -78,7 +78,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1315.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1538.png"
         },
         {
             "testcase_element": "ele_ReturnButton",
@@ -128,7 +128,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1316.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1539.png"
         },
         {
             "testcase_element": "ele_LocationButton1781773745657",
@@ -165,7 +165,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1329.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1540.png"
         },
         {
             "testcase_element": "ele_buttoncurrentLocationButton1781773757707",
@@ -202,7 +202,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1330.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1541.png"
         },
         {
             "testcase_element": "ele_AllowWhileUsingAppButton1781773778163",
@@ -239,7 +239,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1331.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1542.png"
         },
         {
             "testcase_element": "ele_FormfirstName",
@@ -279,7 +279,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1349.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1543.png"
         },
         {
             "testcase_element": "ele_FormlastName",
@@ -319,7 +319,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1351.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1544.png"
         },
         {
             "testcase_element": "ele_DoneButton",
@@ -369,7 +369,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1352.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1545.png"
         },
         {
             "testcase_element": "ele_Submittext",
@@ -419,7 +419,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1353.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1546.png"
         },
         {
             "testcase_element": "ele_ClearDataButton",
@@ -469,7 +469,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1360.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1547.png"
         },
         {
             "testcase_element": "ele_Formfieldpassword",
@@ -509,7 +509,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1361.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1548.png"
         },
         {
             "testcase_element": "ele_ShowPass",
@@ -559,7 +559,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1362.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1549.png"
         },
         {
             "testcase_element": "ele_ControlsButton1781785633137",
@@ -596,7 +596,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1363.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1550.png"
         },
         {
             "testcase_element": "ele_ScreensButton1781785646867",
@@ -633,7 +633,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1364.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1551.png"
         },
         {
             "testcase_element": "ele_OpenScrollScreenStaticText1781785671348",
@@ -670,7 +670,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1365.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1552.png"
         },
         {
             "testcase_element": "ele_buttonscrollToBottomElement",
@@ -720,7 +720,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1366.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1553.png"
         },
         {
             "testcase_element": "ele_APIButton1781853971839",
@@ -757,7 +757,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1367.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1554.png"
         },
         {
             "testcase_element": "ele_FormTab",
@@ -807,7 +807,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1368.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1555.png"
         },
         {
             "testcase_element": "ele_navscrollButton1782114352564",
@@ -844,7 +844,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1543.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1556.png"
         },
         {
             "testcase_element": "ele_horizontalscrollview",
@@ -914,7 +914,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1545.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1558.png"
         },
         {
             "testcase_element": "ele_Card1",
@@ -964,7 +964,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1546.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1559.png"
         },
         {
             "testcase_element": "ele_Page1",
@@ -1014,7 +1014,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1547.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1560.png"
         },
         {
             "testcase_element": "ele_SnappingCarouselTitle",
@@ -1064,7 +1064,27 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.21/s/ele-imgs/57/1548.png"
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1561.png"
+        },
+        {
+            "testcase_element": "ele_tapbyimage",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_id",
+                    "locators_val": "wdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "tapbyimage"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_id",
+            "image_url": "https://192.168.4.21/s/ele-imgs/139/1716.png"
         }
     ]
 }

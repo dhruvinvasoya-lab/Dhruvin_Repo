@@ -23,10 +23,10 @@ public class tdptgvar {
 		tg.openDevice();
 		tg.wait(2);
 		tg.wait("ele_FormfullName", ComparisonType.IS_VISIBLE);
-		tg.type("ele_FormfullName", "DemoTest", false);
+		tg.type("ele_FormfullName", "#TGITVAR.FirstName", false);
 		tg.wait(2);
 		tg.wait("ele_Formfieldemail", ComparisonType.IS_VISIBLE);
-		tg.type("ele_Formfieldemail", "EmailTest", false);
+		tg.type("ele_Formfieldemail", "#TGITVAR.LastName", false);
 		tg.wait(1);
 		tg.wait("ele_DoneButton", ComparisonType.IS_VISIBLE);
 		tg.click("ele_DoneButton", 1);

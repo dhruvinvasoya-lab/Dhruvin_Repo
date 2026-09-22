@@ -21,13 +21,14 @@ public class wcsvtapbyimage {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void wcsvtapbyimage() {
 		tg.openDevice();
+		tg.wait(5);
+		tg.tapByImage("ele_tapbyimage", 0.5);
 		tg.swipe(Direction.DOWN);
 		tg.wait("ele_ScreensButton1781785646867", ComparisonType.IS_VISIBLE);
 		tg.click("ele_ScreensButton1781785646867", 1);
 		tg.wait("ele_OpenScrollScreenStaticText1781785671348", ComparisonType.IS_VISIBLE);
 		tg.click("ele_OpenScrollScreenStaticText1781785671348", 1);
 		tg.wait(2);
-		tg.tapByImage("ele_buttonscrollToBottomElement", 0.5);
 		tg.wait(2);
 		tg_String var_var1 = "Null";
 		tg_int var_var2 = 0;
