@@ -22,7 +22,7 @@ public class tdpjson {
 	public void tdpjson() {
 		tg.openDevice();
 		tg.wait(2);
-		JSONObject var_Data = tg.getJsonData("https://poc27.testgrid.io/s/csv-to-json/20260618/IHfGcT.json");
+		JSONObject var_Data = tg.getJsonData("https://demo.testgrid.io/s/csv-to-json/20260923/86o9O5.json");
 		tg_int var_count = 0;
 		tg_String var_fname = "Null";
 		tg_String var_email = "Null";

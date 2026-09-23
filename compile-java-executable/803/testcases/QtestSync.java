@@ -16,22 +16,14 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class callfunction {
+public class qtestsync {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void callfunction() {
+	public void qtestsync() {
 		tg.openDevice();
-				tg.testFunction("checkFunc");
-		START_CUSTOM_SCRIPT;
-		WebElement clearBtn = driver.findElement(By.xpath("//XCUIElementTypeButton[@name='section.clear']"));
-		clearBtn.click();
-		WebElement fullName = driver.findElement(By.xpath("//XCUIElementTypeTextField[@name='field.fullName']"));
-		fullName.sendKeys("Demo_FullName" + "\n");
-		WebElement firstName = driver.findElement(By.xpath("//XCUIElementTypeTextField[@name='field.firstName']"));
-		firstName.sendKeys("Demo_FirstName" + "\n");
-		WebElement clearBtn1 = driver.findElement(By.xpath("//XCUIElementTypeButton[@name='section.clear']"));
-		clearBtn1.click();
-		END_CUSTOM_SCRIPT;
+		tg.wait(5);
+		tg.click("ele_APIButton1781853971839");
+		tg.wait(5);
 		tg.close();
 	}
 }
