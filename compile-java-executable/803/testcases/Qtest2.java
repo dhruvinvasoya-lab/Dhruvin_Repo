@@ -24,6 +24,7 @@ public class qtest2 {
 		tg.wait(10);
 		tg.wait(15);
 		tg.click("ele_APIButton1781853971839");
+		tg.wait(10);
 		tg.close();
 	}
 }
