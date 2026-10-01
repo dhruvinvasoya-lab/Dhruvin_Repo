@@ -6,4 +6,7 @@
   <locator name="ele_GW1">
     <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
   </locator>
+  <locator name="ele_Demo">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='STAR-FLIP Poco C50/C51/REDMI A1+ Liquid Silicon Chrome Back Cover Soft Silicone Flexible and Soft TPU Bumper Edges Gold Back Cover for Poco C50/C51/REDMI A1+'])[2]</element>
+  </locator>
 </locators>

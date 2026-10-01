@@ -21,5 +21,6 @@ class copy1 {
 		tg.wait(1);
 		tg.testFunction("Copy", new Object[]{});
 		tg.wait("ele_firstpassword", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_Demo", ComparisonType.IS_VISIBLE);
 	}
 }
