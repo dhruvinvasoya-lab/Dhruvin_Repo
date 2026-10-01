@@ -18,6 +18,6 @@ import org.testng.annotations.Test;
 class copy {
 
 	public static void copy() {
-				tg.wait(5);
+		tg.wait(1);
 	}
 }
