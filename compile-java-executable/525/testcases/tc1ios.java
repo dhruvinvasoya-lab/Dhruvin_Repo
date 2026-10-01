@@ -23,6 +23,7 @@ public class tc1ios {
 		tg.openDevice();
 		tg.wait(1);
 		tg.testFunction("Copy", new Object[]{});
+		tg.wait("ele_firstpassword", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
