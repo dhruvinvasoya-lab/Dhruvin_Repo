@@ -59,6 +59,26 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_KM123",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@type='text']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "KM123"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }
