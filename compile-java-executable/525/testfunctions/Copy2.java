@@ -15,11 +15,11 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class copy1 {
+class copy2 {
 
-	public static void copy1() {
+	public static void copy2() {
 		tg.wait(1);
 		tg.testFunction("Copy", new Object[]{});
-		tg.wait("ele_firstpassword", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_Demo", ComparisonType.IS_VISIBLE);
 	}
 }
