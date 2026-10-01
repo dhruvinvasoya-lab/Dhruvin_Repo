@@ -22,6 +22,7 @@ public class tc1ios {
 	public void tc1ios() {
 		tg.openDevice();
 		tg.wait(1);
+		tg.testFunction("Copy", new Object[]{});
 		tg.close();
 	}
 }
