@@ -21,7 +21,11 @@ public class testrnp {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void testrnp() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_EnteremailaddressEditText1790922744843", ComparisonType.IS_VISIBLE);
+				tg.click("ele_EnteremailaddressEditText1790922744843", 1);
+				tg.wait("ele_EnteremailaddressEditText1790922744843", ComparisonType.IS_VISIBLE);
+				tg.type("ele_EnteremailaddressEditText1790922744843", "emailone", true);
 		tg.close();
 	}
 }

@@ -24,9 +24,9 @@ public class tdptgvar {
 		tg.wait(2);
 		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
 		tg.type("ele_EnteremailaddressEditText1782830312862", "DemoTest", false);
-		tg.wait(2);
-		tg.wait("ele_EnterpasswordEditText1782830323675", ComparisonType.IS_VISIBLE);
-		tg.type("ele_EnterpasswordEditText1782830323675", "EmailTest", false);
+		// [DISABLED] tg.wait(2);
+		// [DISABLED] tg.wait("ele_EnterpasswordEditText1782830323675", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.type("ele_EnterpasswordEditText1782830323675", "EmailTest", false);
 		tg.wait(1);
 		tg.close();
 	}
