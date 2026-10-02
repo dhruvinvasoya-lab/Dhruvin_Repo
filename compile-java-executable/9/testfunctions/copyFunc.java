@@ -15,9 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class check_func_ {
+class copyfunc {
 
-	public static void check_func_() {
+	public static void copyfunc() {
 		tg.type("ele_EnteremailaddressEditText1782830312862", "40", false);
 		tg.wait(1);
 		tg.check.isEqualTo("ele_EnteremailaddressEditText1782830312862","40");
@@ -28,7 +28,7 @@ class check_func_ {
 		tg.check.isLessThan("ele_EnteremailaddressEditText1782830312862","42");
 		tg.check.isEnabled("ele_EnteremailaddressEditText1782830312862");
 		tg.wait(2);
-		// [DISABLED] tg.printLogs("Done");
+		tg.printLogs("Done");
 		// [DISABLED] tg.printLogs("Check Action Success..........!!!!!!!!!!!");
 	}
 }

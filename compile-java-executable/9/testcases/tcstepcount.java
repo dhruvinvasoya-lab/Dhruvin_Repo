@@ -16,17 +16,13 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class testrnp {
+public class tcstepcount {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-    	@XrayTest(key = "TES-3")
-	public void testrnp() {
+	public void tcstepcount() {
 		tg.openDevice();
 				tg.swipe(Direction.DOWN);
-				tg.wait("ele_EnteremailaddressEditText1790922744843", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1790922744843", 1);
-				tg.wait("ele_EnteremailaddressEditText1790922744843", ComparisonType.IS_VISIBLE);
-				tg.type("ele_EnteremailaddressEditText1790922744843", "emailone", true);
+				tg.wait("ele_EnterpasswordEditText1790949077632", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }

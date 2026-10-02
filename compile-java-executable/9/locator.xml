@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
   <locator name="ele_EnteremailaddressEditText1782830312862">
-    <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_emailssss'])[1]</element>
+    <element type="id">com.app.urunner:id/et_emailTGWEBCOMMAIdTGWEBCOMMA</element>
     <element type="id">com.app.urunner:id/et_email</element>
     <element type="xpath">(//android.widget.EditText[@resource-id='com.app.urunner:id/et_email'])[1]</element>
     <element type="xpath">(//android.widget.EditText[@text='Enter email address'])[1]</element>
@@ -111,5 +111,17 @@
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/9/165.png</element>
+  </locator>
+  <locator name="ele_EnterpasswordEditText1790949077632">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'et_password')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/9/352.png</element>
+  </locator>
+  <locator name="ele_textinputendiconImageButton1790949084506">
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'text_input_end_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/9/353.png</element>
   </locator>
 </locators>

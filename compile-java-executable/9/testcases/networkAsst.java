@@ -21,8 +21,8 @@ public class networkasst {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void networkasst() {
 		tg.openDevice();
-		tg.wait("ele_OKButton1782897845098", ComparisonType.IS_VISIBLE);
-		tg.click("ele_OKButton1782897845098", 1);
+		tg.alertButton("OK");
+		tg.alertButton("Allow");
 		tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE);
 		tg.click("ele_mainmenurefreshTextView1782897866283", 1);
 		// [DISABLED] tg.wait("ele_mainmenudetectlocationTextView1782897852588", ComparisonType.IS_VISIBLE);
@@ -32,8 +32,8 @@ public class networkasst {
 		// [DISABLED] tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE);
 		// [DISABLED] tg.click("ele_mainmenurefreshTextView1782897866283", 1);
 		tg_Double var_networkdata = .0;
-		var_networkdata = tg.saveToVariable(51.51, var_networkdata);
-		tg.networkAssert("NetworkAssert", var_networkdata);
+		var_networkdata = tg.saveToVariable(51.5, var_networkdata);
+		tg.networkAssert("CallAPI", var_networkdata);
 		tg.close();
 	}
 }
