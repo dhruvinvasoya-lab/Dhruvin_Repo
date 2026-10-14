@@ -13,13 +13,13 @@
                     "d_w": 285,
                     "d_x": 699,
                     "d_y": 2003,
-                    "suggest_name": "xpath"
+                    "suggest_name": "ele_okele14093728602038"
                 },
                 {
                     "locators": "xpath",
                     "locator_type": 1,
                     "locators_val": "//android.widget.Button[@resource-id=\"android:id/button1\"]",
-                    "suggest_name": "xpath",
+                    "suggest_name": "ele_okele14093728602038",
                     "temp_element_id": 0,
                     "value": [
                         "//android.widget.Button[@resource-id=\"android:id/button1\"]"
@@ -35,7 +35,7 @@
                     "locators": "xpath",
                     "locator_type": 1,
                     "locators_val": "//android.widget.Button[@text=\"OK\"]",
-                    "suggest_name": "xpath",
+                    "suggest_name": "ele_okele14093728602038",
                     "temp_element_id": 0,
                     "value": [
                         "//android.widget.Button[@text=\"OK\"]"
@@ -51,7 +51,7 @@
                     "locators": "xpath",
                     "locator_type": 3,
                     "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]",
-                    "suggest_name": "xpath",
+                    "suggest_name": "ele_okele14093728602038",
                     "temp_element_id": 0,
                     "value": [
                         "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]"

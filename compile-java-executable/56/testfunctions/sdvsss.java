@@ -15,9 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class sdv {
+class sdvsss {
 
-	public static void sdv() {
+	public static void sdvsss() {
 		tg.wait(4);
 	}
 }
