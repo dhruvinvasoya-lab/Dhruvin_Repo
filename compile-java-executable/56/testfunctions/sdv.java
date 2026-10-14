@@ -18,6 +18,6 @@ import org.testng.annotations.Test;
 class sdv {
 
 	public static void sdv() {
-		tg.wait(1);
+		tg.wait(4);
 	}
 }
