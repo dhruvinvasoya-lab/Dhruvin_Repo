@@ -27,9 +27,9 @@ public class amzupen {
 		tg.openBrowser();
 		tg.navigateToUrl("https://www.amazon.in/");
 		tg.pageLoadStart("Amazon");
-		tg.wait("ele_i881", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_i881", ComparisonType.IS_VISIBLE, 15);
 		tg.click("ele_i881", 1);
-		tg.wait("ele_bestseller423", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_bestseller423", ComparisonType.IS_VISIBLE, 15);
 		tg.check.isEqualTo("ele_bestseller423","50");
 		tg.click("ele_bestseller423", 1);
 		tg.pageLoadEnd("Amazon");

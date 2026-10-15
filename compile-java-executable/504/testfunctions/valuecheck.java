@@ -2,7 +2,7 @@ class valuecheck {
 
 	public static void valuecheck() {
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
-		tg.wait("ele_Register", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_Register", ComparisonType.IS_VISIBLE, 15);
 		tg_int var_count = 5;
 		tg.check.isEqualTo(var_count,5);
 		tg.check.isNotEqualTo(var_count,3);

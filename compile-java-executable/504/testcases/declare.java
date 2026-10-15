@@ -26,7 +26,7 @@ public class declare {
 	public void declare() {
 		tg.openBrowser();
 				tg.navigateToUrl("https://letcode.in/forms");
-				tg.wait("ele_Form", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_Form", ComparisonType.IS_VISIBLE, 15);
 				tg_int var_count = 1;
 				var_count = tg.saveToVariable(1, var_count);
 				while(tg.verify.isLessThanOrEqualTo(var_count, 2)){

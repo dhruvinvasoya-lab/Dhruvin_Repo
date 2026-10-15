@@ -27,7 +27,7 @@ public class allaction {
 		tg.openBrowser();
 				tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
 				tg.pageLoadStart("Page1");
-				tg.wait("ele_Register", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_Register", ComparisonType.IS_VISIBLE, 15);
 				tg.click("ele_input186", 1);
 				tg.type("ele_input186", "Jhon");
 				tg.click("ele_input239", 1);

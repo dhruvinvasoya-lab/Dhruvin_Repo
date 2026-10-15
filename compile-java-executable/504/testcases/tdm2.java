@@ -26,7 +26,7 @@ public class tdm2 {
 	public void tdm2() {
 		tg.openBrowser();
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
-		tg.wait("ele_Register", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_Register", ComparisonType.IS_VISIBLE, 15);
 		JSONObject var_Data = tg.getJsonData("https://poc27.testgrid.io/s/csv-to-json/20260616/QUAiMs.json");
 		tg_int var_count = 0;
 		var_count = tg.saveToVariable(0, var_count);
@@ -35,10 +35,10 @@ public class tdm2 {
 		while(tg.verify.isLessThan(var_count, 2)){
 		tg.startSecureBlock();
 		var_v1 = tg.saveToVariable(var_v1, var_Data, "$.records["+var_count+"].First");
-		tg.wait("ele_firstname110", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_firstname110", ComparisonType.IS_VISIBLE, 15);
 		tg.type("ele_firstname110", var_v1);
 		tg.wait(2);
-		tg.wait("ele_LastName", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_LastName", ComparisonType.IS_VISIBLE, 15);
 		tg.endSecureBlock();
 		var_v2 = tg.saveToVariable(var_v2, var_Data, "$.records["+var_count+"].Last");
 		tg.type("ele_LastName", var_v2);

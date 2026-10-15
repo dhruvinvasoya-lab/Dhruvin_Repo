@@ -26,7 +26,7 @@ public class select {
 	public void select() {
 		tg.openBrowser();
 				tg.navigateToUrl("https://rahulshettyacademy.com/AutomationPractice/");
-				tg.wait("ele_PracticePage", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_PracticePage", ComparisonType.IS_VISIBLE, 15);
 				tg.selectDropdownByIndex("ele_SelectOption1Option2Option3",1);
 				tg.scrollToElement("ele_mousehover377", Direction.DOWN);
 				tg.hoverOverElement("ele_mousehover377");

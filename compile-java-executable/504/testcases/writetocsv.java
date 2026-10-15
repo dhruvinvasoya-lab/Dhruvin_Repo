@@ -26,7 +26,7 @@ public class writetocsv {
 	public void writetocsv() {
 		tg.openBrowser();
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
-		tg.wait("ele_Register", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_Register", ComparisonType.IS_VISIBLE, 15);
 		tg.check.isVisible("ele_FirstName");
 		tg.check.isVisible("ele_LastName");
 		tg.startSecureBlock();
