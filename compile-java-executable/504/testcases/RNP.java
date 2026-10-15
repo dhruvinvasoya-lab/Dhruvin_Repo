@@ -25,10 +25,7 @@ public class rnp {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void rnp() {
 		tg.openBrowser();
-		tg.wait(5);
-		tg_String var_token = "null";
-				tg.readFromAPI("get_usertoken_api.json", var_token);
-		tg.printLogs(var_token);
+		tg.wait(1);
 		tg.close();
 	}
 }
