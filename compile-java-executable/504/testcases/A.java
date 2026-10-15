@@ -26,6 +26,9 @@ public class a {
 	public void a() {
 		tg.openBrowser();
 		tg.wait(5);
+		tg_String var_a1 = "abc";
+				tg.readFromAPI("get_usertoken_api.json", var_a1);
+		tg.printLogs(var_a1);
 		tg.close();
 	}
 }

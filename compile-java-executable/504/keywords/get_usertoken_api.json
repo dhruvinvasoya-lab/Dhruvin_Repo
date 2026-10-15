@@ -1,0 +1,31 @@
+{
+    "url": "https://cotesterdev3.testgrid.io/api/get-usertoken",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": {
+        "Cookie": "_testgrid=9c3e3c023a331ce8ffc7368f5bf40625; ci_session=ibh85orvjqolgo45i5qq412ulmn237ll",
+        "Content-Type": "application/x-www-form-urlencoded"
+    },
+    "h_static": {
+        "Cookie": "",
+        "Content-Type": ""
+    },
+    "params": {
+        "email": "dhruvin.vasoya+1@testgrid.io",
+        "password": "Demo@123"
+    },
+    "p_static": {
+        "email": "",
+        "password": ""
+    },
+    "key_paths": [
+        {
+            "key_path": "user_token",
+            "key_data_type": "string"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}
