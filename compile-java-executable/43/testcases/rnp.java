@@ -25,7 +25,29 @@ public class rnp {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void rnp() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_divtgwebcomma644", ComparisonType.IS_VISIBLE);
+				tg.click("ele_divtgwebcomma644", 1);
+				tg.wait("ele_divtgwebcomma644", ComparisonType.IS_VISIBLE);
+				tg.type("ele_divtgwebcomma644", "jhon");
+				tg.wait("ele_lastname449", ComparisonType.IS_VISIBLE);
+				tg.click("ele_lastname449", 1);
+				tg.wait("ele_lastname449", ComparisonType.IS_VISIBLE);
+				tg.type("ele_lastname449", "DOe");
+				tg.wait("ele_switchto860", ComparisonType.IS_VISIBLE);
+				tg.click("ele_switchto860", 1);
+				tg.wait("ele_frames000", ComparisonType.IS_VISIBLE);
+				tg.click("ele_frames000", 1);
+				tg.wait("ele_text096", ComparisonType.IS_VISIBLE);
+				tg.click("ele_text096", 1);
+				tg.wait("ele_text096", ComparisonType.IS_VISIBLE);
+				tg.type("ele_text096", "hii");
+				tg.wait("ele_iframewith273", ComparisonType.IS_VISIBLE);
+				tg.click("ele_iframewith273", 1);
+				tg.wait("ele_text756", ComparisonType.IS_VISIBLE);
+				tg.click("ele_text756", 1);
+				tg.wait("ele_text756", ComparisonType.IS_VISIBLE);
+				tg.type("ele_text756", "hello");
+				tg.click("ele_automation945", 1);
 		tg.close();
 	}
 }

@@ -778,4 +778,473 @@
     <element type="class">col-md-4 col-xs-4 col-sm-4TGWEBCOMMA1</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/43/711.png</element>
   </locator>
+  <locator name="ele_registerdi415">
+    <element type="xpath">//body/section[@id='section']/div[1]</element>
+    <element type="xpath">//section[@id='section']/div</element>
+    <element type="css">div.container.center</element>
+    <element type="css">section#section &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//section/div</element>
+    <element type="class">container centerTGWEBCOMMA3</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/903.png</element>
+  </locator>
+  <locator name="ele_automation968">
+    <element type="xpath">//body</element>
+    <element type="css">body.ng-scope</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="class">ng-scopeTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/904.png</element>
+  </locator>
+  <locator name="ele_automation036">
+    <element type="xpath">//body</element>
+    <element type="css">body.ng-scope</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="class">ng-scopeTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/905.png</element>
+  </locator>
+  <locator name="ele_automation060">
+    <element type="xpath">//body</element>
+    <element type="css">body.ng-scope</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="class">ng-scopeTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/906.png</element>
+  </locator>
+  <locator name="ele_automation199">
+    <element type="xpath">//body</element>
+    <element type="css">body.ng-scope</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="class">ng-scopeTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/907.png</element>
+  </locator>
+  <locator name="ele_firstname566">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/908.png</element>
+  </locator>
+  <locator name="ele_firstname206">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/909.png</element>
+  </locator>
+  <locator name="ele_lastname449">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/910.png</element>
+  </locator>
+  <locator name="ele_lastname144">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/911.png</element>
+  </locator>
+  <locator name="ele_switchto860">
+    <element type="xpath">//a[contains(text(),'SwitchTo')]</element>
+    <element type="xpath">//header[@id='header']/nav/div/div[2]/ul/li[4]/a</element>
+    <element type="css">a.dropdown-toggle</element>
+    <element type="css">header#header &gt; nav &gt; div &gt; div:nth-of-type(2) &gt; ul &gt; li:nth-of-type(4) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">SwitchTGWEBCOMMA0</element>
+    <element type="linktext">SwitchToTGWEBCOMMA0</element>
+    <element type="xpath">//li[4]/a</element>
+    <element type="class">dropdown-toggleTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/912.png</element>
+  </locator>
+  <locator name="ele_frames000">
+    <element type="xpath">//a[contains(text(),'Frames')]</element>
+    <element type="xpath">//header[@id='header']/nav/div/div[2]/ul/li[4]/ul/li[3]/a</element>
+    <element type="css">ul.dropdown-menu &gt; li:nth-of-type(3) &gt; a</element>
+    <element type="css">header#header &gt; nav &gt; div &gt; div:nth-of-type(2) &gt; ul &gt; li:nth-of-type(4) &gt; ul &gt; li:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">FramTGWEBCOMMA0</element>
+    <element type="linktext">FramesTGWEBCOMMA0</element>
+    <element type="xpath">//li[4]/ul/li[3]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/913.png</element>
+  </locator>
+  <locator name="ele_text096">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/914.png</element>
+  </locator>
+  <locator name="ele_texthii592">
+    <element type="xpath">//input[@value='hii']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/915.png</element>
+  </locator>
+  <locator name="ele_iframewith273">
+    <element type="xpath">//a[contains(text(),'Iframe with in an Iframe')]</element>
+    <element type="css">li:nth-of-type(2) &gt; a.analystic</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Iframe with in an IfTGWEBCOMMA0</element>
+    <element type="linktext">Iframe with in an IframeTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/ul/li[2]/a</element>
+    <element type="class">analysticTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/916.png</element>
+  </locator>
+  <locator name="ele_text756">
+    <element type="xpath">//input[@type='text']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/917.png</element>
+  </locator>
+  <locator name="ele_texthello866">
+    <element type="xpath">//input[@value='hello']</element>
+    <element type="css">input[type="text"]</element>
+    <element type="css">html &gt; body &gt; section &gt; div &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/918.png</element>
+  </locator>
+  <locator name="ele_automation945">
+    <element type="xpath">//h1[contains(text(),'Automation Demo Site')]</element>
+    <element type="xpath">//header[@id='header']/div/div/div/div[2]/h1</element>
+    <element type="css">h1</element>
+    <element type="css">header#header &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/919.png</element>
+  </locator>
+  <locator name="ele_evolvingapplicationlinkele25071440103799">
+    <element type="xpath">//a[contains(text(),'Learn how to automate an application that evolves ')]</element>
+    <element type="xpath">//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[5]/a</element>
+    <element type="css">div.et_pb_text_inner &gt; ul &gt; li:nth-of-type(5) &gt; a</element>
+    <element type="css">article#post-507 &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(5) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Learn how to automatTGWEBCOMMA0</element>
+    <element type="linktext">Learn how to automate an application that evolves over timeTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/div/div/div/ul/li[5]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/920.png</element>
+  </locator>
+  <locator name="ele_sprint1headingele20071603765914">
+    <element type="xpath">//h2[contains(text(),'Sprint 1')]</element>
+    <element type="xpath">//article[@id='post-927']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-927 &gt; div &gt; h2TGWEBCOMMA2</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/921.png</element>
+  </locator>
+  <locator name="ele_firstnameele22071603765914">
+    <element type="xpath">//input[@name='firstname']</element>
+    <element type="xpath">//article[@id='post-927']/div/form/input</element>
+    <element type="css">input[name="firstname"]</element>
+    <element type="css">article#post-927 &gt; div &gt; form &gt; inputTGWEBCOMMA1</element>
+    <element type="xpath">//article/div/form/input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/922.png</element>
+  </locator>
+  <locator name="ele_nextsprintlinkele24071603765914">
+    <element type="xpath">//a[contains(text(),'Go to the next sprint')]</element>
+    <element type="xpath">//article[@id='post-927']/div/form/a</element>
+    <element type="css">form &gt; a</element>
+    <element type="css">article#post-927 &gt; div &gt; form &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to the next spriTGWEBCOMMA0</element>
+    <element type="linktext">Go to the next sprintTGWEBCOMMA0</element>
+    <element type="xpath">//form/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/923.png</element>
+  </locator>
+  <locator name="ele_iteration2headingele20071710268476">
+    <element type="xpath">//h2[contains(text(),'Iteration 2')]</element>
+    <element type="xpath">//article[@id='post-932']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-932 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/924.png</element>
+  </locator>
+  <locator name="ele_firstnameele22071710268476">
+    <element type="xpath">//input[@name='firstname']</element>
+    <element type="xpath">//article[@id='post-932']/div/form/input</element>
+    <element type="css">input[name="firstname"]</element>
+    <element type="css">article#post-932 &gt; div &gt; form &gt; inputTGWEBCOMMA2</element>
+    <element type="xpath">//article/div/form/input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/925.png</element>
+  </locator>
+  <locator name="ele_lastnameele23071710268476">
+    <element type="xpath">//input[@name='lastname']</element>
+    <element type="xpath">//article[@id='post-932']/div/form/input[2]</element>
+    <element type="css">input[name="lastname"]</element>
+    <element type="css">article#post-932 &gt; div &gt; form &gt; input:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="xpath">//input[2]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/926.png</element>
+  </locator>
+  <locator name="ele_gotosprint3linkele25071710268476">
+    <element type="xpath">//a[contains(text(),'Go to sprint 3')]</element>
+    <element type="xpath">//article[@id='post-932']/div/form/p[2]/a</element>
+    <element type="css">p:nth-of-type(2) &gt; a</element>
+    <element type="css">article#post-932 &gt; div &gt; form &gt; p:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 3TGWEBCOMMA0</element>
+    <element type="xpath">//p[2]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/927.png</element>
+  </locator>
+  <locator name="ele_iteration3headingele20071759471139">
+    <element type="xpath">//h2[contains(text(),'Iteration 3')]</element>
+    <element type="xpath">//article[@id='post-934']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-934 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/928.png</element>
+  </locator>
+  <locator name="ele_maleele22071759471139">
+    <element type="xpath">//input[@name='gender']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input</element>
+    <element type="css">input[name="gender"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//article/div/form/input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/929.png</element>
+  </locator>
+  <locator name="ele_firstnameele39071848469084">
+    <element type="xpath">//input[@name='firstname']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input[4]</element>
+    <element type="css">input[name="firstname"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; input:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="xpath">//input[4]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/930.png</element>
+  </locator>
+  <locator name="ele_lastnameele40071848469084">
+    <element type="xpath">//input[@name='lastname']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input[5]</element>
+    <element type="css">input[name="lastname"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; input:nth-of-type(5)TGWEBCOMMA0</element>
+    <element type="xpath">//input[5]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/931.png</element>
+  </locator>
+  <locator name="ele_gotosprint4linkele42071848469084">
+    <element type="xpath">//a[contains(text(),'Go to sprint 4')]</element>
+    <element type="xpath">//article[@id='post-934']/div/form/p[3]/a</element>
+    <element type="css">p:nth-of-type(3) &gt; a</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; p:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 4TGWEBCOMMA0</element>
+    <element type="xpath">//p[3]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/932.png</element>
+  </locator>
+  <locator name="ele_iteration4headingele34071940632126">
+    <element type="xpath">//h2[contains(text(),'Iteration 4')]</element>
+    <element type="xpath">//article[@id='post-936']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-936 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/933.png</element>
+  </locator>
+  <locator name="ele_gotosprint5linkele51071940632126">
+    <element type="xpath">//a[contains(text(),'Go to sprint 5')]</element>
+    <element type="xpath">//article[@id='post-936']/div/form/p[4]/a</element>
+    <element type="css">p:nth-of-type(4) &gt; a</element>
+    <element type="css">article#post-936 &gt; div &gt; form &gt; p:nth-of-type(4) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 5TGWEBCOMMA0</element>
+    <element type="xpath">//p[4]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/934.png</element>
+  </locator>
+  <locator name="ele_iteration5headingele34072028161295">
+    <element type="xpath">//h2[contains(text(),'Iteration 5')]</element>
+    <element type="xpath">//article[@id='post-945']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-945 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/935.png</element>
+  </locator>
+  <locator name="ele_submitele50072028161295">
+    <element type="xpath">//input[@id='submit2']</element>
+    <element type="xpath">//article[@id='post-945']/div/form/p[2]/input[6]</element>
+    <element type="id">submit2TGWEBCOMMA1</element>
+    <element type="css">#submit2</element>
+    <element type="css">input#submit2TGWEBCOMMA0</element>
+    <element type="xpath">//input[6]</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/936.png</element>
+  </locator>
+  <locator name="ele_AutomationPracticetextele19072740218629">
+    <element type="xpath">//span[contains(text(),'Automation Practice')]</element>
+    <element type="xpath">//span[@id='Automation_Practice']/span/strong/span/span</element>
+    <element type="css">strong &gt; span &gt; span</element>
+    <element type="css">span#Automation_Practice &gt; span &gt; strong &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//strong/span/span</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/937.png</element>
+  </locator>
+  <locator name="ele_Learnhowtoautomateanapplicationthatevolvesovertimelinkele25072834870923">
+    <element type="xpath">//a[contains(text(),'Learn how to automate an application that evolves ')]</element>
+    <element type="xpath">//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[5]/a</element>
+    <element type="css">div.et_pb_text_inner &gt; ul &gt; li:nth-of-type(5) &gt; a</element>
+    <element type="css">article#post-507 &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(5) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Learn how to automatTGWEBCOMMA0</element>
+    <element type="linktext">Learn how to automate an application that evolves over timeTGWEBCOMMA0</element>
+    <element type="xpath">//div/ul/li[5]/a</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/938.png</element>
+  </locator>
+  <locator name="ele_practiceheaderele41073510201527">
+    <element type="xpath">//h1[contains(text(),'Practice Form')]</element>
+    <element type="xpath">//div[@id='root']/div/div/div/div[2]/div/h1</element>
+    <element type="css">h1.text-center</element>
+    <element type="css">div#root &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1</element>
+    <element type="class">text-centerTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/939.png</element>
+  </locator>
+  <locator name="ele_firstnameele44073510201527">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[2]/input</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="css">input#firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/940.png</element>
+  </locator>
+  <locator name="ele_lastnameele45073510201527">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="xpath">//div[@id='userName-wrapper']/div[4]/input</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="css">input#lastNameTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/941.png</element>
+  </locator>
+  <locator name="ele_emailele47073510201527">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="xpath">//div[@id='userEmail-wrapper']/div[2]/input</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="css">input#userEmailTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div[2]/input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/942.png</element>
+  </locator>
+  <locator name="ele_malegenderlabelele50073510201527">
+    <element type="xpath">//label[@for='gender-radio-1']</element>
+    <element type="xpath">//div[@id='genterWrapper']/div[2]/div/label</element>
+    <element type="css">label.form-check-label</element>
+    <element type="css">div#genterWrapper &gt; div:nth-of-type(2) &gt; div &gt; labelTGWEBCOMMA2</element>
+    <element type="xpath">//div[3]/div[2]/div/label</element>
+    <element type="class">form-check-labelTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/943.png</element>
+  </locator>
+  <locator name="ele_firstnameele59073842317079">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/944.png</element>
+  </locator>
+  <locator name="ele_lastnameele60073842317079">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input[placeholder='Last Name']</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/945.png</element>
+  </locator>
+  <locator name="ele_firstnameele59074016668429">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/946.png</element>
+  </locator>
+  <locator name="ele_lastnameele60074016668429">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input[placeholder='Last Name']</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/947.png</element>
+  </locator>
+  <locator name="ele_addressele62074016668429">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[2]/div/textarea</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-untouched.ng-valid</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/948.png</element>
+  </locator>
+  <locator name="ele_emailele64074016668429">
+    <element type="xpath">//input[@type='email']</element>
+    <element type="xpath">//div[@id='eid']/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//form/div[3]/div/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/949.png</element>
+  </locator>
+  <locator name="ele_mobileele67074016668429">
+    <element type="xpath">//input[@type='tel']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[4]/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required.ng-valid-pattern</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(4) &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-patternTGWEBCOMMA5</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/950.png</element>
+  </locator>
+  <locator name="ele_moviesele76074016668429">
+    <element type="xpath">//input[@id='checkbox2']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[6]/div/div[2]/input</element>
+    <element type="id">checkbox2TGWEBCOMMA1</element>
+    <element type="css">#checkbox2</element>
+    <element type="css">input#checkbox2TGWEBCOMMA0</element>
+    <element type="xpath">//div[6]/div/div[2]/input</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/951.png</element>
+  </locator>
+  <locator name="ele_AutomationDemoSiteheadingele2074805059862">
+    <element type="xpath">//h1[contains(text(),'Automation Demo Site')]</element>
+    <element type="xpath">//header[@id='header']/div/div/div/div[2]/h1</element>
+    <element type="css">h1</element>
+    <element type="css">header#header &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/952.png</element>
+  </locator>
+  <locator name="ele_FirstNameele59074805059862">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/953.png</element>
+  </locator>
+  <locator name="ele_LastNameele60074805059862">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div[2]/input</element>
+    <element type="css">input[placeholder='Last Name']</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/954.png</element>
+  </locator>
+  <locator name="ele_EmailAddressele63074805059862">
+    <element type="xpath">//input[@type='email']</element>
+    <element type="xpath">//div[@id='eid']/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//form/div[3]/div/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/955.png</element>
+  </locator>
+  <locator name="ele_Phoneele66074805059862">
+    <element type="xpath">//input[@type='tel']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[4]/div/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required.ng-valid-pattern</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(4) &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div/input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-patternTGWEBCOMMA5</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/43/956.png</element>
+  </locator>
 </locators>

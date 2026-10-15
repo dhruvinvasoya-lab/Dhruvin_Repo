@@ -27,7 +27,7 @@ public class tdm2 {
 		tg.openBrowser();
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
 		tg.wait("ele_Register", ComparisonType.IS_VISIBLE);
-		JSONObject var_Data = tg.getJsonData("https://poc27.testgrid.io/s/csv-to-json/20260616/QUAiMs.json");
+		JSONObject var_Data = tg.getJsonData("https://poc28.testgrid.io/s/csv-to-json/20261014/CYhCFJ.json");
 		tg_int var_count = 0;
 		var_count = tg.saveToVariable(0, var_count);
 		tg_String var_v1 = "Null";

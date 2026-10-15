@@ -32,9 +32,9 @@ public class amazon {
 		tg.wait("ele_bestseller423", ComparisonType.IS_VISIBLE);
 		tg.click("ele_bestseller423", 1);
 		tg.pageLoadEnd("Amazon");
-		// [DISABLED] tg.networkAssert("Amazon");
+		tg.networkAssert("Amazon");
 		tg_String var_V1 = "abc";
-				var_V1 = tg.readFromAPI("req_api.json").getString();
+				tg.readFromAPI("req_api.json", var_V1);
 		tg.printLogs(var_V1);
 		tg.close();
 	}
