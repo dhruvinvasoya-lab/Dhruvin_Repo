@@ -8315,18 +8315,6 @@
             "gv_category": "runtime",
             "created": "2026-11-04 03:48:43",
             "updated": "2026-11-04 06:18:48"
-        },
-        {
-            "variable_id": "48",
-            "user_id": "2",
-            "app_id": "13",
-            "version_id": "15",
-            "variable_type": "int",
-            "variable_name": "fgewrgf",
-            "variable_value": "10",
-            "gv_category": "global",
-            "created": "2026-11-04 06:20:12",
-            "updated": "2026-11-04 06:20:24"
         }
     ],
     "ab_scheduler": [],
