@@ -8321,12 +8321,12 @@
             "user_id": "2",
             "app_id": "13",
             "version_id": "15",
-            "variable_type": "String",
+            "variable_type": "int",
             "variable_name": "fgewrgf",
-            "variable_value": "efgwfg",
+            "variable_value": "10",
             "gv_category": "global",
             "created": "2026-11-04 06:20:12",
-            "updated": "2026-11-04 06:20:12"
+            "updated": "2026-11-04 06:20:24"
         }
     ],
     "ab_scheduler": [],
