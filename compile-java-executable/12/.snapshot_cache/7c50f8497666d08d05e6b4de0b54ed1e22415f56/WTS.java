@@ -36,7 +36,7 @@ public class WTS {
     public static int var_in1 = 10;
 
     @Test(retryAnalyzer = RetryFailedTestCases.class)
-    public void rnp1() {
+    public void rnp1____() {
         tg.openBrowser();
         tg.wait(5);
         tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
