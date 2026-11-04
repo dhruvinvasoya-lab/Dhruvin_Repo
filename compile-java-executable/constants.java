@@ -6,4 +6,5 @@ public class constants {
 	public static String var_date1 = "DATE";
 	public static int var_ra_var1 = 34;
 	public static String var_ra_str1231 = "DhruvinVasoya";
+	public static String var_dfgbdf = "gdeg";
 }
