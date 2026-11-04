@@ -31,7 +31,7 @@ public class performcalculationsnewkeyword {
 		tg_int var_a = 2;
 		tg_int var_b = 4;
 		tg_int var_c = 6;
-		var_ans1 = tg.stringUtilities("{STRING[CHARAT]["+var_ra_str123+"][4]}");
+		var_ans1 = tg.stringUtilities("{STRING[CHARAT]["+var_ra_str1231+"][4]}");
 		tg.printLogs(var_ans1);
 		var_ans1 = tg.performCalculations("{MATH["+var_a+" + "+var_b+" * "+var_c+"]}").toString();
 		tg.printLogs(var_ans1);

@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
 @Listeners(TestListener.class)
 public class WTS {
 
-    public static String var_ra_str123 = "DhruvinVasoya";
+    public static String var_ra_str1231 = "DhruvinVasoya";
 
     public static int var_ra_var1 = 34;
 
@@ -45,7 +45,7 @@ public class WTS {
         int var_a = 2;
         int var_b = 4;
         int var_c = 6;
-        var_ans1 = tg.stringUtilities("{STRING[CHARAT][" + var_ra_str123 + "][4]}");
+        var_ans1 = tg.stringUtilities("{STRING[CHARAT][" + var_ra_str1231 + "][4]}");
         tg.printLogs(var_ans1);
         var_ans1 = tg.performCalculations("{MATH[" + var_a + " + " + var_b + " * " + var_c + "]}").toString();
         tg.printLogs(var_ans1);
@@ -95,7 +95,7 @@ public class WTS {
         int var_a = 2;
         int var_b = 4;
         int var_c = 6;
-        var_ans1 = tg.stringUtilities("{STRING[CHARAT][" + var_ra_str123 + "][4]}");
+        var_ans1 = tg.stringUtilities("{STRING[CHARAT][" + var_ra_str1231 + "][4]}");
         tg.printLogs(var_ans1);
         var_ans1 = tg.performCalculations("{MATH[" + var_a + " + " + var_b + " * " + var_c + "]}").toString();
         tg.printLogs(var_ans1);
