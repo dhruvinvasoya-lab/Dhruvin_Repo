@@ -2,12 +2,30 @@
     "url": "https://dummyjson.com/users",
     "method": "GET",
     "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
     "headers": [],
     "h_static": [],
     "params": [],
     "p_static": [],
-    "key_path": "users[0].firstName",
+    "key_paths": [
+        {
+            "key_path": "users[0].firstName",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].age",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "users[0].height",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "users[0].hair",
+            "key_data_type": "json"
+        }
+    ],
+    "save_full_response": false,
     "resp_type": "json",
-    "key_type": "string",
     "timeout": 30
 }

@@ -34,8 +34,14 @@ public class amazon {
 		tg.pageLoadEnd("Amazon");
 		tg.networkAssert("Amazon");
 		tg_String var_V1 = "abc";
-				tg.readFromAPI("req_api.json", var_V1);
+		tg_int var_V2 = 10;
+		tg_Double var_V3 = 10.0;
+		JSONObject var_V4 = tg.getJsonData("{}");
+				tg.readFromAPI("req_api.json", var_V1, var_V2, var_V3, var_V4);
 		tg.printLogs(var_V1);
+		tg.printLogs(var_V2);
+		tg.printLogs(var_V3);
+		tg.printLogs(var_V4);
 		tg.close();
 	}
 }
