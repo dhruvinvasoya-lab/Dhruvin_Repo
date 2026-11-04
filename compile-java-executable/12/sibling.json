@@ -7322,7 +7322,7 @@
                     "d_w": 210,
                     "d_x": 263,
                     "d_y": 185,
-                    "suggest_name": "text177"
+                    "suggest_name": "ele_text177"
                 },
                 {
                     "locators": "CSS selector",
@@ -7332,7 +7332,7 @@
                     "d_w": 210,
                     "d_x": 263.328125,
                     "d_y": 185.390625,
-                    "suggest_name": "text177"
+                    "suggest_name": "ele_text177"
                 },
                 {
                     "locators": "CSS selector",
@@ -7342,7 +7342,7 @@
                     "d_w": 210,
                     "d_x": 263.328125,
                     "d_y": 185.390625,
-                    "suggest_name": "text177"
+                    "suggest_name": "ele_text177"
                 },
                 {
                     "locators": "Xpath",
@@ -7352,7 +7352,7 @@
                     "d_w": 210,
                     "d_x": 263.328125,
                     "d_y": 185.390625,
-                    "suggest_name": "text177"
+                    "suggest_name": "ele_text177"
                 }
             ],
             "iframe_and_shadow_root_data": [
