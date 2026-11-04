@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class rnp {
+public class rnp1 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void rnp() {
+	public void rnp1() {
 		tg.openBrowser();
 		tg.wait(5);
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
