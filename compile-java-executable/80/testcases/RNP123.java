@@ -29,11 +29,11 @@ public class rnp123 {
 				tg.wait("ele_firstname268", ComparisonType.IS_VISIBLE);
 				tg.click("ele_firstname268", 1);
 				tg.wait("ele_firstname268", ComparisonType.IS_VISIBLE);
-				tg.type("ele_firstname268", "Jhon");
+				tg.type("ele_firstname268", "#TGITVAR.First");
 				tg.wait("ele_input239", ComparisonType.IS_VISIBLE);
 				tg.click("ele_input239", 1);
 				tg.wait("ele_input239", ComparisonType.IS_VISIBLE);
-				tg.type("ele_input239", "Doe");
+				tg.type("ele_input239", "#TGITVAR.Last");
 				tg.wait("ele_textareatgwebcomma584", ComparisonType.IS_VISIBLE);
 				tg.click("ele_textareatgwebcomma584", 1);
 				tg.wait("ele_textareatgwebcomma584", ComparisonType.IS_VISIBLE);
