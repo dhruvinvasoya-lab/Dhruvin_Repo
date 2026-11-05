@@ -1,0 +1,2154 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_learnhowtoautomateanapplic1793857669185",
+            "tg_text": "Learn how to automate an application that evolves ...",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-1/"
+                    },
+                    "tg_text": "Learn how to automate an application that evolves ..."
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Learn how to automate an application that evolves ')]",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369,
+                    "d_y": 526,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.et_pb_text_inner > ul > li:nth-of-type(5) > a",
+                    "locator_id": "9",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-507 > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > ul > li:nth-of-type(5) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Learn how to automatTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Learn how to automate an application that evolves over timeTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/div/div/div/ul/li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto407"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1237.png"
+        },
+        {
+            "testcase_element": "ele_sprint11793857680757",
+            "tg_text": "Sprint 1",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name:"
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Sprint 1')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349,
+                    "d_y": 198,
+                    "suggest_name": "sprint971"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-927']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "sprint971"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "sprint971"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-927 > div > h2TGWEBCOMMA2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "sprint971"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "sprint971"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1238.png"
+        },
+        {
+            "testcase_element": "ele_firstnamegoto1793857689356",
+            "tg_text": "First name Go to",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "firstname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='firstname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 261,
+                    "suggest_name": "firstnamet591"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-927']/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet591"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"firstname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet591"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-927 > div > form > inputTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet591"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet591"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1239.png"
+        },
+        {
+            "testcase_element": "ele_gotothenextsprint1793857690952",
+            "tg_text": "Go to the next sprint",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name:"
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-2/"
+                    },
+                    "tg_text": "Go to the next sprint"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Go to the next sprint')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349,
+                    "d_y": 311,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-927']/div/form/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form > a",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-927 > div > form > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Go to the next spriTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Go to the next sprintTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 137,
+                    "d_x": 349.5,
+                    "d_y": 311.796875,
+                    "suggest_name": "gotothenex294"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1240.png"
+        },
+        {
+            "testcase_element": "ele_iteration21793857699482",
+            "tg_text": "Iteration 2",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Iteration 2')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349,
+                    "d_y": 198,
+                    "suggest_name": "iteration287"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-932']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration287"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration287"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-932 > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration287"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration287"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1241.png"
+        },
+        {
+            "testcase_element": "ele_firstnamelastna1793857702340",
+            "tg_text": "First name Last na",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "lastname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='lastname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 309,
+                    "suggest_name": "lastnamete346"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-932']/div/form/input[2]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete346"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"lastname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete346"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-932 > div > form > input:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete346"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[2]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete346"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1242.png"
+        },
+        {
+            "testcase_element": "ele_gotosprint31793857703907",
+            "tg_text": "Go to sprint 3",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-3/"
+                    },
+                    "tg_text": "Go to sprint 3"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Go to sprint 3')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349,
+                    "d_y": 373,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-932']/div/form/p[2]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p:nth-of-type(2) > a",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-932 > div > form > p:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Go to sprintTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Go to sprint 3TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//p[2]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint594"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1243.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793857713707",
+            "tg_text": "Male Female Other",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "checked": "checked",
+                        "name": "gender",
+                        "type": "radio",
+                        "value": "male"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='gender']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen838"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen838"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"gender\"]",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen838"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen838"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen838"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1244.png"
+        },
+        {
+            "testcase_element": "ele_iteration31793857719314",
+            "tg_text": "Iteration 3",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Iteration 3')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349,
+                    "d_y": 198,
+                    "suggest_name": "iteration900"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration900"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration900"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration900"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration900"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1245.png"
+        },
+        {
+            "testcase_element": "ele_maleradiobutton1793857729055",
+            "tg_text": "Male radio button",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Coordinates",
+                    "locators_val": "350,238,414,260",
+                    "locator_id": "15",
+                    "d_h": 22,
+                    "d_w": 64,
+                    "d_x": 350,
+                    "d_y": 238,
+                    "suggest_name": "maleradiobutton1793857729055"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "coordinates",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1246.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793857744196",
+            "tg_text": "Male Female Other_",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "firstname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='firstname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 333,
+                    "suggest_name": "firstnamet801"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[4]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet801"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"firstname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet801"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(4)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet801"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[4]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet801"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1247.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793857745766",
+            "tg_text": "Male Female Other_",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "lastname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='lastname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 380,
+                    "suggest_name": "lastnamete520"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[5]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete520"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"lastname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete520"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(5)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete520"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[5]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete520"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1248.png"
+        },
+        {
+            "testcase_element": "ele_gotosprint41793857747356",
+            "tg_text": "Go to sprint 4",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-4/"
+                    },
+                    "tg_text": "Go to sprint 4"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Go to sprint 4')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349,
+                    "d_y": 482,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/p[3]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p:nth-of-type(3) > a",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > p:nth-of-type(3) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Go to sprintTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Go to sprint 4TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//p[3]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 482.78125,
+                    "suggest_name": "gotosprint902"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1249.png"
+        },
+        {
+            "testcase_element": "ele_iteration41793857758646",
+            "tg_text": "Iteration 4",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Iteration 4')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration431"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-936']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration431"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration431"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-936 > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration431"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration431"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1250.png"
+        },
+        {
+            "testcase_element": "ele_gotosprint51793857760246",
+            "tg_text": "Go to sprint 5",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/sample-application-lifecycle-sprint-5/"
+                    },
+                    "tg_text": "Go to sprint 5"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Go to sprint 5')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-936']/div/form/p[4]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p:nth-of-type(4) > a",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-936 > div > form > p:nth-of-type(4) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Go to sprintTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Go to sprint 5TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//p[4]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 342,
+                    "d_y": 767.765625,
+                    "suggest_name": "gotosprint737"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1251.png"
+        },
+        {
+            "testcase_element": "ele_iteration51793857770390",
+            "tg_text": "Iteration 5",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Iteration 5')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration728"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-945']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration728"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration728"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-945 > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration728"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 342,
+                    "d_y": 198,
+                    "suggest_name": "iteration728"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1252.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleothe1793857771982",
+            "tg_text": "Male Female Othe",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "id": "submit2",
+                        "type": "submit"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='submit2']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349,
+                    "d_y": 713,
+                    "suggest_name": "submit345"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-945']/div/form/p[2]/input[6]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349.5,
+                    "d_y": 713.5625,
+                    "suggest_name": "submit345"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "submit2TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349.5,
+                    "d_y": 713.5625,
+                    "suggest_name": "submit345"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#submit2",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349.5,
+                    "d_y": 713.5625,
+                    "suggest_name": "submit345"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#submit2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349.5,
+                    "d_y": 713.5625,
+                    "suggest_name": "submit345"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[6]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 60,
+                    "d_x": 349.5,
+                    "d_y": 713.5625,
+                    "suggest_name": "submit345"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1253.png"
+        },
+        {
+            "testcase_element": "ele_learnhowtoautomateanapplic1793858402933",
+            "tg_text": "Learn how to automate an application that evolves ...",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-1/"
+                    },
+                    "tg_text": "Learn how to automate an application that evolves ..."
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Learn how to automate an application that evolves ')]",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369,
+                    "d_y": 526,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.et_pb_text_inner > ul > li:nth-of-type(5) > a",
+                    "locator_id": "9",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-507 > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > ul > li:nth-of-type(5) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Learn how to automatTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Learn how to automate an application that evolves over timeTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/div/div/div/ul/li[5]/a",
+                    "locator_id": "3",
+                    "d_h": 27,
+                    "d_w": 577,
+                    "d_x": 369.5,
+                    "d_y": 526.796875,
+                    "suggest_name": "learnhowto250"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1254.png"
+        },
+        {
+            "testcase_element": "ele_firstnamegoto17938576893561",
+            "tg_text": "First name Go to",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "firstname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='firstname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 261,
+                    "suggest_name": "firstnamet989"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-927']/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet989"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"firstname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet989"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-927 > div > form > inputTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet989"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 261.796875,
+                    "suggest_name": "firstnamet989"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1255.png"
+        },
+        {
+            "testcase_element": "ele_firstnamelastna17938577023401",
+            "tg_text": "First name Last na",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "lastname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='lastname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 309,
+                    "suggest_name": "lastnamete354"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-932']/div/form/input[2]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete354"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"lastname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete354"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-932 > div > form > input:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete354"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[2]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 309.59375,
+                    "suggest_name": "lastnamete354"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1256.png"
+        },
+        {
+            "testcase_element": "ele_gotosprint317938577039071",
+            "tg_text": "Go to sprint 3",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://ultimateqa.com/sample-application-lifecycle-sprint-3/"
+                    },
+                    "tg_text": "Go to sprint 3"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(text(),'Go to sprint 3')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349,
+                    "d_y": 373,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-932']/div/form/p[2]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "p:nth-of-type(2) > a",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-932 > div > form > p:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Go to sprintTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Go to sprint 3TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//p[2]/a",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 90,
+                    "d_x": 349.5,
+                    "d_y": 373.59375,
+                    "suggest_name": "gotosprint282"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1257.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793858434284",
+            "tg_text": "Male Female Other",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "checked": "checked",
+                        "name": "gender",
+                        "type": "radio",
+                        "value": "male"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='gender']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen654"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen654"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"gender\"]",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen654"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen654"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen654"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1258.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793858435785",
+            "tg_text": "Male Female Other",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "gender",
+                        "type": "radio",
+                        "value": "female"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[2]",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354,
+                    "d_y": 265,
+                    "suggest_name": "genderradi678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[value='female']",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 265.796875,
+                    "suggest_name": "genderradi678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 265.796875,
+                    "suggest_name": "genderradi678"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[2]",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 265.796875,
+                    "suggest_name": "genderradi678"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1259.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother1793858437248",
+            "tg_text": "Male Female Other",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "gender",
+                        "type": "radio",
+                        "value": "other"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[3]",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354,
+                    "d_y": 289,
+                    "suggest_name": "genderradi468"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[value='other']",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 289.59375,
+                    "suggest_name": "genderradi468"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(3)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 289.59375,
+                    "suggest_name": "genderradi468"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[3]",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 289.59375,
+                    "suggest_name": "genderradi468"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1260.png"
+        },
+        {
+            "testcase_element": "ele_iteration31793858443575",
+            "tg_text": "Iteration 3",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "entry-content"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h2[contains(text(),'Iteration 3')]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349,
+                    "d_y": 198,
+                    "suggest_name": "iteration190"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration190"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h2",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration190"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > h2TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration190"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h2",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 907,
+                    "d_x": 349.5,
+                    "d_y": 198,
+                    "suggest_name": "iteration190"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1261.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother17938584372481",
+            "tg_text": "Male Female Other",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "checked": "checked",
+                        "name": "gender",
+                        "type": "radio",
+                        "value": "male"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='gender']",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen486"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen486"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"gender\"]",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen486"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen486"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 13,
+                    "d_w": 13,
+                    "d_x": 354.5,
+                    "d_y": 242,
+                    "suggest_name": "checkedgen486"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1262.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother17938577441961",
+            "tg_text": "Male Female Other_",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "firstname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='firstname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 333,
+                    "suggest_name": "firstnamet362"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[4]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet362"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"firstname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet362"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(4)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet362"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[4]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 333.1875,
+                    "suggest_name": "firstnamet362"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1263.png"
+        },
+        {
+            "testcase_element": "ele_malefemaleother17938577457661",
+            "tg_text": "Male Female Other_",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "action": "https://ultimateqa.com"
+                    },
+                    "tg_text": "Male Female Other First name: Last name:"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "name": "lastname",
+                        "type": "text"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='lastname']",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349,
+                    "d_y": 380,
+                    "suggest_name": "lastnamete480"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//article[@id='post-934']/div/form/input[5]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete480"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"lastname\"]",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete480"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "article#post-934 > div > form > input:nth-of-type(5)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete480"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[5]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 158,
+                    "d_x": 349.5,
+                    "d_y": 380.984375,
+                    "suggest_name": "lastnamete480"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/89/1264.png"
+        }
+    ]
+}

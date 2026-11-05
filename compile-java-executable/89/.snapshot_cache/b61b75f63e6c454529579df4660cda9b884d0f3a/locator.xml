@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_learnhowtoautomateanapplic1793857669185">
+    <element type="xpath">//a[contains(text(),'Learn how to automate an application that evolves ')]</element>
+    <element type="xpath">//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[5]/a</element>
+    <element type="css">div.et_pb_text_inner &gt; ul &gt; li:nth-of-type(5) &gt; a</element>
+    <element type="css">article#post-507 &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; ul &gt; li:nth-of-type(5) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Learn how to automatTGWEBCOMMA0</element>
+    <element type="linktext">Learn how to automate an application that evolves over timeTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/div/div/div/ul/li[5]/a</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1141.png</element>
+  </locator>
+  <locator name="ele_sprint11793857680757">
+    <element type="xpath">//h2[contains(text(),'Sprint 1')]</element>
+    <element type="xpath">//article[@id='post-927']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-927 &gt; div &gt; h2TGWEBCOMMA2</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1142.png</element>
+  </locator>
+  <locator name="ele_firstnamegoto1793857689356">
+    <element type="xpath">//input[@name='firstname']</element>
+    <element type="xpath">//article[@id='post-927']/div/form/input</element>
+    <element type="css">input[name="firstname"]</element>
+    <element type="css">article#post-927 &gt; div &gt; form &gt; inputTGWEBCOMMA1</element>
+    <element type="xpath">//article/div/form/input</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1143.png</element>
+  </locator>
+  <locator name="ele_gotothenextsprint1793857690952">
+    <element type="xpath">//a[contains(text(),'Go to the next sprint')]</element>
+    <element type="xpath">//article[@id='post-927']/div/form/a</element>
+    <element type="css">form &gt; a</element>
+    <element type="css">article#post-927 &gt; div &gt; form &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to the next spriTGWEBCOMMA0</element>
+    <element type="linktext">Go to the next sprintTGWEBCOMMA0</element>
+    <element type="xpath">//form/a</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1144.png</element>
+  </locator>
+  <locator name="ele_iteration21793857699482">
+    <element type="xpath">//h2[contains(text(),'Iteration 2')]</element>
+    <element type="xpath">//article[@id='post-932']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-932 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1145.png</element>
+  </locator>
+  <locator name="ele_firstnamelastna1793857702340">
+    <element type="xpath">//input[@name='lastname']</element>
+    <element type="xpath">//article[@id='post-932']/div/form/input[2]</element>
+    <element type="css">input[name="lastname"]</element>
+    <element type="css">article#post-932 &gt; div &gt; form &gt; input:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="xpath">//input[2]</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1146.png</element>
+  </locator>
+  <locator name="ele_gotosprint31793857703907">
+    <element type="xpath">//a[contains(text(),'Go to sprint 3')]</element>
+    <element type="xpath">//article[@id='post-932']/div/form/p[2]/a</element>
+    <element type="css">p:nth-of-type(2) &gt; a</element>
+    <element type="css">article#post-932 &gt; div &gt; form &gt; p:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 3TGWEBCOMMA0</element>
+    <element type="xpath">//p[2]/a</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1147.png</element>
+  </locator>
+  <locator name="ele_malefemaleother1793857713707">
+    <element type="xpath">//input[@name='gender']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input</element>
+    <element type="css">input[name="gender"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; inputTGWEBCOMMA5</element>
+    <element type="xpath">//article/div/form/input</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1148.png</element>
+  </locator>
+  <locator name="ele_iteration31793857719314">
+    <element type="xpath">//h2[contains(text(),'Iteration 3')]</element>
+    <element type="xpath">//article[@id='post-934']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-934 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1149.png</element>
+  </locator>
+  <locator name="ele_maleradiobutton1793857729055">
+    <element type="coordinates">350,238,414,260</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1150.png</element>
+  </locator>
+  <locator name="ele_malefemaleother1793857744196">
+    <element type="xpath">//input[@name='firstname']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input[4]</element>
+    <element type="css">input[name="firstname"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; input:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="xpath">//input[4]</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1151.png</element>
+  </locator>
+  <locator name="ele_malefemaleother1793857745766">
+    <element type="xpath">//input[@name='lastname']</element>
+    <element type="xpath">//article[@id='post-934']/div/form/input[5]</element>
+    <element type="css">input[name="lastname"]</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; input:nth-of-type(5)TGWEBCOMMA0</element>
+    <element type="xpath">//input[5]</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1152.png</element>
+  </locator>
+  <locator name="ele_gotosprint41793857747356">
+    <element type="xpath">//a[contains(text(),'Go to sprint 4')]</element>
+    <element type="xpath">//article[@id='post-934']/div/form/p[3]/a</element>
+    <element type="css">p:nth-of-type(3) &gt; a</element>
+    <element type="css">article#post-934 &gt; div &gt; form &gt; p:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 4TGWEBCOMMA0</element>
+    <element type="xpath">//p[3]/a</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1153.png</element>
+  </locator>
+  <locator name="ele_iteration41793857758646">
+    <element type="xpath">//h2[contains(text(),'Iteration 4')]</element>
+    <element type="xpath">//article[@id='post-936']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-936 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1154.png</element>
+  </locator>
+  <locator name="ele_gotosprint51793857760246">
+    <element type="xpath">//a[contains(text(),'Go to sprint 5')]</element>
+    <element type="xpath">//article[@id='post-936']/div/form/p[4]/a</element>
+    <element type="css">p:nth-of-type(4) &gt; a</element>
+    <element type="css">article#post-936 &gt; div &gt; form &gt; p:nth-of-type(4) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Go to sprintTGWEBCOMMA0</element>
+    <element type="linktext">Go to sprint 5TGWEBCOMMA0</element>
+    <element type="xpath">//p[4]/a</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1155.png</element>
+  </locator>
+  <locator name="ele_iteration51793857770390">
+    <element type="xpath">//h2[contains(text(),'Iteration 5')]</element>
+    <element type="xpath">//article[@id='post-945']/div/h2</element>
+    <element type="css">h2</element>
+    <element type="css">article#post-945 &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1156.png</element>
+  </locator>
+  <locator name="ele_malefemaleothe1793857771982">
+    <element type="xpath">//input[@id='submit2']</element>
+    <element type="xpath">//article[@id='post-945']/div/form/p[2]/input[6]</element>
+    <element type="id">submit2TGWEBCOMMA1</element>
+    <element type="css">#submit2</element>
+    <element type="css">input#submit2TGWEBCOMMA0</element>
+    <element type="xpath">//input[6]</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/81/1157.png</element>
+  </locator>
+</locators>
