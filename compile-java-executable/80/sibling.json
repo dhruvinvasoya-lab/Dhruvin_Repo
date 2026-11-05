@@ -7222,6 +7222,181 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://10.0.123.5/s/ele-imgs/80/1138.png"
+        },
+        {
+            "testcase_element": "ele_textareatgwebcomma584",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-8 col-xs-8 col-sm-8"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "rows": "3",
+                        "class": "form-control ng-pristine ng-untouched ng-valid",
+                        "ng-model": "Adress"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//textarea[@rows='3']",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723,
+                    "d_y": 271,
+                    "suggest_name": "textareatgwebcomma584"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[2]/div/textarea",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma584"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea.form-control.ng-pristine.ng-untouched.ng-valid",
+                    "locator_id": "9",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma584"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(2) > div > textareaTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma584"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma584"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma584"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/80/1200.png"
+        },
+        {
+            "testcase_element": "ele_textareatgwebcomma763",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-8 col-xs-8 col-sm-8"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "rows": "3",
+                        "class": "form-control ng-untouched ng-valid ng-dirty ng-valid-parse",
+                        "ng-model": "Adress",
+                        "value": "Demo Address "
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//textarea[contains(@value,'Demo Address')]",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723,
+                    "d_y": 271,
+                    "suggest_name": "textareatgwebcomma763"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[2]/div/textarea",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma763"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea.form-control.ng-untouched.ng-valid.ng-dirty.ng-valid-parse",
+                    "locator_id": "9",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma763"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(2) > div > textareaTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma763"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea",
+                    "locator_id": "3",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma763"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-valid ng-dirty ng-valid-parseTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 76,
+                    "d_w": 360,
+                    "d_x": 723.75,
+                    "d_y": 271.59375,
+                    "suggest_name": "textareatgwebcomma763"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.123.5/s/ele-imgs/80/1201.png"
         }
     ]
 }

@@ -778,4 +778,22 @@
     <element type="class">form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1</element>
     <element type="image">http://10.0.123.5/s/ele-imgs/80/1138.png</element>
   </locator>
+  <locator name="ele_textareatgwebcomma584">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[2]/div/textarea</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-untouched.ng-valid</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/80/1200.png</element>
+  </locator>
+  <locator name="ele_textareatgwebcomma763">
+    <element type="xpath">//textarea[contains(@value,'Demo Address')]</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div[2]/div/textarea</element>
+    <element type="css">textarea.form-control.ng-untouched.ng-valid.ng-dirty.ng-valid-parse</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="xpath">//textarea</element>
+    <element type="class">form-control ng-untouched ng-valid ng-dirty ng-valid-parseTGWEBCOMMA3</element>
+    <element type="image">http://10.0.123.5/s/ele-imgs/80/1201.png</element>
+  </locator>
 </locators>
