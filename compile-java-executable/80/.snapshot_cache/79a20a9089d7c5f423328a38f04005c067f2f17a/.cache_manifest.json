@@ -1,0 +1,33 @@
+{
+    "manifest_version": 1,
+    "fingerprint": "79a20a9089d7c5f423328a38f04005c067f2f17a",
+    "version_module_id": 80,
+    "origin_build_id": 429,
+    "created_at": "2026-11-05 05:03:41",
+    "files": {
+        "constants.java": {
+            "sha256": "0901666736240e15d0834afb385a43fbaf700d66319dfe816e070321e649840a",
+            "size": 307
+        },
+        "WTS.java": {
+            "sha256": "e2d2f50c6a1782b84c9ab5c76b4e61a7661d930a07f9adc0df7d4d9c8c036ba5",
+            "size": 12913
+        },
+        "locator.xml": {
+            "sha256": "cb1af71b8f81e632b6892262d46e7981aab766fe37f878a844f1e3e76d38a0be",
+            "size": 47728
+        },
+        "sibling.json": {
+            "sha256": "7ed0eb82ae545dfb3e15ebca68169cc40b84be88d7aa6557f5c36533d745f530",
+            "size": 260550
+        },
+        "POM.xml": {
+            "sha256": "c6616ce1051d7eea4f29101ad1964cd683f1375a2d023a46d16e75f2c9312c1d",
+            "size": 8662
+        },
+        "keywords/req_api.json": {
+            "sha256": "09af5343ea07cfbdcc93e0644d3a994d35cb5c86cf524c7725cec3ea62697848",
+            "size": 722
+        }
+    }
+}

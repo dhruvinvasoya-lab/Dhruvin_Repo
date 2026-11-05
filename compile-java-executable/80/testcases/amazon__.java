@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class amazon {
+public class amazon__ {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void amazon() {
+	public void amazon__() {
 		tg.openBrowser();
 		tg.navigateToUrl("https://www.amazon.in/");
 		tg.pageLoadStart("Amazon");
