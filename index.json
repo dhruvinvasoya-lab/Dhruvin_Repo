@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "20,21",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-05 07:33:41",
+            "view_updated_date_time": "2026-11-05 07:57:17",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -3892,6 +3892,24 @@
                             "updated_at": "2026-11-05 04:00:10"
                         }
                     ],
+                    "cotester_chat_messages": []
+                },
+                {
+                    "tc_id": "516",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "80",
+                    "tc_name": "manual2",
+                    "thread_id": "",
+                    "tc_description": "",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-05 07:57:23",
+                    "created_at": "2026-11-05 07:57:23",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [],
                     "cotester_chat_messages": []
                 }
             ],
@@ -7897,7 +7915,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-05 07:36:11",
+            "view_updated_date_time": "2026-11-05 07:51:21",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
