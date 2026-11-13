@@ -29,7 +29,7 @@
         "user_id": "11",
         "os_type": "0",
         "platform": "1",
-        "nob": "4",
+        "nob": "5",
         "cm_version_id": "60",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -1272,12 +1272,12 @@
             "cm_resource_pages": null,
             "cm_default_resource": null,
             "cm_test_function": null,
-            "cm_test_case": null,
+            "cm_test_case": "447",
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-13 06:22:19",
-            "is_updated": "1",
+            "view_updated_date_time": "2026-11-13 06:28:31",
+            "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
             "is_running": "0",
@@ -1293,7 +1293,7 @@
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
-                    "cm_step_list": null,
+                    "cm_step_list": "797",
                     "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
@@ -1349,14 +1349,7 @@
             ]
         }
     ],
-    "abo_version_capabilities": [
-        {
-            "capabilities_id": "5",
-            "version_id": "60",
-            "capabilities_keyname": "appActivity",
-            "capabilities_keyvalue": "com.google.android.app.chrome.Main"
-        }
-    ],
+    "abo_version_capabilities": [],
     "abo_import_statement": [
         {
             "import_statement_id": "6",
