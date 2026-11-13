@@ -16,10 +16,10 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc1 {
+public class dsc324234234 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc1() {
+	public void dsc324234234() {
 		tg.openDevice();
 		tg.click("ele_address1794548381938", 1);
 		tg.wait("ele_address1794548388981", ComparisonType.IS_VISIBLE, 30);
