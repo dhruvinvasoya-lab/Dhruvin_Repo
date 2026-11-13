@@ -1345,6 +1345,19 @@
             "maven_dependency": "<dependency>\r\n      <groupId>org.mongodb</groupId>\r\n      <artifactId>mongodb-driver-core</artifactId>\r\n      <version>5.1.1</version>\r\n    </dependency>",
             "created": "2026-11-13 06:21:38",
             "updated": "2026-11-13 06:21:38"
+        },
+        {
+            "maven_id": "5",
+            "user_id": "11",
+            "app_id": "40",
+            "version_id": "60",
+            "maven_title": "mongodb-driver-sync",
+            "group_id": "org.mongodb",
+            "artifact_id": "mongodb-driver-sync",
+            "version": "5.1.0",
+            "maven_dependency": "<dependency>\r\n    <groupId>org.mongodb</groupId>\r\n    <artifactId>mongodb-driver-sync</artifactId>\r\n    <version>5.1.0</version>\r\n</dependency>",
+            "created": "2026-11-13 06:21:51",
+            "updated": "2026-11-13 06:21:51"
         }
     ],
     "abo_external_jar": [],
