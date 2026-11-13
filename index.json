@@ -1349,7 +1349,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "6",
+            "version_id": "60",
+            "capabilities_keyname": "appActivity",
+            "capabilities_keyvalue": "com.google.android.app.chrome.Main"
+        }
+    ],
     "abo_import_statement": [
         {
             "import_statement_id": "6",
