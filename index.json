@@ -29,7 +29,7 @@
         "user_id": "11",
         "os_type": "0",
         "platform": "2",
-        "nob": "5",
+        "nob": "6",
         "cm_version_id": "59",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -61,8 +61,8 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-13 05:59:52",
-            "is_updated": "1",
+            "view_updated_date_time": "2026-11-13 06:03:41",
+            "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
             "is_running": "0",
@@ -144,7 +144,15 @@
                     "created_at": "2026-11-13 03:54:17",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [],
+                    "test_case_tags": [
+                        {
+                            "id": "11",
+                            "version_module_id": "73",
+                            "name": "A1",
+                            "tc_id": "417",
+                            "user_id": "11"
+                        }
+                    ],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/countries.java",
                     "vault_paths": []
