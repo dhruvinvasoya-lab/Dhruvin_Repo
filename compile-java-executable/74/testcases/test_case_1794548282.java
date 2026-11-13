@@ -21,7 +21,15 @@ public class test_case_1794548282 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1794548282() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.click("ele_address1794548381938", 1);
+				tg.wait("ele_address1794548388981", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_address1794548388981", 1);
+				tg.wait("ele_address1794548394130", ComparisonType.IS_VISIBLE, 30);
+				tg.type("ele_address1794548394130", "http://192.168.88.44:8000/Demo", false);
+				tg.click("ele_go1794548400855", 1);
+				tg.click("ele_togglenavigation1794548438549", 1);
+				tg.wait("ele_about1794548446441", ComparisonType.IS_VISIBLE, 30);
+				tg.click("ele_about1794548446441", 1);
 		tg.close();
 	}
 }
