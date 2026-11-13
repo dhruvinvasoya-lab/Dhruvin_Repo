@@ -1,0 +1,1841 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "59",
+    "user_id": 11,
+    "abo_version": {
+        "version_id": "59",
+        "app_id": "39",
+        "version_name": "1.0",
+        "version_description": "",
+        "cm_version_module": "73",
+        "platform": "2",
+        "ai_modal_id": "cotester_client_v2_6af6805f8b388191b34c70878c88c805",
+        "script_type": "2",
+        "is_master": "1",
+        "is_delete": "0",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "0",
+        "git_restore_id": "0"
+    },
+    "app_id": "39",
+    "platform": "2",
+    "ab_applications": {
+        "app_id": "39",
+        "project_id": "15",
+        "name": "DNTANDROID_35a230cfc99bb9e1",
+        "display_name": "DNTANDROID",
+        "user_id": "11",
+        "os_type": "0",
+        "platform": "2",
+        "nob": "5",
+        "cm_version_id": "59",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "is_adaptive_ai": "0",
+        "testcase_retries_number": "3",
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "ai_modal_id": "",
+        "jira_project_id": null,
+        "created_by": "14",
+        "project_restriction_type": "0",
+        "is_delete": "0",
+        "created": "2026-11-13 03:13:34",
+        "updated": "2026-11-13 03:13:34"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "73",
+            "version_id": "59",
+            "parent_id": "0",
+            "module_name": "ATS",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": null,
+            "cm_default_resource": null,
+            "cm_test_function": null,
+            "cm_test_case": "415,416,417,422,423",
+            "cm_test_case_ai": "",
+            "cm_network": null,
+            "cm_renderer": null,
+            "view_updated_date_time": "2026-11-13 05:43:14",
+            "is_updated": "0",
+            "is_complie": "1",
+            "server_ids": null,
+            "is_running": "0",
+            "is_delete": "0",
+            "qtest_skip_module_sync": "0",
+            "qtest_skip_exec_sync": "0",
+            "default_wait_timeout": "0",
+            "abo_vm_test_case": [
+                {
+                    "tc_id": "415",
+                    "version_module_id": "73",
+                    "tc_name": "TC1",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": null,
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "14",
+                    "updated_at": "2026-11-13 03:20:30",
+                    "created_at": "2026-11-13 03:20:30",
+                    "qtest_skip_sync": "1",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/tc1.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "416",
+                    "version_module_id": "73",
+                    "tc_name": "test_case_1794540470",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": null,
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "14",
+                    "updated_at": "2026-11-13 03:27:56",
+                    "created_at": "2026-11-13 03:27:56",
+                    "qtest_skip_sync": "1",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/test_case_1794540470.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "417",
+                    "version_module_id": "73",
+                    "tc_name": "test_case_1794541981",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": null,
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "14",
+                    "updated_at": "2026-11-13 03:54:17",
+                    "created_at": "2026-11-13 03:54:17",
+                    "qtest_skip_sync": "1",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/test_case_1794541981.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "422",
+                    "version_module_id": "73",
+                    "tc_name": "TCmanual1",
+                    "tc_description": " (Generated from Manual Test Case)",
+                    "tc_website_url": "ru.androidtools.countries_of_the_world",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "1",
+                    "created_source": "manual_conversion",
+                    "created_source_ref": "mtc_202",
+                    "is_draft": "14",
+                    "updated_at": "2026-11-13 04:39:45",
+                    "created_at": "2026-11-13 04:39:45",
+                    "qtest_skip_sync": "1",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/tcmanual1.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "423",
+                    "version_module_id": "73",
+                    "tc_name": "test_case_1794545834",
+                    "tc_description": "Extract testcases for the url ",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": null,
+                    "is_compiled": "0",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "14",
+                    "updated_at": "2026-11-13 05:32:06",
+                    "created_at": "2026-11-13 05:32:06",
+                    "qtest_skip_sync": "1",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/39/59/73/testcases/test_case_1794545834.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_version_proc": [],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "173",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Successful Sign Up for News and Resources Using Valid Email",
+                    "thread_id": "cotester_thread_v2_6af68745446481968a8ca81cdbd9dd6408267cdc01d3f06f",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Successful Sign Up for News and Resources Using Valid Email\nModule: News and Resources Sign-Up\nPriority: High\n\nPreconditions: \n- User is a visitor and not logged in.\n- The user has navigated to a relevant page containing the sign-up form.\n\nTest Steps:\n1. Locate the sign-up form for news and resources on the page.\n2. Enter a valid email address in the email field.\n3. Click the submit button on the sign-up form.\n\nExpected Result:\n- The system accepts the email address and processes the submission.\n- A confirmation message is displayed indicating successful sign-up for news and resources.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:03",
+                    "created_at": "2026-11-13 03:43:03",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1224",
+                            "tc_id": "173",
+                            "step_order": "1",
+                            "step_action": "Locate the sign-up form for news and resources on the page.",
+                            "created_at": "2026-11-13 03:43:03",
+                            "updated_at": "2026-11-13 03:43:03"
+                        },
+                        {
+                            "step_id": "1225",
+                            "tc_id": "173",
+                            "step_order": "2",
+                            "step_action": "Enter a valid email address in the email field.",
+                            "created_at": "2026-11-13 03:43:03",
+                            "updated_at": "2026-11-13 03:43:03"
+                        },
+                        {
+                            "step_id": "1226",
+                            "tc_id": "173",
+                            "step_order": "3",
+                            "step_action": "Click the submit button on the sign-up form.",
+                            "created_at": "2026-11-13 03:43:03",
+                            "updated_at": "2026-11-13 03:43:03"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "257",
+                            "tc_id": "173",
+                            "thread_id": "cotester_thread_v2_6af68745446481968a8ca81cdbd9dd6408267cdc01d3f06f",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:03",
+                            "updated_at": "2026-11-13 03:43:03"
+                        },
+                        {
+                            "id": "258",
+                            "tc_id": "173",
+                            "thread_id": "cotester_thread_v2_6af68745446481968a8ca81cdbd9dd6408267cdc01d3f06f",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Successful Sign Up for News and Resources Using Valid Email\nModule: News and Resources Sign-Up\nPriority: High\n\nPreconditions: \n- User is a visitor and not logged in.\n- The user has navigated to a relevant page containing the sign-up form.\n\nTest Steps:\n1. Locate the sign-up form for news and resources on the page.\n2. Enter a valid email address in the email field.\n3. Click the submit button on the sign-up form.\n\nExpected Result:\n- The system accepts the email address and processes the submission.\n- A confirmation message is displayed indicating successful sign-up for news and resources.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:03",
+                            "updated_at": "2026-11-13 03:43:03"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "174",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify Access and Content of Ring Size Guide on Product Detail Page",
+                    "thread_id": "cotester_thread_v2_6af68747c12c8197a7e448c5b3dc1ef3082c9a784b437b1b",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Verify Access and Content of Ring Size Guide on Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page of any ring product.\n\nTest Steps:\n1. Locate the \"Size Guide\" link on the product detail page.\n2. Click the \"Size Guide\" link.\n3. Observe the display of the size guide content.\n4. Review the instructions provided within the size guide for measuring ring size.\n\nExpected Result:\n- The \"Size Guide\" link is visibly present on the product detail page.\n- Clicking the link opens the size guide without page errors or navigation away from the product detail page.\n- The size guide displays clear instructions for measuring ring size using different methods.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:05",
+                    "created_at": "2026-11-13 03:43:05",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1227",
+                            "tc_id": "174",
+                            "step_order": "1",
+                            "step_action": "Locate the \"Size Guide\" link on the product detail page.",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        },
+                        {
+                            "step_id": "1228",
+                            "tc_id": "174",
+                            "step_order": "2",
+                            "step_action": "Click the \"Size Guide\" link.",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        },
+                        {
+                            "step_id": "1229",
+                            "tc_id": "174",
+                            "step_order": "3",
+                            "step_action": "Observe the display of the size guide content.",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        },
+                        {
+                            "step_id": "1230",
+                            "tc_id": "174",
+                            "step_order": "4",
+                            "step_action": "Review the instructions provided within the size guide for measuring ring size.",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "259",
+                            "tc_id": "174",
+                            "thread_id": "cotester_thread_v2_6af68747c12c8197a7e448c5b3dc1ef3082c9a784b437b1b",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        },
+                        {
+                            "id": "260",
+                            "tc_id": "174",
+                            "thread_id": "cotester_thread_v2_6af68747c12c8197a7e448c5b3dc1ef3082c9a784b437b1b",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify Access and Content of Ring Size Guide on Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page of any ring product.\n\nTest Steps:\n1. Locate the \"Size Guide\" link on the product detail page.\n2. Click the \"Size Guide\" link.\n3. Observe the display of the size guide content.\n4. Review the instructions provided within the size guide for measuring ring size.\n\nExpected Result:\n- The \"Size Guide\" link is visibly present on the product detail page.\n- Clicking the link opens the size guide without page errors or navigation away from the product detail page.\n- The size guide displays clear instructions for measuring ring size using different methods.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:05",
+                            "updated_at": "2026-11-13 03:43:05"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "175",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify Display and Navigation of Featured Collections on Home Page",
+                    "thread_id": "cotester_thread_v2_6af68749c2308190b63222548f3b9202077188df4602e86b",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Verify Display and Navigation of Featured Collections on Home Page\nModule: Featured Collections Browsing\nPriority: High\n\nPreconditions: \n- User is on the home page.\n- Featured collections are available in the system.\n\nTest Steps:\n1. Navigate to the home page.\n2. Locate the section displaying featured collections.\n3. Verify that each featured collection displays a brief description and a starting price.\n4. Click on one of the featured collections.\n5. Observe the navigation to the collection's detailed page.\n\nExpected Result:\n- A list of featured collections is displayed on the home page.\n- Each collection displays a brief description and a starting price.\n- Clicking on a collection navigates the user to the detailed page for that collection with more information and products.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:07",
+                    "created_at": "2026-11-13 03:43:07",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1231",
+                            "tc_id": "175",
+                            "step_order": "1",
+                            "step_action": "Navigate to the home page.",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        },
+                        {
+                            "step_id": "1232",
+                            "tc_id": "175",
+                            "step_order": "2",
+                            "step_action": "Locate the section displaying featured collections.",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        },
+                        {
+                            "step_id": "1233",
+                            "tc_id": "175",
+                            "step_order": "3",
+                            "step_action": "Verify that each featured collection displays a brief description and a starting price.",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        },
+                        {
+                            "step_id": "1234",
+                            "tc_id": "175",
+                            "step_order": "4",
+                            "step_action": "Click on one of the featured collections.",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        },
+                        {
+                            "step_id": "1235",
+                            "tc_id": "175",
+                            "step_order": "5",
+                            "step_action": "Observe the navigation to the collection's detailed page.",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "261",
+                            "tc_id": "175",
+                            "thread_id": "cotester_thread_v2_6af68749c2308190b63222548f3b9202077188df4602e86b",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        },
+                        {
+                            "id": "262",
+                            "tc_id": "175",
+                            "thread_id": "cotester_thread_v2_6af68749c2308190b63222548f3b9202077188df4602e86b",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify Display and Navigation of Featured Collections on Home Page\nModule: Featured Collections Browsing\nPriority: High\n\nPreconditions: \n- User is on the home page.\n- Featured collections are available in the system.\n\nTest Steps:\n1. Navigate to the home page.\n2. Locate the section displaying featured collections.\n3. Verify that each featured collection displays a brief description and a starting price.\n4. Click on one of the featured collections.\n5. Observe the navigation to the collection's detailed page.\n\nExpected Result:\n- A list of featured collections is displayed on the home page.\n- Each collection displays a brief description and a starting price.\n- Clicking on a collection navigates the user to the detailed page for that collection with more information and products.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:07",
+                            "updated_at": "2026-11-13 03:43:07"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "176",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify Product Detail Page Displays Materials, Price, Sizes, and Size Guide Option",
+                    "thread_id": "cotester_thread_v2_6af6874be0108196845d79d4bd146f17012fb7617e6d5743",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Verify Product Detail Page Displays Materials, Price, Sizes, and Size Guide Option  \nModule: Product Detail Page  \nPriority: High\n\nPreconditions: \n- User is logged in as a shopper.\n- At least one product is available and listed on the product listing page.\n\nTest Steps:\n1. Navigate to the product listing page.\n2. Click on a specific product to open its detailed view.\n3. Observe the product detail page for information on materials, price, and available sizes.\n4. Locate and verify the presence of an option to view the size guide.\n\nExpected Result:\n- The product detail page displays accurate information about the product's materials.\n- The product detail page displays the correct price of the product.\n- The product detail page lists all available sizes for the product.\n- An option to view a size guide is clearly accessible on the product detail page.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:09",
+                    "created_at": "2026-11-13 03:43:09",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1236",
+                            "tc_id": "176",
+                            "step_order": "1",
+                            "step_action": "Navigate to the product listing page.",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        },
+                        {
+                            "step_id": "1237",
+                            "tc_id": "176",
+                            "step_order": "2",
+                            "step_action": "Click on a specific product to open its detailed view.",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        },
+                        {
+                            "step_id": "1238",
+                            "tc_id": "176",
+                            "step_order": "3",
+                            "step_action": "Observe the product detail page for information on materials, price, and available sizes.",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        },
+                        {
+                            "step_id": "1239",
+                            "tc_id": "176",
+                            "step_order": "4",
+                            "step_action": "Locate and verify the presence of an option to view the size guide.",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "263",
+                            "tc_id": "176",
+                            "thread_id": "cotester_thread_v2_6af6874be0108196845d79d4bd146f17012fb7617e6d5743",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        },
+                        {
+                            "id": "264",
+                            "tc_id": "176",
+                            "thread_id": "cotester_thread_v2_6af6874be0108196845d79d4bd146f17012fb7617e6d5743",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify Product Detail Page Displays Materials, Price, Sizes, and Size Guide Option  \nModule: Product Detail Page  \nPriority: High\n\nPreconditions: \n- User is logged in as a shopper.\n- At least one product is available and listed on the product listing page.\n\nTest Steps:\n1. Navigate to the product listing page.\n2. Click on a specific product to open its detailed view.\n3. Observe the product detail page for information on materials, price, and available sizes.\n4. Locate and verify the presence of an option to view the size guide.\n\nExpected Result:\n- The product detail page displays accurate information about the product's materials.\n- The product detail page displays the correct price of the product.\n- The product detail page lists all available sizes for the product.\n- An option to view a size guide is clearly accessible on the product detail page.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:09",
+                            "updated_at": "2026-11-13 03:43:09"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "177",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify \"Checkout\" Button Displays and Navigates to Checkout Page from Shopping Bag",
+                    "thread_id": "cotester_thread_v2_6af6874e2f048195a93b36b79f373fba0cc65e0fff1e2b73",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Verify \"Checkout\" Button Displays and Navigates to Checkout Page from Shopping Bag\nModule: Checkout Process\nPriority: High\n\nPreconditions:\n- User is logged into the application.\n- User has at least one item added to the shopping bag.\n- User has navigated to the shopping bag page.\n\nTest Steps:\n1. Verify that the \"Checkout\" button is visible on the shopping bag page.\n2. Click the \"Checkout\" button on the shopping bag page.\n3. Observe the navigation after clicking the button.\n\nExpected Result:\n- The \"Checkout\" button is displayed on the shopping bag page.\n- Clicking the \"Checkout\" button successfully navigates the user to the checkout process page.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:11",
+                    "created_at": "2026-11-13 03:43:11",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1240",
+                            "tc_id": "177",
+                            "step_order": "1",
+                            "step_action": "Verify that the \"Checkout\" button is visible on the shopping bag page.",
+                            "created_at": "2026-11-13 03:43:11",
+                            "updated_at": "2026-11-13 03:43:11"
+                        },
+                        {
+                            "step_id": "1241",
+                            "tc_id": "177",
+                            "step_order": "2",
+                            "step_action": "Click the \"Checkout\" button on the shopping bag page.",
+                            "created_at": "2026-11-13 03:43:11",
+                            "updated_at": "2026-11-13 03:43:11"
+                        },
+                        {
+                            "step_id": "1242",
+                            "tc_id": "177",
+                            "step_order": "3",
+                            "step_action": "Observe the navigation after clicking the button.",
+                            "created_at": "2026-11-13 03:43:11",
+                            "updated_at": "2026-11-13 03:43:11"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "265",
+                            "tc_id": "177",
+                            "thread_id": "cotester_thread_v2_6af6874e2f048195a93b36b79f373fba0cc65e0fff1e2b73",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:11",
+                            "updated_at": "2026-11-13 03:43:11"
+                        },
+                        {
+                            "id": "266",
+                            "tc_id": "177",
+                            "thread_id": "cotester_thread_v2_6af6874e2f048195a93b36b79f373fba0cc65e0fff1e2b73",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify \"Checkout\" Button Displays and Navigates to Checkout Page from Shopping Bag\nModule: Checkout Process\nPriority: High\n\nPreconditions:\n- User is logged into the application.\n- User has at least one item added to the shopping bag.\n- User has navigated to the shopping bag page.\n\nTest Steps:\n1. Verify that the \"Checkout\" button is visible on the shopping bag page.\n2. Click the \"Checkout\" button on the shopping bag page.\n3. Observe the navigation after clicking the button.\n\nExpected Result:\n- The \"Checkout\" button is displayed on the shopping bag page.\n- Clicking the \"Checkout\" button successfully navigates the user to the checkout process page.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:11",
+                            "updated_at": "2026-11-13 03:43:11"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "178",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Update Personal Information from My Account Page",
+                    "thread_id": "cotester_thread_v2_6af6875004548190a0455aadb0207e6a0af0a1b30d97f620",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Update Personal Information from My Account Page  \nModule: Account Management  \nPriority: High  \n\nPreconditions:  \n- User is registered and logged into the application.\n\nTest Steps:  \n1. Navigate to the \"My Account\" page from the main navigation menu.\n2. Verify that personal account information fields (such as name, email, phone) are displayed.\n3. Update one or more personal information fields with valid data.\n4. Click the Save or Update button.\n5. Observe the confirmation message on the screen.\n6. Navigate away from and back to the \"My Account\" page to verify that the updates persist.\n\nExpected Result:  \n- The \"My Account\" page displays current personal information.\n- Updated information is saved and reflected immediately after confirmation.\n- A confirmation message is shown after successful update.\n- Updated personal information persists when returning to the page.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:13",
+                    "created_at": "2026-11-13 03:43:13",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1243",
+                            "tc_id": "178",
+                            "step_order": "1",
+                            "step_action": "Navigate to the \"My Account\" page from the main navigation menu.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "step_id": "1244",
+                            "tc_id": "178",
+                            "step_order": "2",
+                            "step_action": "Verify that personal account information fields (such as name, email, phone) are displayed.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "step_id": "1245",
+                            "tc_id": "178",
+                            "step_order": "3",
+                            "step_action": "Update one or more personal information fields with valid data.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "step_id": "1246",
+                            "tc_id": "178",
+                            "step_order": "4",
+                            "step_action": "Click the Save or Update button.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "step_id": "1247",
+                            "tc_id": "178",
+                            "step_order": "5",
+                            "step_action": "Observe the confirmation message on the screen.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "step_id": "1248",
+                            "tc_id": "178",
+                            "step_order": "6",
+                            "step_action": "Navigate away from and back to the \"My Account\" page to verify that the updates persist.",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "267",
+                            "tc_id": "178",
+                            "thread_id": "cotester_thread_v2_6af6875004548190a0455aadb0207e6a0af0a1b30d97f620",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        },
+                        {
+                            "id": "268",
+                            "tc_id": "178",
+                            "thread_id": "cotester_thread_v2_6af6875004548190a0455aadb0207e6a0af0a1b30d97f620",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Update Personal Information from My Account Page  \nModule: Account Management  \nPriority: High  \n\nPreconditions:  \n- User is registered and logged into the application.\n\nTest Steps:  \n1. Navigate to the \"My Account\" page from the main navigation menu.\n2. Verify that personal account information fields (such as name, email, phone) are displayed.\n3. Update one or more personal information fields with valid data.\n4. Click the Save or Update button.\n5. Observe the confirmation message on the screen.\n6. Navigate away from and back to the \"My Account\" page to verify that the updates persist.\n\nExpected Result:  \n- The \"My Account\" page displays current personal information.\n- Updated information is saved and reflected immediately after confirmation.\n- A confirmation message is shown after successful update.\n- Updated personal information persists when returning to the page.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:13",
+                            "updated_at": "2026-11-13 03:43:13"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "179",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Navigation to Contact Us Page from Main Menu",
+                    "thread_id": "cotester_thread_v2_6af687523720819781b26e2f3315f08b09be46bd0da77deb",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Navigation to Contact Us Page from Main Menu\nModule: Navigation Menu\nPriority: High\n\nPreconditions:\n- User is a visitor on the website homepage.\n- Main navigation menu is visible.\n\nTest Steps:\n1. Locate the main navigation menu on the homepage.\n2. Find and click the \"Contact Us\" link in the main navigation menu.\n3. Observe the page that loads after clicking.\n\nExpected Result:\n- \"Contact Us\" link is present and accessible in the main navigation menu.\n- User is navigated to the Contact Us page upon clicking the link.\n- The Contact Us page displays relevant contact information and a contact form.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:15",
+                    "created_at": "2026-11-13 03:43:15",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1249",
+                            "tc_id": "179",
+                            "step_order": "1",
+                            "step_action": "Locate the main navigation menu on the homepage.",
+                            "created_at": "2026-11-13 03:43:15",
+                            "updated_at": "2026-11-13 03:43:15"
+                        },
+                        {
+                            "step_id": "1250",
+                            "tc_id": "179",
+                            "step_order": "2",
+                            "step_action": "Find and click the \"Contact Us\" link in the main navigation menu.",
+                            "created_at": "2026-11-13 03:43:15",
+                            "updated_at": "2026-11-13 03:43:15"
+                        },
+                        {
+                            "step_id": "1251",
+                            "tc_id": "179",
+                            "step_order": "3",
+                            "step_action": "Observe the page that loads after clicking.",
+                            "created_at": "2026-11-13 03:43:15",
+                            "updated_at": "2026-11-13 03:43:15"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "269",
+                            "tc_id": "179",
+                            "thread_id": "cotester_thread_v2_6af687523720819781b26e2f3315f08b09be46bd0da77deb",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:15",
+                            "updated_at": "2026-11-13 03:43:15"
+                        },
+                        {
+                            "id": "270",
+                            "tc_id": "179",
+                            "thread_id": "cotester_thread_v2_6af687523720819781b26e2f3315f08b09be46bd0da77deb",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Navigation to Contact Us Page from Main Menu\nModule: Navigation Menu\nPriority: High\n\nPreconditions:\n- User is a visitor on the website homepage.\n- Main navigation menu is visible.\n\nTest Steps:\n1. Locate the main navigation menu on the homepage.\n2. Find and click the \"Contact Us\" link in the main navigation menu.\n3. Observe the page that loads after clicking.\n\nExpected Result:\n- \"Contact Us\" link is present and accessible in the main navigation menu.\n- User is navigated to the Contact Us page upon clicking the link.\n- The Contact Us page displays relevant contact information and a contact form.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:15",
+                            "updated_at": "2026-11-13 03:43:15"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "180",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Add Product to Shopping Bag from Product Detail Page",
+                    "thread_id": "cotester_thread_v2_6af68754069081959135c287a729d1d20a27de259c252796",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Add Product to Shopping Bag from Product Detail Page  \nModule: Shopping Bag  \nPriority: High\n\nPreconditions:  \n- User is on the product detail page of an available product.  \n- User is logged in or browsing as a guest (if allowed by the system).\n\nTest Steps:  \n1. Locate the \"Add to Shopping Bag\" button on the product detail page.  \n2. Click the \"Add to Shopping Bag\" button.  \n3. Locate and click the shopping bag icon to access the shopping cart.  \n4. Verify that the selected product appears in the shopping cart with correct details.\n\nExpected Result:  \n- The product is added to the shopping cart immediately after clicking the button.  \n- The shopping cart displays the correct product, quantity, and details matching the selection.  \n- The shopping cart is accessible via the shopping bag icon.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:18",
+                    "created_at": "2026-11-13 03:43:18",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1252",
+                            "tc_id": "180",
+                            "step_order": "1",
+                            "step_action": "Locate the \"Add to Shopping Bag\" button on the product detail page.",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        },
+                        {
+                            "step_id": "1253",
+                            "tc_id": "180",
+                            "step_order": "2",
+                            "step_action": "Click the \"Add to Shopping Bag\" button.",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        },
+                        {
+                            "step_id": "1254",
+                            "tc_id": "180",
+                            "step_order": "3",
+                            "step_action": "Locate and click the shopping bag icon to access the shopping cart.",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        },
+                        {
+                            "step_id": "1255",
+                            "tc_id": "180",
+                            "step_order": "4",
+                            "step_action": "Verify that the selected product appears in the shopping cart with correct details.",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "271",
+                            "tc_id": "180",
+                            "thread_id": "cotester_thread_v2_6af68754069081959135c287a729d1d20a27de259c252796",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        },
+                        {
+                            "id": "272",
+                            "tc_id": "180",
+                            "thread_id": "cotester_thread_v2_6af68754069081959135c287a729d1d20a27de259c252796",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Add Product to Shopping Bag from Product Detail Page  \nModule: Shopping Bag  \nPriority: High\n\nPreconditions:  \n- User is on the product detail page of an available product.  \n- User is logged in or browsing as a guest (if allowed by the system).\n\nTest Steps:  \n1. Locate the \"Add to Shopping Bag\" button on the product detail page.  \n2. Click the \"Add to Shopping Bag\" button.  \n3. Locate and click the shopping bag icon to access the shopping cart.  \n4. Verify that the selected product appears in the shopping cart with correct details.\n\nExpected Result:  \n- The product is added to the shopping cart immediately after clicking the button.  \n- The shopping cart displays the correct product, quantity, and details matching the selection.  \n- The shopping cart is accessible via the shopping bag icon.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:18",
+                            "updated_at": "2026-11-13 03:43:18"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "181",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify navigation to product category pages from the navigation menu",
+                    "thread_id": "cotester_thread_v2_6af6875635f481958a9bfb1d2c97a8780f643a56e677be96",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: Verify navigation to product category pages from the navigation menu  \nModule: Shop by Product Category  \nPriority: High\n\nPreconditions:  \n- User is on the homepage of the shopping website.  \n- Category options \"Fine Jewellery,\" \"Wedding & Engagement,\" and \"Forever Diamonds\" are visible in the navigation menu.\n\nTest Steps:  \n1. Click on the \"Fine Jewellery\" category in the navigation menu.\n2. Observe the page that loads after clicking the category.\n3. Click on the \"Wedding & Engagement\" category in the navigation menu.\n4. Observe the page that loads after clicking the category.\n5. Click on the \"Forever Diamonds\" category in the navigation menu.\n6. Observe the page that loads after clicking the category.\n\nExpected Result:  \n- Clicking each category navigates to a dedicated page displaying products related to the selected category.\n- The product listings shown correspond to the selected category (e.g., only fine jewellery items are shown on the \"Fine Jewellery\" page).\n- Page titles or headings clearly indicate the selected category.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:20",
+                    "created_at": "2026-11-13 03:43:20",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1256",
+                            "tc_id": "181",
+                            "step_order": "1",
+                            "step_action": "Click on the \"Fine Jewellery\" category in the navigation menu.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "step_id": "1257",
+                            "tc_id": "181",
+                            "step_order": "2",
+                            "step_action": "Observe the page that loads after clicking the category.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "step_id": "1258",
+                            "tc_id": "181",
+                            "step_order": "3",
+                            "step_action": "Click on the \"Wedding & Engagement\" category in the navigation menu.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "step_id": "1259",
+                            "tc_id": "181",
+                            "step_order": "4",
+                            "step_action": "Observe the page that loads after clicking the category.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "step_id": "1260",
+                            "tc_id": "181",
+                            "step_order": "5",
+                            "step_action": "Click on the \"Forever Diamonds\" category in the navigation menu.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "step_id": "1261",
+                            "tc_id": "181",
+                            "step_order": "6",
+                            "step_action": "Observe the page that loads after clicking the category.",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "273",
+                            "tc_id": "181",
+                            "thread_id": "cotester_thread_v2_6af6875635f481958a9bfb1d2c97a8780f643a56e677be96",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        },
+                        {
+                            "id": "274",
+                            "tc_id": "181",
+                            "thread_id": "cotester_thread_v2_6af6875635f481958a9bfb1d2c97a8780f643a56e677be96",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: Verify navigation to product category pages from the navigation menu  \nModule: Shop by Product Category  \nPriority: High\n\nPreconditions:  \n- User is on the homepage of the shopping website.  \n- Category options \"Fine Jewellery,\" \"Wedding & Engagement,\" and \"Forever Diamonds\" are visible in the navigation menu.\n\nTest Steps:  \n1. Click on the \"Fine Jewellery\" category in the navigation menu.\n2. Observe the page that loads after clicking the category.\n3. Click on the \"Wedding & Engagement\" category in the navigation menu.\n4. Observe the page that loads after clicking the category.\n5. Click on the \"Forever Diamonds\" category in the navigation menu.\n6. Observe the page that loads after clicking the category.\n\nExpected Result:  \n- Clicking each category navigates to a dedicated page displaying products related to the selected category.\n- The product listings shown correspond to the selected category (e.g., only fine jewellery items are shown on the \"Fine Jewellery\" page).\n- Page titles or headings clearly indicate the selected category.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:20",
+                            "updated_at": "2026-11-13 03:43:20"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "182",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "View Detailed Customer Testimonial from Home Page",
+                    "thread_id": "cotester_thread_v2_6af6875880308194825ce43f1c33c59a0b274bad8f22dc6b",
+                    "tc_description": "Test Case: 1\n\nTest Case Title: View Detailed Customer Testimonial from Home Page\nModule: Testimonials Section\nPriority: Medium\n\nPreconditions:\n- User is on the home page of the jewelry website.\n- At least one testimonial is visible in the testimonials section.\n\nTest Steps:\n1. Locate the testimonials section on the home page.\n2. Identify a visible customer testimonial in the section.\n3. Click on the selected testimonial.\n4. Observe the display of additional review details and customer experiences.\n\nExpected Result:\n- A detailed view appears showing more comprehensive customer review information and experiences related to the selected testimonial.",
+                    "created_source": "figma",
+                    "created_source_ref": "figma_8",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:43:22",
+                    "created_at": "2026-11-13 03:43:22",
+                    "figma_id": "8",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1262",
+                            "tc_id": "182",
+                            "step_order": "1",
+                            "step_action": "Locate the testimonials section on the home page.",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        },
+                        {
+                            "step_id": "1263",
+                            "tc_id": "182",
+                            "step_order": "2",
+                            "step_action": "Identify a visible customer testimonial in the section.",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        },
+                        {
+                            "step_id": "1264",
+                            "tc_id": "182",
+                            "step_order": "3",
+                            "step_action": "Click on the selected testimonial.",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        },
+                        {
+                            "step_id": "1265",
+                            "tc_id": "182",
+                            "step_order": "4",
+                            "step_action": "Observe the display of additional review details and customer experiences.",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "275",
+                            "tc_id": "182",
+                            "thread_id": "cotester_thread_v2_6af6875880308194825ce43f1c33c59a0b274bad8f22dc6b",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case for the Figma story ID: 8",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        },
+                        {
+                            "id": "276",
+                            "tc_id": "182",
+                            "thread_id": "cotester_thread_v2_6af6875880308194825ce43f1c33c59a0b274bad8f22dc6b",
+                            "user_id": "14",
+                            "message": "Test Case: 1\n\nTest Case Title: View Detailed Customer Testimonial from Home Page\nModule: Testimonials Section\nPriority: Medium\n\nPreconditions:\n- User is on the home page of the jewelry website.\n- At least one testimonial is visible in the testimonials section.\n\nTest Steps:\n1. Locate the testimonials section on the home page.\n2. Identify a visible customer testimonial in the section.\n3. Click on the selected testimonial.\n4. Observe the display of additional review details and customer experiences.\n\nExpected Result:\n- A detailed view appears showing more comprehensive customer review information and experiences related to the selected testimonial.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:43:22",
+                            "updated_at": "2026-11-13 03:43:22"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "183",
+                    "test_case_id": "0",
+                    "jira_id": "40",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Verify Weather Update Flow Upon Initial Alert Confirmation (Positive)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Verify Weather Update Flow Upon Initial Alert Confirmation (Positive)\nModule: Weather Updates\nPriority: High\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Application is loaded and waiting for initial alert.\n\nTest Steps:\n1. Wait for the “OK” button to be visible on the alert.\n2. Tap on the “OK” button.\n3. Wait for the “Wind” text to appear on the screen.\n4. Swipe down on the screen.\n5. Tap on the “Update” text view.\n\nExpected Result:\n- - “OK” button is visible and responsive.\n- - After tapping “OK,” the alert disappears, and the main weather screen is displayed.\n- - “Wind” text becomes visible, indicating weather data is shown.\n- - Swipe down refreshes or reveals more weather information.\n- - Tapping “Update” triggers a refresh, and latest weather data is displayed.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-9",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:50:15",
+                    "created_at": "2026-11-13 03:50:15",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1266",
+                            "tc_id": "183",
+                            "step_order": "1",
+                            "step_action": "Wait for the “OK” button to be visible on the alert.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1267",
+                            "tc_id": "183",
+                            "step_order": "2",
+                            "step_action": "Tap on the “OK” button.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1268",
+                            "tc_id": "183",
+                            "step_order": "3",
+                            "step_action": "Wait for the “Wind” text to appear on the screen.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1269",
+                            "tc_id": "183",
+                            "step_order": "4",
+                            "step_action": "Swipe down on the screen.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1270",
+                            "tc_id": "183",
+                            "step_order": "5",
+                            "step_action": "Tap on the “Update” text view.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "277",
+                            "tc_id": "183",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on JIRA story - 10237",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "id": "278",
+                            "tc_id": "183",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Test Case Title: Verify Weather Update Flow Upon Initial Alert Confirmation (Positive)\nModule: Weather Updates\nPriority: High\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Application is loaded and waiting for initial alert.\n\nTest Steps:\n1. Wait for the “OK” button to be visible on the alert.\n2. Tap on the “OK” button.\n3. Wait for the “Wind” text to appear on the screen.\n4. Swipe down on the screen.\n5. Tap on the “Update” text view.\n\nExpected Result:\n- - “OK” button is visible and responsive.\n- - After tapping “OK,” the alert disappears, and the main weather screen is displayed.\n- - “Wind” text becomes visible, indicating weather data is shown.\n- - Swipe down refreshes or reveals more weather information.\n- - Tapping “Update” triggers a refresh, and latest weather data is displayed.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "184",
+                    "test_case_id": "0",
+                    "jira_id": "40",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Search Location with Invalid Input (Negative)",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Search Location with Invalid Input (Negative)\nModule: Location Search\nPriority: Medium\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Search functionality is accessible.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait for the “Search location” edit text field to become visible.\n3. Type an invalid string such as “!@#$$%” into the search location field.\n4. Observe if any location option appears.\n\nExpected Result:\n- - “Search location” edit text is displayed.\n- - No location options appear for the invalid input.\n- - User remains on the search screen with an appropriate message, such as \"No results found,\" displayed.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-9",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:50:16",
+                    "created_at": "2026-11-13 03:50:16",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1271",
+                            "tc_id": "184",
+                            "step_order": "1",
+                            "step_action": "Tap on the “Search” button.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1272",
+                            "tc_id": "184",
+                            "step_order": "2",
+                            "step_action": "Wait for the “Search location” edit text field to become visible.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1273",
+                            "tc_id": "184",
+                            "step_order": "3",
+                            "step_action": "Type an invalid string such as “!@#$$%” into the search location field.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1274",
+                            "tc_id": "184",
+                            "step_order": "4",
+                            "step_action": "Observe if any location option appears.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "279",
+                            "tc_id": "184",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on JIRA story - 10237",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "id": "280",
+                            "tc_id": "184",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Test Case Title: Search Location with Invalid Input (Negative)\nModule: Location Search\nPriority: Medium\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Search functionality is accessible.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait for the “Search location” edit text field to become visible.\n3. Type an invalid string such as “!@#$$%” into the search location field.\n4. Observe if any location option appears.\n\nExpected Result:\n- - “Search location” edit text is displayed.\n- - No location options appear for the invalid input.\n- - User remains on the search screen with an appropriate message, such as \"No results found,\" displayed.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "185",
+                    "test_case_id": "0",
+                    "jira_id": "40",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "Edge Case for Search with Extremely Long Location String",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Edge Case for Search with Extremely Long Location String\nModule: Location Search\nPriority: Low\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Search functionality is accessible.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait for the “Search location” edit text field to be visible.\n3. Enter a location string with 256 characters (e.g., a repetition of \"A\" 256 times).\n4. Attempt to submit or search for this string.\n5. Observe application response.\n\nExpected Result:\n- - Application accepts only a reasonable number of characters (e.g., truncates at maximum allowed length) or shows a validation message for excessive input.\n- - No unexpected behavior (such as freeze or crash) occurs.\n- - If validation exists, a message is shown indicating input exceeds maximum length or is invalid.\n- - No irrelevant or unexpected results appear.",
+                    "created_source": "jira",
+                    "created_source_ref": "jira_SCRIP-9",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 03:50:16",
+                    "created_at": "2026-11-13 03:50:16",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1275",
+                            "tc_id": "185",
+                            "step_order": "1",
+                            "step_action": "Tap on the “Search” button.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1276",
+                            "tc_id": "185",
+                            "step_order": "2",
+                            "step_action": "Wait for the “Search location” edit text field to be visible.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1277",
+                            "tc_id": "185",
+                            "step_order": "3",
+                            "step_action": "Enter a location string with 256 characters (e.g., a repetition of \"A\" 256 times).",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1278",
+                            "tc_id": "185",
+                            "step_order": "4",
+                            "step_action": "Attempt to submit or search for this string.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "step_id": "1279",
+                            "tc_id": "185",
+                            "step_order": "5",
+                            "step_action": "Observe application response.",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "281",
+                            "tc_id": "185",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on JIRA story - 10237",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        },
+                        {
+                            "id": "282",
+                            "tc_id": "185",
+                            "thread_id": "cotester_thread_v2_6af688f1fad881908ee42f3c4cc4ccd00adadb7e82ea98a2",
+                            "user_id": "14",
+                            "message": "Test Case Title: Edge Case for Search with Extremely Long Location String\nModule: Location Search\nPriority: Low\n\nPreconditions:\n- - User is on the main screen of the GoodWeatherKM application.\n- - Search functionality is accessible.\n\nTest Steps:\n1. Tap on the “Search” button.\n2. Wait for the “Search location” edit text field to be visible.\n3. Enter a location string with 256 characters (e.g., a repetition of \"A\" 256 times).\n4. Attempt to submit or search for this string.\n5. Observe application response.\n\nExpected Result:\n- - Application accepts only a reasonable number of characters (e.g., truncates at maximum allowed length) or shows a validation message for excessive input.\n- - No unexpected behavior (such as freeze or crash) occurs.\n- - If validation exists, a message is shown indicating input exceeds maximum length or is invalid.\n- - No irrelevant or unexpected results appear.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 03:50:16",
+                            "updated_at": "2026-11-13 03:50:16"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "189",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "1",
+                    "version_module_id": "73",
+                    "tc_name": "Enter Valid User Information and Complete Form Actions Successfully",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Enter Valid User Information and Complete Form Actions Successfully\nModule: Demo iOS - User Information Entry\nPriority: Medium\n\nPreconditions:\n- - The app is installed and running on the iOS device.\n- - The user is on the screen where the Full Name and First Name fields are displayed.\n\nTest Steps:\n1. Wait until the Full Name field is visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait until the Done button on the keyboard is visible.\n6. Tap the Done button on the keyboard.\n7. Wait until the Clear button is visible.\n8. Tap the Clear button.\n9. Tap the Controls tab.\n10. Wait until the Male option is visible.\n11. Tap the Female radio button.\n12. Tap the Screens tab.\n13. Wait until the Open Modal Sheet option is visible.\n14. Tap on Open Modal Sheet.\n15. Wait until the Close button is visible.\n16. Swipe down on the screen to dismiss the modal sheet.\n17. Wait until Open Detail Screen is visible.\n18. Wait for 2 seconds.\n19. Tap on Open Detail Screen.\n20. Wait until the Push Another Screen button is visible.\n21. Tap on Push Another Screen.\n22. Wait until the Nested Detail screen is visible.\n23. Tap on the Back navigation button.\n24. Wait until the Detail Screen is visible.\n25. Tap on the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap on the Form tab.\n\nExpected Result:\n- - The Full Name and First Name fields accept and display the entered values.\n- - Form fields are cleared upon tapping Clear.\n- - Controls tab and radio button selections work as expected.\n- - Modal sheet displays and can be dismissed as expected.\n- - Navigation between screens and tabs is successful without errors.\n- - No crashes or unexpected behaviors are observed throughout the process.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 04:26:06",
+                    "created_at": "2026-11-13 04:26:06",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1331",
+                            "tc_id": "189",
+                            "step_order": "1",
+                            "step_action": "Wait until the Full Name field is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1332",
+                            "tc_id": "189",
+                            "step_order": "2",
+                            "step_action": "Enter \"DemoFull\" in the Full Name field.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1333",
+                            "tc_id": "189",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1334",
+                            "tc_id": "189",
+                            "step_order": "4",
+                            "step_action": "Enter \"DemoFirst\" in the First Name field.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1335",
+                            "tc_id": "189",
+                            "step_order": "5",
+                            "step_action": "Wait until the Done button on the keyboard is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1336",
+                            "tc_id": "189",
+                            "step_order": "6",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1337",
+                            "tc_id": "189",
+                            "step_order": "7",
+                            "step_action": "Wait until the Clear button is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1338",
+                            "tc_id": "189",
+                            "step_order": "8",
+                            "step_action": "Tap the Clear button.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1339",
+                            "tc_id": "189",
+                            "step_order": "9",
+                            "step_action": "Tap the Controls tab.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1340",
+                            "tc_id": "189",
+                            "step_order": "10",
+                            "step_action": "Wait until the Male option is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1341",
+                            "tc_id": "189",
+                            "step_order": "11",
+                            "step_action": "Tap the Female radio button.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1342",
+                            "tc_id": "189",
+                            "step_order": "12",
+                            "step_action": "Tap the Screens tab.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1343",
+                            "tc_id": "189",
+                            "step_order": "13",
+                            "step_action": "Wait until the Open Modal Sheet option is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1344",
+                            "tc_id": "189",
+                            "step_order": "14",
+                            "step_action": "Tap on Open Modal Sheet.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1345",
+                            "tc_id": "189",
+                            "step_order": "15",
+                            "step_action": "Wait until the Close button is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1346",
+                            "tc_id": "189",
+                            "step_order": "16",
+                            "step_action": "Swipe down on the screen to dismiss the modal sheet.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1347",
+                            "tc_id": "189",
+                            "step_order": "17",
+                            "step_action": "Wait until Open Detail Screen is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1348",
+                            "tc_id": "189",
+                            "step_order": "18",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1349",
+                            "tc_id": "189",
+                            "step_order": "19",
+                            "step_action": "Tap on Open Detail Screen.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1350",
+                            "tc_id": "189",
+                            "step_order": "20",
+                            "step_action": "Wait until the Push Another Screen button is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1351",
+                            "tc_id": "189",
+                            "step_order": "21",
+                            "step_action": "Tap on Push Another Screen.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1352",
+                            "tc_id": "189",
+                            "step_order": "22",
+                            "step_action": "Wait until the Nested Detail screen is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1353",
+                            "tc_id": "189",
+                            "step_order": "23",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1354",
+                            "tc_id": "189",
+                            "step_order": "24",
+                            "step_action": "Wait until the Detail Screen is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1355",
+                            "tc_id": "189",
+                            "step_order": "25",
+                            "step_action": "Tap on the Back navigation button.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1356",
+                            "tc_id": "189",
+                            "step_order": "26",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1357",
+                            "tc_id": "189",
+                            "step_order": "27",
+                            "step_action": "Tap on the Form tab.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "289",
+                            "tc_id": "189",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "id": "290",
+                            "tc_id": "189",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Test Case Title: Enter Valid User Information and Complete Form Actions Successfully\nModule: Demo iOS - User Information Entry\nPriority: Medium\n\nPreconditions:\n- - The app is installed and running on the iOS device.\n- - The user is on the screen where the Full Name and First Name fields are displayed.\n\nTest Steps:\n1. Wait until the Full Name field is visible.\n2. Enter \"DemoFull\" in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter \"DemoFirst\" in the First Name field.\n5. Wait until the Done button on the keyboard is visible.\n6. Tap the Done button on the keyboard.\n7. Wait until the Clear button is visible.\n8. Tap the Clear button.\n9. Tap the Controls tab.\n10. Wait until the Male option is visible.\n11. Tap the Female radio button.\n12. Tap the Screens tab.\n13. Wait until the Open Modal Sheet option is visible.\n14. Tap on Open Modal Sheet.\n15. Wait until the Close button is visible.\n16. Swipe down on the screen to dismiss the modal sheet.\n17. Wait until Open Detail Screen is visible.\n18. Wait for 2 seconds.\n19. Tap on Open Detail Screen.\n20. Wait until the Push Another Screen button is visible.\n21. Tap on Push Another Screen.\n22. Wait until the Nested Detail screen is visible.\n23. Tap on the Back navigation button.\n24. Wait until the Detail Screen is visible.\n25. Tap on the Back navigation button.\n26. Wait for 2 seconds.\n27. Tap on the Form tab.\n\nExpected Result:\n- - The Full Name and First Name fields accept and display the entered values.\n- - Form fields are cleared upon tapping Clear.\n- - Controls tab and radio button selections work as expected.\n- - Modal sheet displays and can be dismissed as expected.\n- - Navigation between screens and tabs is successful without errors.\n- - No crashes or unexpected behaviors are observed throughout the process.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "190",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "1",
+                    "version_module_id": "73",
+                    "tc_name": "Attempt to Submit User Information Form with Empty Required Fields",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Attempt to Submit User Information Form with Empty Required Fields\nModule: Demo iOS - User Information Entry\nPriority: Medium\n\nPreconditions:\n- - The app is installed and opened on the iOS device.\n- - The user is on the screen with the Full Name and First Name fields.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name field empty.\n3. Leave the First Name field empty.\n4. Wait until the Done button on the keyboard is visible.\n5. Tap the Done button on the keyboard.\n6. Wait for the Clear button to be visible.\n7. Tap the Clear button.\n\nExpected Result:\n- - The system displays a validation error or prevents form submission when required fields are left empty.\n- - No data is processed or saved.\n- - The user receives a clear indication (e.g., error message or field highlight) that the Full Name and First Name fields are mandatory.\n- - The app remains stable with no crashes or freezes.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 04:26:06",
+                    "created_at": "2026-11-13 04:26:06",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1358",
+                            "tc_id": "190",
+                            "step_order": "1",
+                            "step_action": "Wait for the Full Name field to be visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1359",
+                            "tc_id": "190",
+                            "step_order": "2",
+                            "step_action": "Leave the Full Name field empty.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1360",
+                            "tc_id": "190",
+                            "step_order": "3",
+                            "step_action": "Leave the First Name field empty.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1361",
+                            "tc_id": "190",
+                            "step_order": "4",
+                            "step_action": "Wait until the Done button on the keyboard is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1362",
+                            "tc_id": "190",
+                            "step_order": "5",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1363",
+                            "tc_id": "190",
+                            "step_order": "6",
+                            "step_action": "Wait for the Clear button to be visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1364",
+                            "tc_id": "190",
+                            "step_order": "7",
+                            "step_action": "Tap the Clear button.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "291",
+                            "tc_id": "190",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "id": "292",
+                            "tc_id": "190",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Test Case Title: Attempt to Submit User Information Form with Empty Required Fields\nModule: Demo iOS - User Information Entry\nPriority: Medium\n\nPreconditions:\n- - The app is installed and opened on the iOS device.\n- - The user is on the screen with the Full Name and First Name fields.\n\nTest Steps:\n1. Wait for the Full Name field to be visible.\n2. Leave the Full Name field empty.\n3. Leave the First Name field empty.\n4. Wait until the Done button on the keyboard is visible.\n5. Tap the Done button on the keyboard.\n6. Wait for the Clear button to be visible.\n7. Tap the Clear button.\n\nExpected Result:\n- - The system displays a validation error or prevents form submission when required fields are left empty.\n- - No data is processed or saved.\n- - The user receives a clear indication (e.g., error message or field highlight) that the Full Name and First Name fields are mandatory.\n- - The app remains stable with no crashes or freezes.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "191",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "1",
+                    "version_module_id": "73",
+                    "tc_name": "Enter Maximum Length Input in Full Name and First Name Fields",
+                    "thread_id": "",
+                    "tc_description": "Test Case Title: Enter Maximum Length Input in Full Name and First Name Fields\nModule: Demo iOS - User Information Entry\nPriority: Low\n\nPreconditions:\n- - The app is installed and running on the iOS device.\n- - The user is on the screen with the Full Name and First Name fields.\n- - Maximum allowed character length for the fields is known (if not, use 255 characters as a typical edge case).\n\nTest Steps:\n1. Wait until the Full Name field is visible.\n2. Enter a string of 255 characters in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter a string of 255 characters in the First Name field.\n5. Wait until the Done button on the keyboard is visible.\n6. Tap the Done button on the keyboard.\n\nExpected Result:\n- - The fields accept input up to the maximum allowed character length.\n- - No truncation, overlapping text, or UI distortion occurs.\n- - If input exceeds the character limit, it should be prevented with a clear indication to the user (e.g., no additional characters added, or an error message).\n- - The app operates without errors or crashes.",
+                    "created_source": "azure_board",
+                    "created_source_ref": "azure_20",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 04:26:06",
+                    "created_at": "2026-11-13 04:26:06",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1365",
+                            "tc_id": "191",
+                            "step_order": "1",
+                            "step_action": "Wait until the Full Name field is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1366",
+                            "tc_id": "191",
+                            "step_order": "2",
+                            "step_action": "Enter a string of 255 characters in the Full Name field.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1367",
+                            "tc_id": "191",
+                            "step_order": "3",
+                            "step_action": "Wait for 2 seconds.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1368",
+                            "tc_id": "191",
+                            "step_order": "4",
+                            "step_action": "Enter a string of 255 characters in the First Name field.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1369",
+                            "tc_id": "191",
+                            "step_order": "5",
+                            "step_action": "Wait until the Done button on the keyboard is visible.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "step_id": "1370",
+                            "tc_id": "191",
+                            "step_order": "6",
+                            "step_action": "Tap the Done button on the keyboard.",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "293",
+                            "tc_id": "191",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Please generate a manual test case based on Azure work item - Epic #20",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        },
+                        {
+                            "id": "294",
+                            "tc_id": "191",
+                            "thread_id": "cotester_thread_v2_6af69158d41881968878a0eadf7f26e0060f53abe51b1982",
+                            "user_id": "14",
+                            "message": "Test Case Title: Enter Maximum Length Input in Full Name and First Name Fields\nModule: Demo iOS - User Information Entry\nPriority: Low\n\nPreconditions:\n- - The app is installed and running on the iOS device.\n- - The user is on the screen with the Full Name and First Name fields.\n- - Maximum allowed character length for the fields is known (if not, use 255 characters as a typical edge case).\n\nTest Steps:\n1. Wait until the Full Name field is visible.\n2. Enter a string of 255 characters in the Full Name field.\n3. Wait for 2 seconds.\n4. Enter a string of 255 characters in the First Name field.\n5. Wait until the Done button on the keyboard is visible.\n6. Tap the Done button on the keyboard.\n\nExpected Result:\n- - The fields accept input up to the maximum allowed character length.\n- - No truncation, overlapping text, or UI distortion occurs.\n- - If input exceeds the character limit, it should be prevented with a clear indication to the user (e.g., no additional characters added, or an error message).\n- - The app operates without errors or crashes.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 04:26:06",
+                            "updated_at": "2026-11-13 04:26:06"
+                        }
+                    ]
+                },
+                {
+                    "tc_id": "202",
+                    "test_case_id": "422",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "73",
+                    "tc_name": "manual1",
+                    "thread_id": "cotester_thread_v2_6af69461e28881969c27ee8ef4ddd5c9069083bdddc56bad",
+                    "tc_description": "",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-13 04:39:45",
+                    "created_at": "2026-11-13 04:38:37",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "1489",
+                            "tc_id": "202",
+                            "step_order": "1",
+                            "step_action": "Tap on the Countries section.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1490",
+                            "tc_id": "202",
+                            "step_order": "2",
+                            "step_action": "Tap on the search button.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1491",
+                            "tc_id": "202",
+                            "step_order": "3",
+                            "step_action": "Tap on the search bar.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1492",
+                            "tc_id": "202",
+                            "step_order": "4",
+                            "step_action": "Type \"India\" in the search bar.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1493",
+                            "tc_id": "202",
+                            "step_order": "5",
+                            "step_action": "Tap on the search result for India.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1494",
+                            "tc_id": "202",
+                            "step_order": "6",
+                            "step_action": "Tap on the back button.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1495",
+                            "tc_id": "202",
+                            "step_order": "7",
+                            "step_action": "Tap on the back button again to return to the main screen.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1496",
+                            "tc_id": "202",
+                            "step_order": "8",
+                            "step_action": "Swipe down to locate the Quiz section.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1497",
+                            "tc_id": "202",
+                            "step_order": "9",
+                            "step_action": "Tap on the Quiz section.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1498",
+                            "tc_id": "202",
+                            "step_order": "10",
+                            "step_action": "Tap on the flag option in the Quiz.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1499",
+                            "tc_id": "202",
+                            "step_order": "11",
+                            "step_action": "Tap on the back button to return to the Quiz main menu.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1500",
+                            "tc_id": "202",
+                            "step_order": "12",
+                            "step_action": "Tap on the Currency section.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1501",
+                            "tc_id": "202",
+                            "step_order": "13",
+                            "step_action": "Tap on the back button to return to the previous screen.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1502",
+                            "tc_id": "202",
+                            "step_order": "14",
+                            "step_action": "Tap on the back button again to return to the main screen.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        },
+                        {
+                            "step_id": "1503",
+                            "tc_id": "202",
+                            "step_order": "15",
+                            "step_action": "Swipe up to return to the top of the main screen.",
+                            "created_at": "2026-11-13 04:39:06",
+                            "updated_at": "2026-11-13 04:39:06"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "315",
+                            "tc_id": "202",
+                            "thread_id": "",
+                            "user_id": "11",
+                            "message": "1. tap on Countries\n2. tap on search button\n3. tap on search bar\n4. type India in search bar\n5. Tap on India\n6. tap on back button\n7. Again tap on Back button\n8. Swip down to Quiz\n9. tap on Quiz\n10. tap on flag\n11. tap on back button\n12.  tap on Currency\n13. tap on back butto \n14. again tap on back button \n15.  Swip up",
+                            "message_type": "sender",
+                            "created_at": "2026-11-13 04:38:56",
+                            "updated_at": "2026-11-13 04:38:56"
+                        },
+                        {
+                            "id": "316",
+                            "tc_id": "202",
+                            "thread_id": "",
+                            "user_id": "11",
+                            "message": "Test Case: 1\n\nTest Case Title: End-to-End Navigation from Countries to Quiz to Currency and Back to Home\nModule: App Navigation\nPriority: Medium\n\nPreconditions:\n- User is logged into the app.\n- App is installed and launched on the device.\n- Device has a stable internet connection.\n\nTest Steps:\n1. Tap on the Countries section.\n2. Tap on the search button.\n3. Tap on the search bar.\n4. Type \"India\" in the search bar.\n5. Tap on the search result for India.\n6. Tap on the back button.\n7. Tap on the back button again to return to the main screen.\n8. Swipe down to locate the Quiz section.\n9. Tap on the Quiz section.\n10. Tap on the flag option in the Quiz.\n11. Tap on the back button to return to the Quiz main menu.\n12. Tap on the Currency section.\n13. Tap on the back button to return to the previous screen.\n14. Tap on the back button again to return to the main screen.\n15. Swipe up to return to the top of the main screen.\n\nExpected Result:\n- Countries section is displayed when tapped.\n- Search functionality works and \"India\" appears in search results.\n- Selecting \"India\" opens its details and navigating back returns the user to the main and then home screen.\n- Quiz section is accessible, flag option opens correctly, and navigation back works smoothly.\n- Currency section opens successfully, and back navigation leads to the previous screens as expected.\n- All navigations and swipe actions reflect accurately with no crashes or unexpected behavior.",
+                            "message_type": "replier",
+                            "created_at": "2026-11-13 04:39:03",
+                            "updated_at": "2026-11-13 04:39:03"
+                        }
+                    ]
+                }
+            ],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "338",
+                    "user_id": "11",
+                    "app_id": "39",
+                    "version_id": "59",
+                    "version_module_id": "73",
+                    "description": "",
+                    "action_process": "add_version_module"
+                },
+                {
+                    "id": "339",
+                    "user_id": "11",
+                    "app_id": "39",
+                    "version_id": "59",
+                    "version_module_id": "73",
+                    "description": "",
+                    "action_process": "add_test_case"
+                },
+                {
+                    "id": "340",
+                    "user_id": "11",
+                    "app_id": "39",
+                    "version_id": "59",
+                    "version_module_id": "73",
+                    "description": "",
+                    "action_process": "edit_test_case"
+                }
+            ],
+            "abo_vm_test_story_manual": [
+                {
+                    "id": "8",
+                    "version_module_id": "73",
+                    "figma_url": "https://www.figma.com/design/Hzs2EEzC8mGfFXTS0aqRze/Prototype-tamplate?node-id=0-1&t=sdHFVP6uD5QLU0fz-1",
+                    "figma_execution": "1",
+                    "stories": "{\"07_Sign_Up_for_News_and_Resources.txt\":1,\"09_Use_Ring_Size_Guide.txt\":1,\"01_Browse_Featured_Collections.txt\":1,\"03_View_Product_Details.txt\":1,\"05_Checkout_Process.txt\":1,\"06_Manage_My_Account.txt\":1,\"08_Navigate_to_Contact_Us_Page.txt\":1,\"04_Add_to_Shopping_Bag.txt\":1,\"02_Shop_by_Product_Category.txt\":1,\"10_View_Testimonials.txt\":1}",
+                    "story_count": "10",
+                    "user_id": "11",
+                    "sub_user_id": "14",
+                    "run_id": "run_20261113_034108",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "created_at": "2026-11-13 03:41:08",
+                    "updated_at": "2026-11-13 03:43:22"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "73",
+                    "cm_resource": null,
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": [],
+    "domain": "poc19.testgrid.io"
+}
