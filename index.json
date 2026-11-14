@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "439",
-    "user_id": 0,
+    "version_id": 439,
+    "user_id": 104,
     "abo_version": {
         "version_id": "439",
         "app_id": "258",
@@ -17,8 +17,8 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
-        "git_restore_id": "0"
+        "is_git_enabled": "1",
+        "git_restore_id": "19"
     },
     "app_id": "258",
     "platform": "3",
@@ -55,12 +55,12 @@
             "module_name": "WTS",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": null,
-            "cm_default_resource": null,
-            "cm_test_function": null,
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
             "cm_test_case": "5501,5502",
             "cm_test_case_ai": "",
-            "cm_network": null,
+            "cm_network": "",
             "cm_renderer": null,
             "view_updated_date_time": "2026-11-14 06:27:55",
             "is_updated": "1",
@@ -140,7 +140,7 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "579",
-                    "cm_resource": null,
+                    "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": []
