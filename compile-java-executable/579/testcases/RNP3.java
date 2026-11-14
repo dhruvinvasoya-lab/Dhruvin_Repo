@@ -26,6 +26,7 @@ public class rnp3 {
 	public void rnp3() {
 		tg.openBrowser();
 		tg.wait(5);
+		tg.wait(12);
 		tg.close();
 	}
 }
