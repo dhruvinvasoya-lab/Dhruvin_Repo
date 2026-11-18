@@ -200,4 +200,30 @@
     <element type="class">page-titleTGWEBCOMMA1</element>
     <element type="image">http://10.0.116.5/s/ele-imgs/305/5713.png</element>
   </locator>
+  <locator name="ele_ResetButton">
+    <element type="xpath">//button[@id='btn-reset-1']</element>
+    <element type="xpath">//form[@id='form-step-1']/div[4]/button</element>
+    <element type="id">btn-reset-1TGWEBCOMMA1</element>
+    <element type="css">#btn-reset-1</element>
+    <element type="css">button#btn-reset-1TGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/button</element>
+    <element type="class">btn btn-secondaryTGWEBCOMMA2</element>
+    <element type="image">http://10.0.116.5/s/ele-imgs/305/5827.png</element>
+  </locator>
+  <locator name="ele_Disabledoption">
+    <element type="xpath">//label[contains(text(),'Disabled option')]</element>
+    <element type="xpath">//form[@id='form-step-1']/div[3]/div/label[3]</element>
+    <element type="css">body &gt; main:nth-child(4) &gt; form:nth-child(5) &gt; div:nth-child(4) &gt; div:nth-child(2) &gt; label:nth-child(3)</element>
+    <element type="css">form#form-step-1 &gt; div:nth-of-type(3) &gt; div &gt; label:nth-of-type(3)TGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/label[3]</element>
+    <element type="image">http://10.0.116.5/s/ele-imgs/305/5828.png</element>
+  </locator>
+  <locator name="ele_Modules">
+    <element type="xpath">//b[contains(text(),'13')]</element>
+    <element type="xpath">//section[@id='hero']/div[2]/div/b</element>
+    <element type="css">b</element>
+    <element type="css">section#hero &gt; div:nth-of-type(2) &gt; div &gt; bTGWEBCOMMA3</element>
+    <element type="xpath">//b</element>
+    <element type="image">http://10.0.116.5/s/ele-imgs/305/5829.png</element>
+  </locator>
 </locators>

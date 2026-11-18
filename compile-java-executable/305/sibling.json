@@ -2296,6 +2296,288 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://10.0.116.5/s/ele-imgs/305/5713.png"
+        },
+        {
+            "testcase_element": "ele_ResetButton",
+            "tg_text": "Reset",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "btn-row"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "submit",
+                        "class": "btn",
+                        "id": "btn-next-1",
+                        "data-testid": "btn-next"
+                    },
+                    "tg_text": "Next"
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "reset",
+                        "class": "btn btn-secondary",
+                        "id": "btn-reset-1",
+                        "data-testid": "btn-reset",
+                        "data-action": "reset",
+                        "style": "outline: none !important; box-shadow: none !important;"
+                    },
+                    "tg_text": "Reset"
+                },
+                "children": [
+                    {
+                        "tag": "span",
+                        "tg_attributes": {
+                            "data-icon": "rotate"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='btn-reset-1']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div[4]/button",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-reset-1TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-reset-1",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#btn-reset-1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/button",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-secondaryTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 98,
+                    "d_x": 303,
+                    "d_y": 734.25,
+                    "suggest_name": "reset362"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5827.png"
+        },
+        {
+            "testcase_element": "ele_Disabledoption",
+            "tg_text": "Disabled option",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "option-group"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": "Disabled option"
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "radio",
+                            "id": "marital-disabled",
+                            "name": "marital",
+                            "value": "Disabled",
+                            "disabled": ""
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[contains(text(),'Disabled option')]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 167,
+                    "d_x": 531,
+                    "d_y": 674,
+                    "suggest_name": "disabledop833"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div[3]/div/label[3]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 167,
+                    "d_x": 531.71875,
+                    "d_y": 674.25,
+                    "suggest_name": "disabledop833"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > main:nth-child(4) > form:nth-child(5) > div:nth-child(4) > div:nth-child(2) > label:nth-child(3)",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 167,
+                    "d_x": 531.71875,
+                    "d_y": 674.25,
+                    "suggest_name": "disabledop833"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#form-step-1 > div:nth-of-type(3) > div > label:nth-of-type(3)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 167,
+                    "d_x": 531.71875,
+                    "d_y": 674.25,
+                    "suggest_name": "disabledop833"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div/label[3]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 167,
+                    "d_x": 531.71875,
+                    "d_y": 674.25,
+                    "suggest_name": "disabledop833"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5828.png"
+        },
+        {
+            "testcase_element": "ele_Modules",
+            "tg_text": "13",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "style": "box-shadow: none !important;"
+                    },
+                    "tg_text": "modules"
+                },
+                "current_element_attrs": {
+                    "tag": "b",
+                    "tg_attributes": {
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": "13"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//b[contains(text(),'13')]",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 57,
+                    "d_x": 313,
+                    "d_y": 325,
+                    "suggest_name": "btgwebcomm585"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='hero']/div[2]/div/b",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 57,
+                    "d_x": 313,
+                    "d_y": 325,
+                    "suggest_name": "btgwebcomm585"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "b",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 57,
+                    "d_x": 313,
+                    "d_y": 325,
+                    "suggest_name": "btgwebcomm585"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "section#hero > div:nth-of-type(2) > div > bTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 33,
+                    "d_w": 57,
+                    "d_x": 313,
+                    "d_y": 325,
+                    "suggest_name": "btgwebcomm585"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//b",
+                    "locator_id": "3",
+                    "d_h": 33,
+                    "d_w": 57,
+                    "d_x": 313,
+                    "d_y": 325,
+                    "suggest_name": "btgwebcomm585"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5829.png"
         }
     ]
 }
