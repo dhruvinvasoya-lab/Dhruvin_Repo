@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class ddstartifwithelement {
+public class start_if_with_element {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void ddstartifwithelement() {
+	public void start_if_with_element() {
 		tg.openBrowser();
 		tg.wait(5);
 		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");

@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class customscriptw {
+public class custom_script {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void customscriptw() {
+	public void custom_script() {
 		tg.openBrowser();
 		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
 		START_CUSTOM_SCRIPT;

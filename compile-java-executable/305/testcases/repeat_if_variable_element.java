@@ -20,17 +20,16 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class ddrepeateifvariablelessthen {
+public class repeat_if_variable_element {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void ddrepeateifvariablelessthen() {
+	public void repeat_if_variable_element() {
 		tg.openBrowser();
 		tg.wait(5);
 		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/form-step-1.html");
 		tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE);
 		tg.check.isVisible("ele_enteryourf216");
 		tg.check.isVisible("ele_lastname164");
-		JSONObject var_DATA = tg.getJsonData("https://production.testgrid.io/s/csv-to-json/20261118/K5QZVr.json");
 		tg_String var_FirstName = "Null";
 		tg_String var_LastName = "Null";
 		tg_int var_Count = 2;
@@ -40,8 +39,8 @@ public class ddrepeateifvariablelessthen {
 		while(tg.verify.isLessThan(var_Count, 3)){
 		tg.declare("ele_testDeclare", "#checkbox{$}", var_Count);
 		tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE, 9);
-		var_FirstName = tg.saveToVariable(var_FirstName, var_DATA, "$.records["+var_Count+"].FirstName");
-		var_LastName = tg.saveToVariable(var_LastName, var_DATA, "$.records["+var_Count+"].LastName");
+		var_FirstName = tg.saveToVariable("Upen", var_FirstName);
+		var_LastName = tg.saveToVariable("Goswami", var_LastName);
 		tg.type("ele_enteryourf216", var_FirstName);
 		tg.type("ele_lastname164", var_LastName);
 		tg.wait(5);

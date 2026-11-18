@@ -20,26 +20,26 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class ddcheckwithvariable {
+public class check_with_variable {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void ddcheckwithvariable() {
+	public void check_with_variable() {
 		tg.openBrowser();
-				tg.wait(5);
-				tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
-				tg.wait("ele_startwitht007", ComparisonType.IS_VISIBLE);
-				tg_String var_CheckAction = "13";
-				tg.check.isVisible("ele_Modules");
-				tg.check.isEqualTo(var_CheckAction,"13", false);
-				tg.check.isNotEqualTo(var_CheckAction,"12", false);
-				tg.check.isGreaterThanOrEqualTo(var_CheckAction,"13");
-				tg.check.isLessThanOrEqualTo(var_CheckAction,"3400");
-				tg.check.isGreaterThan(var_CheckAction,"12");
-				tg.check.isLessThan(var_CheckAction,"2432");
-				tg.check.isGreaterThanOrEqualTo(var_CheckAction,"13");
-				tg.check.isLessThanOrEqualTo(var_CheckAction,"701");
-				tg.check.contains("ele_Modules",var_CheckAction, false);
-				tg.wait(5);
+		tg.wait(5);
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
+		tg.wait("ele_startwitht007", ComparisonType.IS_VISIBLE);
+		tg_String var_CheckAction = "13";
+		tg.check.isVisible("ele_Modules");
+		tg.check.isEqualTo(var_CheckAction,"13", false);
+		tg.check.isNotEqualTo(var_CheckAction,"12", false);
+		tg.check.isGreaterThanOrEqualTo(var_CheckAction,"13");
+		tg.check.isLessThanOrEqualTo(var_CheckAction,"3400");
+		tg.check.isGreaterThan(var_CheckAction,"12");
+		tg.check.isLessThan(var_CheckAction,"2432");
+		tg.check.isGreaterThanOrEqualTo(var_CheckAction,"13");
+		tg.check.isLessThanOrEqualTo(var_CheckAction,"701");
+		tg.check.contains("ele_Modules",var_CheckAction, false);
+		tg.wait(5);
 		tg.close();
 	}
 }
