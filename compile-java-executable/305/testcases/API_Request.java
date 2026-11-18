@@ -25,7 +25,17 @@ public class api_request {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void api_request() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
+		tg.wait(5);
+		tg_int var_IN1 = 10;
+		tg_String var_Str1 = "null";
+		tg_Double var_dbl1 = 10.1;
+		JSONObject var_jsn1 = tg.getJsonData("{}");
+				tg.readFromAPI("R1_api.json", var_IN1, var_Str1, var_dbl1, var_jsn1);
+		tg.printLogs(var_IN1);
+		tg.printLogs(var_Str1);
+		tg.printLogs(var_dbl1);
+		tg.printLogs(var_jsn1);
 		tg.close();
 	}
 }
