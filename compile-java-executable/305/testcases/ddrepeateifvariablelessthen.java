@@ -25,34 +25,34 @@ public class ddrepeateifvariablelessthen {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void ddrepeateifvariablelessthen() {
 		tg.openBrowser();
-				tg.wait(5);
-				tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/form-step-1.html");
-				tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE);
-				tg.check.isVisible("ele_enteryourf216");
-				tg.check.isVisible("ele_lastname164");
-				JSONObject var_DATA = tg.getJsonData("https://production.testgrid.io/s/csv-to-json/20261118/K5QZVr.json");
-				tg_String var_FirstName = "Null";
-				tg_String var_LastName = "Null";
-				tg_int var_Count = 2;
-				while(tg.verify.isEqualTo(var_Count, 2)){
-				while(tg.verify.isNotEqualTo(var_Count, 4)){
-				while(tg.verify.isLessThanOrEqualTo(var_Count, 2)){
-				while(tg.verify.isLessThan(var_Count, 3)){
-				tg.declare("ele_testDeclare", "#checkbox{$}", var_Count);
-				tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE, 9);
-				var_FirstName = tg.saveToVariable(var_FirstName, var_DATA, "$.records["+var_Count+"].FirstName");
-				var_LastName = tg.saveToVariable(var_LastName, var_DATA, "$.records["+var_Count+"].LastName");
-				tg.type("ele_enteryourf216", var_FirstName);
-				tg.type("ele_lastname164", var_LastName);
-				tg.wait(5);
-				var_Count = tg.increments(var_Count, 2);
-				}
-				}
-				}
-				}
-				tg.wait(5);
-				tg.type("ele_enteryourf216", "test repeat If");
-				tg.wait(5);
+		tg.wait(5);
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/form-step-1.html");
+		tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE);
+		tg.check.isVisible("ele_enteryourf216");
+		tg.check.isVisible("ele_lastname164");
+		JSONObject var_DATA = tg.getJsonData("https://production.testgrid.io/s/csv-to-json/20261118/K5QZVr.json");
+		tg_String var_FirstName = "Null";
+		tg_String var_LastName = "Null";
+		tg_int var_Count = 2;
+		while(tg.verify.isEqualTo(var_Count, 2)){
+		while(tg.verify.isNotEqualTo(var_Count, 4)){
+		while(tg.verify.isLessThanOrEqualTo(var_Count, 2)){
+		while(tg.verify.isLessThan(var_Count, 3)){
+		tg.declare("ele_testDeclare", "#checkbox{$}", var_Count);
+		tg.wait("ele_registrati708", ComparisonType.IS_VISIBLE, 9);
+		var_FirstName = tg.saveToVariable(var_FirstName, var_DATA, "$.records["+var_Count+"].FirstName");
+		var_LastName = tg.saveToVariable(var_LastName, var_DATA, "$.records["+var_Count+"].LastName");
+		tg.type("ele_enteryourf216", var_FirstName);
+		tg.type("ele_lastname164", var_LastName);
+		tg.wait(5);
+		var_Count = tg.increments(var_Count, 2);
+		}
+		}
+		}
+		}
+		tg.wait(5);
+		tg.type("ele_enteryourf216", "test repeat If");
+		tg.wait(5);
 		tg.close();
 	}
 }

@@ -25,7 +25,7 @@ public class customscriptw {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void customscriptw() {
 		tg.openBrowser();
-				tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
+		tg.navigateToUrl("https://demo.automationtesting.in/Register.html");
 		START_CUSTOM_SCRIPT;
 		try {
 		WebElement DemoAutomationLogo = ( WebElement ) driver.findElement(By.xpath("//h1[normalize-space()='Automation Demo Site']"));

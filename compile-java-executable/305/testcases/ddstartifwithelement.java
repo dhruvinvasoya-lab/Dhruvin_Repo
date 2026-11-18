@@ -25,36 +25,36 @@ public class ddstartifwithelement {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void ddstartifwithelement() {
 		tg.openBrowser();
-				tg.wait(5);
-				tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
-				if(tg.performAssert("ele_Modules", ComparisonType.IS_VISIBLE)){
-				if(tg.performAssert("ele_Modules", ComparisonType.IS_INVISIBLE)){
+		tg.wait(5);
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
+		if(tg.performAssert("ele_Modules", ComparisonType.IS_VISIBLE)){
+		if(tg.performAssert("ele_Modules", ComparisonType.IS_INVISIBLE)){
 		} else {
-				if(tg.performAssert("ele_Modules", ComparisonType.EQUAL_TO, 13)){
-				if(tg.performAssert("ele_Modules", ComparisonType.NOT_EQUAL_TO, 2300)){
-				if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN_OR_EQUAL_TO, 12)){
-				if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN_OR_EQUAL_TO, 13)){
-				if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN_OR_EQUAL_TO , 14)){
-				if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN_OR_EQUAL_TO , 701)){
-				if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN , 11)){
-				if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN , 2544)){
-				if(tg.performAssert("ele_Modules", ComparisonType.CONTAINS , 13)){
-				tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/form-step-1.html");
-				if(tg.performAssert("ele_Disabledoption", ComparisonType.IS_ENABLE)){
-				tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
-				tg.wait(5);
-				}
-				}
-				}
-				}
-				}
-				}
-				}
-				}
-				}
-				}
-				}
-				}
+		if(tg.performAssert("ele_Modules", ComparisonType.EQUAL_TO, 13)){
+		if(tg.performAssert("ele_Modules", ComparisonType.NOT_EQUAL_TO, 2300)){
+		if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN_OR_EQUAL_TO, 12)){
+		if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN_OR_EQUAL_TO, 13)){
+		if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN_OR_EQUAL_TO , 14)){
+		if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN_OR_EQUAL_TO , 701)){
+		if(tg.performAssert("ele_Modules", ComparisonType.GREATER_THAN , 11)){
+		if(tg.performAssert("ele_Modules", ComparisonType.LESS_THAN , 2544)){
+		if(tg.performAssert("ele_Modules", ComparisonType.CONTAINS , 13)){
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/form-step-1.html");
+		if(tg.performAssert("ele_Disabledoption", ComparisonType.IS_ENABLE)){
+		tg.navigateToUrl("https://notifications.testgrid.io/qawebtest/index.html");
+		tg.wait(5);
+		}
+		}
+		}
+		}
+		}
+		}
+		}
+		}
+		}
+		}
+		}
+		}
 		tg.close();
 	}
 }
