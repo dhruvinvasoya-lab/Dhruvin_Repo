@@ -87,7 +87,2215 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://192.168.4.15/s/ele-imgs/1727/17084.png"
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5692.png"
+        },
+        {
+            "testcase_element": "ele_startwitht007",
+            "tg_text": "Start with the form",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "btn-row"
+                    },
+                    "tg_text": null
+                },
+                "next_sibling": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "btn btn-secondary",
+                        "id": "hero-network",
+                        "data-testid": "hero-network",
+                        "href": "network.html"
+                    },
+                    "tg_text": "Inspect network logs"
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "btn",
+                        "id": "hero-start",
+                        "data-testid": "hero-start",
+                        "href": "form-step-1.html"
+                    },
+                    "tg_text": "Start with the form"
+                },
+                "children": [
+                    {
+                        "tag": "span",
+                        "tg_attributes": {
+                            "data-icon": "arrowRight"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@id='hero-start']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[@id='hero']/div/a",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "hero-startTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#hero-start",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#hero-startTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Start with the foTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Start with the formTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section/div/a",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btnTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 193,
+                    "d_x": 313,
+                    "d_y": 259,
+                    "suggest_name": "startwitht007"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5693.png"
+        },
+        {
+            "testcase_element": "ele_enteryourf216",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "firstName"
+                    },
+                    "tg_text": "First Name"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "firstName",
+                        "id": "error-firstName"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "firstName",
+                        "name": "firstName",
+                        "data-testid": "input-first-name",
+                        "placeholder": "Enter your first name",
+                        "data-required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='firstName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386,
+                    "suggest_name": "enteryourf216"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf216"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "firstNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf216"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#firstName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf216"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#firstNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf216"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf216"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5694.png"
+        },
+        {
+            "testcase_element": "ele_enteryourf222",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "firstName"
+                    },
+                    "tg_text": "First Name"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "firstName",
+                        "id": "error-firstName"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "firstName",
+                        "name": "firstName",
+                        "data-testid": "input-first-name",
+                        "placeholder": "Enter your first name",
+                        "data-required": "",
+                        "value": "Jhon",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='firstName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386,
+                    "suggest_name": "enteryourf222"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf222"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "firstNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf222"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#firstName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf222"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#firstNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf222"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 386.5,
+                    "suggest_name": "enteryourf222"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5695.png"
+        },
+        {
+            "testcase_element": "ele_lastname733",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "lastName"
+                    },
+                    "tg_text": "Last Name"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "lastName",
+                        "id": "error-lastName"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "lastName",
+                        "name": "lastName",
+                        "data-testid": "input-last-name",
+                        "data-required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='lastName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698,
+                    "d_y": 386,
+                    "suggest_name": "lastname733"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname733"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "lastNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname733"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#lastName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname733"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#lastNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname733"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname733"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5696.png"
+        },
+        {
+            "testcase_element": "ele_lastname164",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "lastName"
+                    },
+                    "tg_text": "Last Name"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "lastName",
+                        "id": "error-lastName"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "lastName",
+                        "name": "lastName",
+                        "data-testid": "input-last-name",
+                        "data-required": "",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='lastName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698,
+                    "d_y": 386,
+                    "suggest_name": "lastname164"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname164"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "lastNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname164"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#lastName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname164"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#lastNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname164"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 386.5,
+                    "suggest_name": "lastname164"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5697.png"
+        },
+        {
+            "testcase_element": "ele_middlename864",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "middleName"
+                    },
+                    "tg_text": "Middle Name"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "middleName",
+                        "name": "middleName",
+                        "data-testid": "input-middle-name"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='middleName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386,
+                    "suggest_name": "middlename864"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename864"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "middleNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename864"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#middleName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename864"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#middleNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename864"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename864"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5698.png"
+        },
+        {
+            "testcase_element": "ele_middlename390",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "middleName"
+                    },
+                    "tg_text": "Middle Name"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "id": "middleName",
+                        "name": "middleName",
+                        "data-testid": "input-middle-name",
+                        "value": "Peter",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='middleName']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386,
+                    "suggest_name": "middlename390"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename390"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "middleNameTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename390"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#middleName",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename390"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#middleNameTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename390"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 386.5,
+                    "suggest_name": "middlename390"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5699.png"
+        },
+        {
+            "testcase_element": "ele_nameexampl764",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "email"
+                    },
+                    "tg_text": "Email"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "email",
+                        "id": "error-email"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "email",
+                        "id": "email",
+                        "name": "email",
+                        "data-testid": "input-email",
+                        "placeholder": "name@example.com",
+                        "data-required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489,
+                    "d_y": 386,
+                    "suggest_name": "nameexampl764"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[4]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl764"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl764"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl764"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl764"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl764"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5700.png"
+        },
+        {
+            "testcase_element": "ele_nameexampl730",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "email"
+                    },
+                    "tg_text": "Email"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "email",
+                        "id": "error-email"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "email",
+                        "id": "email",
+                        "name": "email",
+                        "data-testid": "input-email",
+                        "placeholder": "name@example.com",
+                        "data-required": "",
+                        "value": "jhon@gmail.com",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489,
+                    "d_y": 386,
+                    "suggest_name": "nameexampl730"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[4]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl730"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl730"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl730"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl730"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 386.5,
+                    "suggest_name": "nameexampl730"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5701.png"
+        },
+        {
+            "testcase_element": "ele_phone064",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "phone"
+                    },
+                    "tg_text": "Mobile Number"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "hint"
+                    },
+                    "tg_text": "10 digits only"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "tel",
+                        "id": "phone",
+                        "name": "phone",
+                        "data-testid": "input-phone",
+                        "maxlength": "10",
+                        "pattern": "[0-9]{10}",
+                        "title": "Enter a 10 digit mobile number",
+                        "data-required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='phone']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476,
+                    "suggest_name": "phone064"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[5]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone064"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "phoneTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone064"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#phone",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone064"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#phoneTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone064"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone064"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5702.png"
+        },
+        {
+            "testcase_element": "ele_phone157",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "phone"
+                    },
+                    "tg_text": "Mobile Number"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "hint"
+                    },
+                    "tg_text": "10 digits only"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "tel",
+                        "id": "phone",
+                        "name": "phone",
+                        "data-testid": "input-phone",
+                        "maxlength": "10",
+                        "pattern": "[0-9]{10}",
+                        "title": "Enter a 10 digit mobile number",
+                        "data-required": "",
+                        "value": "9876543210",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='phone']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476,
+                    "suggest_name": "phone157"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[5]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone157"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "phoneTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone157"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#phone",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone157"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#phoneTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone157"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 303,
+                    "d_y": 476.5,
+                    "suggest_name": "phone157"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5703.png"
+        },
+        {
+            "testcase_element": "ele_dob296",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "dob"
+                    },
+                    "tg_text": "Date of Birth"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "dob",
+                        "id": "error-dob"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "date",
+                        "id": "dob",
+                        "name": "dob",
+                        "data-testid": "input-dob",
+                        "data-required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='dob']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698,
+                    "d_y": 476,
+                    "suggest_name": "dob296"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[6]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 476.5,
+                    "suggest_name": "dob296"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "dobTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 476.5,
+                    "suggest_name": "dob296"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#dob",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 476.5,
+                    "suggest_name": "dob296"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#dobTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 476.5,
+                    "suggest_name": "dob296"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 698.5,
+                    "d_y": 476.5,
+                    "suggest_name": "dob296"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5704.png"
+        },
+        {
+            "testcase_element": "ele_eg127",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "age"
+                    },
+                    "tg_text": "Age"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "number",
+                        "id": "age",
+                        "name": "age",
+                        "data-testid": "input-age",
+                        "min": "1",
+                        "max": "120",
+                        "placeholder": "e.g. 28"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='age']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476,
+                    "suggest_name": "eg127"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[7]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg127"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "ageTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg127"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#age",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg127"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#ageTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg127"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[7]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg127"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5705.png"
+        },
+        {
+            "testcase_element": "ele_eg602",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "age"
+                    },
+                    "tg_text": "Age"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "number",
+                        "id": "age",
+                        "name": "age",
+                        "data-testid": "input-age",
+                        "min": "1",
+                        "max": "120",
+                        "placeholder": "e.g. 28",
+                        "value": "28",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='age']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476,
+                    "suggest_name": "eg602"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[7]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg602"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "ageTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg602"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#age",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg602"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#ageTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg602"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[7]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1094,
+                    "d_y": 476.5,
+                    "suggest_name": "eg602"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5706.png"
+        },
+        {
+            "testcase_element": "ele_https239",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "website"
+                    },
+                    "tg_text": "Website"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "url",
+                        "id": "website",
+                        "name": "website",
+                        "data-testid": "input-website",
+                        "placeholder": "https://"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='website']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489,
+                    "d_y": 476,
+                    "suggest_name": "https239"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[8]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https239"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "websiteTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https239"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#website",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https239"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#websiteTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https239"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[8]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https239"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5707.png"
+        },
+        {
+            "testcase_element": "ele_https022",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "website"
+                    },
+                    "tg_text": "Website"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "url",
+                        "id": "website",
+                        "name": "website",
+                        "data-testid": "input-website",
+                        "placeholder": "https://",
+                        "value": "www.jhon.com",
+                        "aria-invalid": "false"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='website']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489,
+                    "d_y": 476,
+                    "suggest_name": "https022"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[8]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https022"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "websiteTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https022"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#website",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https022"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#websiteTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https022"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[8]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 376,
+                    "d_x": 1489.5,
+                    "d_y": 476.5,
+                    "suggest_name": "https022"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5708.png"
+        },
+        {
+            "testcase_element": "ele_male624",
+            "tg_text": "Male",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "option-group",
+                        "role": "radiogroup",
+                        "aria-labelledby": "gender-label"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "option-group",
+                        "role": "radiogroup",
+                        "aria-labelledby": "gender-label"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "radio",
+                            "id": "gender-male",
+                            "name": "gender",
+                            "value": "Male",
+                            "data-testid": "radio-male",
+                            "data-required": "",
+                            "data-msg": "Please select a gender",
+                            "aria-invalid": "false"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[contains(text(),'Male')]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 89,
+                    "d_x": 303,
+                    "d_y": 587,
+                    "suggest_name": "male624"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div[2]/div/label",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 89,
+                    "d_x": 303,
+                    "d_y": 587.25,
+                    "suggest_name": "male624"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.option-group > label",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 89,
+                    "d_x": 303,
+                    "d_y": 587.25,
+                    "suggest_name": "male624"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#form-step-1 > div:nth-of-type(2) > div > labelTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 89,
+                    "d_x": 303,
+                    "d_y": 587.25,
+                    "suggest_name": "male624"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/label",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 89,
+                    "d_x": 303,
+                    "d_y": 587.25,
+                    "suggest_name": "male624"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5709.png"
+        },
+        {
+            "testcase_element": "ele_next663",
+            "tg_text": "Next",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "btn-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "reset",
+                        "class": "btn btn-secondary",
+                        "id": "btn-reset-1",
+                        "data-testid": "btn-reset",
+                        "data-action": "reset"
+                    },
+                    "tg_text": "Reset"
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "submit",
+                        "class": "btn",
+                        "id": "btn-next-1",
+                        "data-testid": "btn-next"
+                    },
+                    "tg_text": "Next"
+                },
+                "children": [
+                    {
+                        "tag": "span",
+                        "tg_attributes": {
+                            "data-icon": "arrowRight"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='btn-next-1']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409,
+                    "d_y": 734,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div[4]/button[2]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "btn-next-1TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#btn-next-1",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#btn-next-1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[2]",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btnTGWEBCOMMA3",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 409.125,
+                    "d_y": 734.25,
+                    "suggest_name": "next663"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5710.png"
+        },
+        {
+            "testcase_element": "ele_dob145",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "form-row"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "field-label",
+                        "for": "dob"
+                    },
+                    "tg_text": "Date of Birth"
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "error-text",
+                        "data-error-for": "dob",
+                        "id": "error-dob"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "date",
+                        "id": "dob",
+                        "name": "dob",
+                        "data-testid": "input-dob",
+                        "data-required": "",
+                        "class": "",
+                        "aria-invalid": "false",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='dob']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474,
+                    "suggest_name": "dob145"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div/div[6]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474.25,
+                    "suggest_name": "dob145"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "dobTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474.25,
+                    "suggest_name": "dob145"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#dob",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474.25,
+                    "suggest_name": "dob145"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#dobTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474.25,
+                    "suggest_name": "dob145"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 373,
+                    "d_x": 696,
+                    "d_y": 474.25,
+                    "suggest_name": "dob145"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5711.png"
+        },
+        {
+            "testcase_element": "ele_single994",
+            "tg_text": "Single",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "option-group"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "option-group"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "radio",
+                            "id": "marital-single",
+                            "name": "marital",
+                            "value": "Single",
+                            "data-testid": "radio-single",
+                            "checked": ""
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[contains(text(),'Single')]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 99,
+                    "d_x": 303,
+                    "d_y": 723,
+                    "suggest_name": "single994"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='form-step-1']/div[3]/div/label",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 99,
+                    "d_x": 303,
+                    "d_y": 723.75,
+                    "suggest_name": "single994"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > main:nth-child(4) > form:nth-child(5) > div:nth-child(4) > div:nth-child(2) > label:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 99,
+                    "d_x": 303,
+                    "d_y": 723.75,
+                    "suggest_name": "single994"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#form-step-1 > div:nth-of-type(3) > div > labelTGWEBCOMMA2",
+                    "locator_id": "9",
+                    "d_h": 41,
+                    "d_w": 99,
+                    "d_x": 303,
+                    "d_y": 723.75,
+                    "suggest_name": "single994"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div/label",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 99,
+                    "d_x": 303,
+                    "d_y": 723.75,
+                    "suggest_name": "single994"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5712.png"
+        },
+        {
+            "testcase_element": "ele_registrati708",
+            "tg_text": "Registration Form",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "main",
+                    "tg_attributes": {
+                        "class": "container",
+                        "style": "box-shadow: none !important;"
+                    },
+                    "tg_text": null
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "breadcrumb",
+                        "id": "breadcrumb",
+                        "style": "box-shadow: none; outline: none;"
+                    },
+                    "tg_text": "HomeForm"
+                },
+                "next_sibling": {
+                    "tag": "p",
+                    "tg_attributes": {
+                        "class": "page-subtitle"
+                    },
+                    "tg_text": "Step 2 of 3  Address & preferences."
+                },
+                "current_element_attrs": {
+                    "tag": "h1",
+                    "tg_attributes": {
+                        "class": "page-title",
+                        "style": "box-shadow: none !important; outline: none !important;"
+                    },
+                    "tg_text": "Registration Form"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h1[contains(text(),'Registration Form')]",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117,
+                    "suggest_name": "registrati708"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//body[@id='page-form-step-2']/main/h1",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117.5,
+                    "suggest_name": "registrati708"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "h1.page-title",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117.5,
+                    "suggest_name": "registrati708"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body#page-form-step-2 > main > h1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117.5,
+                    "suggest_name": "registrati708"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h1",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117.5,
+                    "suggest_name": "registrati708"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "page-titleTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 36,
+                    "d_w": 1598,
+                    "d_x": 280,
+                    "d_y": 117.5,
+                    "suggest_name": "registrati708"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.116.5/s/ele-imgs/305/5713.png"
         }
     ]
 }
