@@ -992,12 +992,12 @@
             "count_resource": "5",
             "cm_resource_pages": "479",
             "cm_default_resource": "27549,27550,27551,27594",
-            "cm_test_function": "132",
+            "cm_test_function": "",
             "cm_test_case": "3914,3926",
             "cm_test_case_ai": "",
             "cm_network": "10",
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-19 09:29:33",
+            "view_updated_date_time": "2026-11-19 09:29:43",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -1060,27 +1060,7 @@
                     "vault_paths": []
                 }
             ],
-            "abo_version_proc": [
-                {
-                    "proc_id": "132",
-                    "version_module_id": "466",
-                    "proc_name": "webio",
-                    "proc_description": "",
-                    "cm_step_list": null,
-                    "is_compiled": "1",
-                    "is_ai_generated": "0",
-                    "created_source": "recorder_wizard",
-                    "created_source_ref": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "0",
-                    "has_parameters": "0",
-                    "param_data": "[]",
-                    "return_type": null,
-                    "status": "2",
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/238/359/466/testfunctions/webio.java",
-                    "vault_paths": []
-                }
-            ],
+            "abo_version_proc": [],
             "abo_vm_test_case_manual": [
                 {
                     "tc_id": "1711",
@@ -2543,6 +2523,15 @@
                     "version_module_id": "466",
                     "description": "",
                     "action_process": "delete_test_case"
+                },
+                {
+                    "id": "2344",
+                    "user_id": "54",
+                    "app_id": "238",
+                    "version_id": "359",
+                    "version_module_id": "466",
+                    "description": "",
+                    "action_process": "delete_test_function"
                 }
             ],
             "abo_vm_test_story_manual": [],
