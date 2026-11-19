@@ -19,30 +19,30 @@ import org.testng.annotations.Test;
 public class ptc1 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-    	@XrayTest(key = "TES-3")
+	@XrayTest(key = "TES-3")
 	public void ptc1() {
 		tg.openDevice();
-				tg.wait("ele_EnteremailaddressEditText1795069027705", ComparisonType.IS_VISIBLE);
-				tg.pageLoadStart("Pg1");
-				tg.click("ele_EnteremailaddressEditText1795069027705", 1);
-				tg.pageLoadEnd("Pg1");
-		// [DISABLED] 		tg.startSecureBlock();
-				tg.type("ele_EnteremailaddressEditText1795069027705", "#TGITVAR.FirstName", true);
-		// [DISABLED] 		tg.endSecureBlock();
-				tg.pageLoadStart("pass");
-				tg.wait("ele_EnterpasswordEditText1795069087658", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnterpasswordEditText1795069087658", 1);
-				tg.pageLoadEnd("pass");
-		// [DISABLED] 		tg.startSecureBlock();
-				tg.wait("ele_EnterpasswordEditText1795069087658", ComparisonType.IS_VISIBLE);
-				tg.type("ele_EnterpasswordEditText1795069087658", "#TGITVAR.LastName", true);
-		// [DISABLED] 		tg.endSecureBlock();
-				tg.pageLoadStart("Eye");
-				tg.wait("ele_FrameLayout1795069107008", ComparisonType.IS_VISIBLE);
-				tg.click("ele_FrameLayout1795069107008", 1);
-				tg.pageLoadEnd("Eye");
-				tg.wait("ele_SignInButton", ComparisonType.IS_VISIBLE);
-				tg.click("ele_SignInButton", 1);
+		tg.wait("ele_EnteremailaddressEditText1795069027705", ComparisonType.IS_VISIBLE);
+		tg.pageLoadStart("Pg1");
+		tg.click("ele_EnteremailaddressEditText1795069027705", 1);
+		tg.pageLoadEnd("Pg1");
+		tg.startSecureBlock();
+		tg.type("ele_EnteremailaddressEditText1795069027705", "#TGITVAR.FirstName", true);
+		tg.endSecureBlock();
+		tg.pageLoadStart("pass");
+		tg.wait("ele_EnterpasswordEditText1795069087658", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnterpasswordEditText1795069087658", 1);
+		tg.pageLoadEnd("pass");
+		tg.startSecureBlock();
+		tg.wait("ele_EnterpasswordEditText1795069087658", ComparisonType.IS_VISIBLE);
+		tg.type("ele_EnterpasswordEditText1795069087658", "#TGITVAR.LastName", true);
+		tg.endSecureBlock();
+		tg.pageLoadStart("Eye");
+		tg.wait("ele_FrameLayout1795069107008", ComparisonType.IS_VISIBLE);
+		tg.click("ele_FrameLayout1795069107008", 1);
+		tg.pageLoadEnd("Eye");
+		tg.wait("ele_SignInButton", ComparisonType.IS_VISIBLE);
+		tg.click("ele_SignInButton", 1);
 		tg.close();
 	}
 }
