@@ -1,0 +1,205 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_mainmenurefreshTextView1795070617273",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]",
+                    "locator_id": "3",
+                    "d_h": 144,
+                    "d_w": 144,
+                    "d_x": 648,
+                    "d_y": 103,
+                    "suggest_name": "mainmenurefreshTextView1795070617273"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "mainmenurefreshTextView1795070617273",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "144",
+                    "d_w": "144",
+                    "d_x": "648",
+                    "d_y": "103",
+                    "element_area": 288,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/466/27549.png"
+        },
+        {
+            "testcase_element": "ele_mainmenusearchcityTextView1795070621615",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]",
+                    "locator_id": "3",
+                    "d_h": 144,
+                    "d_w": 144,
+                    "d_x": 792,
+                    "d_y": 103,
+                    "suggest_name": "mainmenusearchcityTextView1795070621615"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "mainmenusearchcityTextView1795070621615",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]"
+                    ],
+                    "img": "",
+                    "d_h": "144",
+                    "d_w": "144",
+                    "d_x": "792",
+                    "d_y": "103",
+                    "element_area": 288,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/466/27550.png"
+        },
+        {
+            "testcase_element": "ele_LondonTextView1795070627511",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'city_name')])[1]",
+                    "locator_id": "3",
+                    "d_h": 65,
+                    "d_w": 1032,
+                    "d_x": 24,
+                    "d_y": 283,
+                    "suggest_name": "LondonTextView1795070627511"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "LondonTextView1795070627511",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "65",
+                    "d_w": "1032",
+                    "d_x": "24",
+                    "d_y": "283",
+                    "element_area": 1097,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/466/27551.png"
+        },
+        {
+            "testcase_element": "ele_WebviewTextView1795079849728",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.View/android.view.View[2]/android.widget.TextView[2]",
+                    "locator_id": "3",
+                    "d_h": 54,
+                    "d_w": 125,
+                    "d_x": 190,
+                    "d_y": 2136,
+                    "suggest_name": "WebviewTextView1795079849728"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/466/27594.png"
+        },
+        {
+            "testcase_element": "ele_GetStarted",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_xpath",
+                    "locators_val": "//div[@id='__docusaurus_skipToContent_fallback']//main//header//div//div//a[normalize-space()='Get Started']",
+                    "locator_id": "12",
+                    "d_h": 106,
+                    "d_w": 275,
+                    "d_x": 56,
+                    "d_y": 1149,
+                    "suggest_name": "Get Started"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": "9",
+                    "locators_val": "div#__docusaurus_skipToContent_fallback > main > header > div > div > aTGWEBCOMMA1",
+                    "d_h": "106",
+                    "d_x": "56",
+                    "d_w": "275",
+                    "suggest_name": "Get Started",
+                    "d_y": "1149"
+                },
+                {
+                    "locators": "LinkText",
+                    "locator_type": "4",
+                    "locators_val": "Get StartedTGWEBCOMMA1",
+                    "d_h": "106",
+                    "d_x": "56",
+                    "d_w": "275",
+                    "suggest_name": "Get Started",
+                    "d_y": "1149"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": "12",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[3]/main[1]/header[1]/div[1]/div[1]/a[1]",
+                    "d_h": "106",
+                    "d_x": "56",
+                    "d_w": "275",
+                    "suggest_name": "Get Started",
+                    "d_y": "1149"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locator_type": "5",
+                    "locators_val": "Get StartTGWEBCOMMA1",
+                    "d_h": "106",
+                    "d_x": "56",
+                    "d_w": "275",
+                    "suggest_name": "Get Started",
+                    "d_y": "1149"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": "6",
+                    "locators_val": "button button--primary button--lg primaryButton_rESMTGWEBCOMMA0",
+                    "d_h": "106",
+                    "d_x": "56",
+                    "d_w": "275",
+                    "suggest_name": "Get Started",
+                    "d_y": "1149"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_xpath",
+            "image_url": "http://10.0.135.5/s/ele-imgs/466/27595.png"
+        }
+    ]
+}
