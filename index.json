@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "359",
+    "version_id": 359,
     "user_id": "54",
     "abo_version": {
         "version_id": "359",
@@ -17,7 +17,7 @@
         "xray_project_version": "Qdata",
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "1"
     },
     "app_id": "238",
     "platform": "2",
@@ -54,12 +54,12 @@
             "module_name": "SuiteAnd",
             "module_description": "",
             "count_resource": "21",
-            "cm_resource_pages": ",473",
+            "cm_resource_pages": "473",
             "cm_default_resource": "27544,27545,27546,27547,27578,27579,27580,27581,27582,27583,27584,27585,27586,27587,27588,27589,27590,27591,27592,27593",
-            "cm_test_function": null,
+            "cm_test_function": "",
             "cm_test_case": "3912,3922,3924,3925",
             "cm_test_case_ai": "",
-            "cm_network": null,
+            "cm_network": "",
             "cm_renderer": null,
             "view_updated_date_time": "2026-11-19 09:17:06",
             "is_updated": "0",
@@ -285,7 +285,7 @@
                             "d_y": "982",
                             "d_w": "970",
                             "d_h": "126",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27548",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27548.png"
@@ -328,7 +328,7 @@
                             "d_y": "1464",
                             "d_w": "970",
                             "d_h": "131",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27544",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27544.png"
@@ -362,7 +362,7 @@
                             "d_y": "726",
                             "d_w": "970",
                             "d_h": "131",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27545",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27545.png"
@@ -396,7 +396,7 @@
                             "d_y": "721",
                             "d_w": "126",
                             "d_h": "126",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27546",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27546.png"
@@ -430,7 +430,7 @@
                             "d_y": "719",
                             "d_w": "137",
                             "d_h": "131",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27547",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27547.png"
@@ -464,7 +464,7 @@
                             "d_y": "766",
                             "d_w": "273",
                             "d_h": "72",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27578",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27578.png"
@@ -498,7 +498,7 @@
                             "d_y": "122",
                             "d_w": "108",
                             "d_h": "108",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27579",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27579.png"
@@ -532,7 +532,7 @@
                             "d_y": "122",
                             "d_w": "108",
                             "d_h": "108",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27580",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27580.png"
@@ -566,7 +566,7 @@
                             "d_y": "1261",
                             "d_w": "144",
                             "d_h": "122",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27581",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27581.png"
@@ -600,7 +600,7 @@
                             "d_y": "135",
                             "d_w": "720",
                             "d_h": "81",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27582",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27582.png"
@@ -634,7 +634,7 @@
                             "d_y": "306",
                             "d_w": "972",
                             "d_h": "43",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27583",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27583.png"
@@ -668,7 +668,7 @@
                             "d_y": "145",
                             "d_w": "229",
                             "d_h": "61",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27584",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27584.png"
@@ -702,7 +702,7 @@
                             "d_y": "113",
                             "d_w": "126",
                             "d_h": "126",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27585",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27585.png"
@@ -736,7 +736,7 @@
                             "d_y": "486",
                             "d_w": "558",
                             "d_h": "108",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27586",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27586.png"
@@ -770,7 +770,7 @@
                             "d_y": "122",
                             "d_w": "91",
                             "d_h": "108",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27587",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27587.png"
@@ -804,7 +804,7 @@
                             "d_y": "151",
                             "d_w": "369",
                             "d_h": "49",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27588",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27588.png"
@@ -838,7 +838,7 @@
                             "d_y": "740",
                             "d_w": "558",
                             "d_h": "108",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27589",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27589.png"
@@ -872,7 +872,7 @@
                             "d_y": "268",
                             "d_w": "263",
                             "d_h": "49",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27590",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27590.png"
@@ -906,7 +906,7 @@
                             "d_y": "441",
                             "d_w": "401",
                             "d_h": "49",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27591",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27591.png"
@@ -940,7 +940,7 @@
                             "d_y": "429",
                             "d_w": "72",
                             "d_h": "72",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27592",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27592.png"
@@ -974,7 +974,7 @@
                             "d_y": "966",
                             "d_w": "106",
                             "d_h": "61",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27593",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/465/27593.png"
@@ -990,14 +990,14 @@
             "module_name": "Sec111",
             "module_description": "",
             "count_resource": "5",
-            "cm_resource_pages": ",479",
+            "cm_resource_pages": "479",
             "cm_default_resource": "27549,27550,27551,27594",
             "cm_test_function": "132",
             "cm_test_case": "3914,3926,3927",
             "cm_test_case_ai": "",
             "cm_network": "10",
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-19 09:26:35",
+            "view_updated_date_time": "2026-11-19 09:26:54",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -1062,7 +1062,7 @@
                 {
                     "tc_id": "3927",
                     "version_module_id": "466",
-                    "tc_name": "call_func234",
+                    "tc_name": "call_func",
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
@@ -1076,13 +1076,13 @@
                     "created_source": "manual_add",
                     "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-11-19 09:26:35",
+                    "updated_at": "2026-11-19 09:20:46",
                     "created_at": "2026-11-19 09:20:46",
                     "qtest_skip_sync": "0",
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/238/359/466/testcases/call_func234.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/238/359/466/testcases/call_func.java",
                     "vault_paths": []
                 }
             ],
@@ -1305,7 +1305,7 @@
                         {
                             "id": "3216",
                             "tc_id": "1711",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on JIRA story - SCRIP-9",
                             "message_type": "sender",
@@ -1315,7 +1315,7 @@
                         {
                             "id": "3217",
                             "tc_id": "1711",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Complete the main flow: confirm alert, search Mumbai, view graphs, toggle values and change settings\nModule: GoodWeatherKM\nPriority: High\n\nPreconditions:\n- The GoodWeatherKM Android app is installed and launched\n- The device is connected to the internet\n\nTest Steps:\n1. Wait for the \"OK\" button to be visible on the initial alert.\n2. Tap the \"OK\" button.\n3. Wait for the \"Wind\" text to be visible.\n4. Swipe down on the screen.\n5. Tap the \"Update\" text view.\n6. Tap the \"Search\" button.\n7. Wait for the \"Search location\" edit text field to be visible.\n8. Type \"Mumbai\" in the \"Search location\" field.\n9. Wait for the \"IN\" option to be visible.\n10. Tap the \"IN\" option.\n11. Wait for the \"Refresh location\" button to be visible.\n12. Tap the Navigation Drawer.\n13. Wait for \"Graphs\" to be visible.\n14. Tap \"Graphs\".\n15. Swipe up, then swipe down on the Graphs screen.\n16. Wait for \"More options\" to be visible and tap it.\n17. Wait for \"Toggle values\" to be visible and tap it.\n18. Tap the Navigation Drawer.\n19. Wait for \"Settings\" to be visible and tap it.\n20. Wait for \"General settings\" to be visible and tap it.\n21. Wait for \"Hide weather description\" to be visible and tap its checkbox.\n22. Turn ON the toggle for \"Enable notifications\".\n\nExpected Result:\n- The \"OK\" button is displayed and the alert closes after tapping it.\n- The \"Wind\" text is displayed and the weather data updates after tapping \"Update\".\n- The \"Search location\" field accepts \"Mumbai\" and the \"IN\" option is shown and can be selected.\n- The \"Refresh location\" button is displayed after the location is selected.\n- The Graphs screen opens and scrolls up and down without problems.\n- The graph values are toggled after tapping \"Toggle values\".\n- The \"Hide weather description\" checkbox is checked and the \"Enable notifications\" toggle is ON.",
                             "message_type": "replier",
@@ -1377,7 +1377,7 @@
                         {
                             "id": "3218",
                             "tc_id": "1712",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on JIRA story - SCRIP-9",
                             "message_type": "sender",
@@ -1387,7 +1387,7 @@
                         {
                             "id": "3219",
                             "tc_id": "1712",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Search for a location using text that matches no location\nModule: GoodWeatherKM\nPriority: Medium\n\nPreconditions:\n- The GoodWeatherKM Android app is launched\n- The initial alert has been confirmed by tapping \"OK\"\n- The device is connected to the internet\n\nTest Steps:\n1. Tap the \"Search\" button.\n2. Wait for the \"Search location\" edit text field to be visible.\n3. Type \"Qzxwvk123\" in the \"Search location\" field.\n4. Observe the list of options shown.\n\nExpected Result:\n- The \"IN\" option is not displayed for the invalid text.\n- No location is selected and the \"Refresh location\" button does not appear as a result of this search.\n- The app does not crash and the current weather data stays unchanged.",
                             "message_type": "replier",
@@ -1465,7 +1465,7 @@
                         {
                             "id": "3220",
                             "tc_id": "1713",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on JIRA story - SCRIP-9",
                             "message_type": "sender",
@@ -1475,7 +1475,7 @@
                         {
                             "id": "3221",
                             "tc_id": "1713",
-                            "thread_id": "s_0db9117916f3e735",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Search with an empty location field\nModule: GoodWeatherKM\nPriority: Low\n\nPreconditions:\n- The GoodWeatherKM Android app is launched\n- The initial alert has been confirmed by tapping \"OK\"\n- The device is connected to the internet\n\nTest Steps:\n1. Tap the \"Search\" button.\n2. Wait for the \"Search location\" edit text field to be visible.\n3. Leave the \"Search location\" field empty.\n4. Observe the screen.\n5. Type \"M\" (a single character) in the field.\n6. Observe the options shown.\n\nExpected Result:\n- The empty field does not return or select any location and the app does not crash.\n- The app handles the single-character entry without crashing and does not change the current location unless an option is tapped.",
                             "message_type": "replier",
@@ -1657,7 +1657,7 @@
                         {
                             "id": "3246",
                             "tc_id": "1726",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #27",
                             "message_type": "sender",
@@ -1667,7 +1667,7 @@
                         {
                             "id": "3247",
                             "tc_id": "1726",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Complete the evolving application workflow from Sprint 1 to final submission in Iteration 5\nModule: Ultimate QA - Automation page / Evolving application workflow\nPriority: High\n\nPreconditions:\n- A browser is available and the URL https://ultimateqa.com/automation/ is reachable\n- The tester has a stable internet connection\n\nTest Steps:\n1. Open the URL https://ultimateqa.com/automation/ in the browser\n2. Wait until the text \"Learn how to automate an application that evolves over time\" is visible\n3. Click on \"Learn how to automate an application that evolves over time\"\n4. Wait until the text \"Sprint 1\" is visible\n5. Type \"FirstDemo\" in the Firstname text field\n6. Click on \"Go to next sprint\"\n7. Wait until the text \"Iteration 2\" is visible\n8. Type \"FirstDemo\" in the Firstname field\n9. Type \"LastDemo\" in the Lastname field\n10. Click on \"Go to sprint 3\"\n11. Wait until the text \"Iteration 3\" is visible\n12. Click on the \"Male\" radio button\n13. Type \"FirstDemo\" in the Firstname field\n14. Type \"LastDemo\" in the Lastname field\n15. Click on \"Go to sprint 4\"\n16. Wait until the text \"Iteration 4\" is visible\n17. Click on \"Go to sprint 5\"\n18. Wait until the text \"Iteration 5\" is visible\n19. Click on the \"Submit\" button\n\nExpected Result:\n- The Automation page loads and the \"Learn how to automate an application that evolves over time\" text is displayed\n- Clicking the link opens Sprint 1\n- The Firstname field accepts \"FirstDemo\" and \"Go to next sprint\" opens Iteration 2\n- Iteration 2 accepts both names and \"Go to sprint 3\" opens Iteration 3\n- The \"Male\" radio button is selected, the names are accepted and \"Go to sprint 4\" opens Iteration 4\n- \"Go to sprint 5\" opens Iteration 5\n- Clicking \"Submit\" submits the form successfully",
                             "message_type": "replier",
@@ -1737,7 +1737,7 @@
                         {
                             "id": "3248",
                             "tc_id": "1727",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #27",
                             "message_type": "sender",
@@ -1747,7 +1747,7 @@
                         {
                             "id": "3249",
                             "tc_id": "1727",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Sprint navigation is not possible without entering the required Firstname in Sprint 1\nModule: Ultimate QA - Automation page / Sprint 1\nPriority: Medium\n\nPreconditions:\n- A browser is available and the URL https://ultimateqa.com/automation/ is reachable\n- The tester has opened the evolving application workflow and Sprint 1 is displayed\n\nTest Steps:\n1. Open the URL https://ultimateqa.com/automation/\n2. Click on \"Learn how to automate an application that evolves over time\"\n3. Wait until the text \"Sprint 1\" is visible\n4. Leave the Firstname text field empty, or type only special characters such as \"@@##\"\n5. Click on \"Go to next sprint\"\n\nExpected Result:\n- Sprint 1 is displayed\n- The system should reject the invalid or empty Firstname (validation message shown or navigation blocked) and the tester does not reach Iteration 2 with invalid data. Note: the story does not define the exact validation behaviour; record the actual behaviour",
                             "message_type": "replier",
@@ -1817,7 +1817,7 @@
                         {
                             "id": "3250",
                             "tc_id": "1728",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #27",
                             "message_type": "sender",
@@ -1827,7 +1827,7 @@
                         {
                             "id": "3251",
                             "tc_id": "1728",
-                            "thread_id": "s_c98b7696c75d8903",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Iteration 3 accepts a very long Firstname and Lastname with the Male radio button selected\nModule: Ultimate QA - Automation page / Iteration 3\nPriority: Low\n\nPreconditions:\n- A browser is available and the URL https://ultimateqa.com/automation/ is reachable\n- The tester has reached Iteration 3 by completing Sprint 1 and Iteration 2 with \"FirstDemo\" and \"LastDemo\"\n\nTest Steps:\n1. Wait until the text \"Iteration 3\" is visible\n2. Click on the \"Male\" radio button\n3. Type a very long string (for example 255 characters) in the Firstname field\n4. Type a very long string (for example 255 characters) in the Lastname field\n5. Click on \"Go to sprint 4\"\n\nExpected Result:\n- Iteration 3 is displayed\n- The \"Male\" radio button is selected\n- The fields accept the long input or limit it gracefully without errors\n- The application moves to Iteration 4, or shows a clear message if a length limit is exceeded",
                             "message_type": "replier",
@@ -2017,7 +2017,7 @@
                         {
                             "id": "3252",
                             "tc_id": "1729",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #20",
                             "message_type": "sender",
@@ -2027,7 +2027,7 @@
                         {
                             "id": "3253",
                             "tc_id": "1729",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Navigate through Form, Controls, modal sheet and nested detail screens successfully\nModule: Demo iOS - Navigation and Form\nPriority: High\n\nPreconditions:\n- The Demo iOS app is installed and launched on an iOS device\n- The Form tab is displayed\n\nTest Steps:\n1. Wait for the Full Name field to be visible\n2. Type \"DemoFull\" in the Full Name field\n3. Wait for 2 seconds\n4. Type \"DemoFirst\" in the First Name field\n5. Wait for the Done keyboard button to be visible and tap on it\n6. Wait for the Clear button to be visible and tap on it\n7. Tap on the Controls tab\n8. Wait for the Male option to be visible\n9. Tap on the Female radio button\n10. Tap on the Screens tab\n11. Wait for Open Modal Sheet to be visible and tap on it\n12. Wait for the Close button to be visible\n13. Swipe down on the screen to dismiss the modal sheet\n14. Wait for Open Detail Screen to be visible, wait 2 seconds, then tap on it\n15. Wait for the Push Another Screen button to be visible and tap on it\n16. Wait for the Nested Detail screen to be visible\n17. Tap on the Back navigation button\n18. Wait for the Detail Screen to be visible\n19. Tap on the Back navigation button and wait for 2 seconds\n20. Tap on the Form tab\n\nExpected Result:\n- \"DemoFull\" is shown in the Full Name field and \"DemoFirst\" in the First Name field\n- The keyboard is dismissed after tapping Done\n- The Clear button clears the form fields\n- The Controls tab opens and the Female radio button is selected\n- The modal sheet opens and is dismissed by swiping down\n- The Detail Screen, then the Nested Detail screen open, and the Back buttons return to the previous screens\n- The Form tab is displayed at the end",
                             "message_type": "replier",
@@ -2089,7 +2089,7 @@
                         {
                             "id": "3254",
                             "tc_id": "1730",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #20",
                             "message_type": "sender",
@@ -2099,7 +2099,7 @@
                         {
                             "id": "3255",
                             "tc_id": "1730",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Swipe-down dismissal is not required to be bypassed: Controls tab selection stays exclusive between Male and Female\nModule: Demo iOS - Controls\nPriority: Medium\n\nPreconditions:\n- The Demo iOS app is launched\n- The Controls tab is open and the Male option is visible\n\nTest Steps:\n1. Tap on the Controls tab\n2. Wait for the Male option to be visible\n3. Tap on the Female radio button\n4. Observe the state of the Male radio button\n\nExpected Result:\n- The Female radio button is selected\n- The Male radio button is not selected at the same time (only one option can be selected)",
                             "message_type": "replier",
@@ -2161,7 +2161,7 @@
                         {
                             "id": "3256",
                             "tc_id": "1731",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #20",
                             "message_type": "sender",
@@ -2171,7 +2171,7 @@
                         {
                             "id": "3257",
                             "tc_id": "1731",
-                            "thread_id": "s_ccf07ab678364928",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Clear button on the Form screen with empty fields\nModule: Demo iOS - Form\nPriority: Low\n\nPreconditions:\n- The Demo iOS app is launched\n- The Form tab is open and Full Name and First Name fields are empty\n\nTest Steps:\n1. Wait for the Full Name field to be visible\n2. Leave the Full Name and First Name fields empty\n3. Tap on the Clear button\n4. Observe the form\n\nExpected Result:\n- The app does not crash or show an error\n- The fields remain empty and the Form screen stays displayed",
                             "message_type": "replier",
@@ -2249,7 +2249,7 @@
                         {
                             "id": "3258",
                             "tc_id": "1732",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #19",
                             "message_type": "sender",
@@ -2259,7 +2259,7 @@
                         {
                             "id": "3259",
                             "tc_id": "1732",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Search for Mumbai and select the IN location in the GoodWeather app\nModule: Location Search and Selection\nPriority: High\n\nPreconditions:\n- GoodWeather app is installed and launched\n- The initial launch confirmation has been accepted (OK tapped) and the main weather screen with \"Wind\" text is displayed\n\nTest Steps:\n1. Tap on the \"Search\" button.\n2. Wait for the \"Search location\" edit text field to be visible.\n3. Type \"Mumbai\" in the search location edit field.\n4. Wait for the \"IN\" option to be visible.\n5. Tap on the \"IN\" option.\n6. Wait for the \"Refresh location\" button to be visible.\n\nExpected Result:\n- The \"Search location\" field is displayed after tapping \"Search\".\n- The \"IN\" option is displayed for the typed text \"Mumbai\".\n- After tapping \"IN\", the location is selected and the \"Refresh location\" button is visible.",
                             "message_type": "replier",
@@ -2321,7 +2321,7 @@
                         {
                             "id": "3260",
                             "tc_id": "1733",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #19",
                             "message_type": "sender",
@@ -2331,7 +2331,7 @@
                         {
                             "id": "3261",
                             "tc_id": "1733",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Deny location permission when using Detect Location\nModule: Location Detection Permission\nPriority: Medium\n\nPreconditions:\n- GoodWeather app is launched and the user is on the settings screen where the \"Detect Location\" text view is available\n- Location permission has not yet been granted to the app\n\nTest Steps:\n1. Wait for the \"Detect Location\" text view to be visible.\n2. Tap on \"Detect Location\".\n3. Wait for the \"Permission Controller\" dialog to be visible.\n4. Deny the permission request instead of tapping \"While using the app\".\n\nExpected Result:\n- The \"Permission Controller\" dialog is displayed.\n- The permission is not granted and the app does not detect the location.\n- The app does not crash and remains usable.",
                             "message_type": "replier",
@@ -2425,7 +2425,7 @@
                         {
                             "id": "3262",
                             "tc_id": "1734",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Please generate a manual test case based on Azure work item - Epic #19",
                             "message_type": "sender",
@@ -2435,7 +2435,7 @@
                         {
                             "id": "3263",
                             "tc_id": "1734",
-                            "thread_id": "s_4e0d8a67c2415a4c",
+                            "thread_id": null,
                             "user_id": "56",
                             "message": "Test Case Title: Open Donate Bitcoin and dismiss it with Cancel without sharing\nModule: Donate Bitcoin and Share Functionality\nPriority: Low\n\nPreconditions:\n- GoodWeather app is launched and the main screen is displayed\n\nTest Steps:\n1. Tap on the Navigation Drawer.\n2. Wait for \"Donate Bitcoin\" to be visible.\n3. Tap on \"Donate Bitcoin\".\n4. Wait until the QR code is visible and verify it is displayed.\n5. Tap on \"Copy Bitcoin Address\".\n6. Tap on \"Cancel\".\n7. Wait until the \"Share Fab\" button is visible.\n8. Tap on the \"Share Fab\" button.\n\nExpected Result:\n- The QR code is visible in the donation dialog.\n- The Bitcoin address is copied after tapping \"Copy Bitcoin Address\".\n- The dialog closes after tapping \"Cancel\" and the \"Share Fab\" button is visible.\n- Tapping \"Share Fab\" opens the sharing option.",
                             "message_type": "replier",
@@ -2603,7 +2603,7 @@
                             "d_y": "1149",
                             "d_w": "275",
                             "d_h": "106",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27595",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/466/27595.png"
@@ -2646,7 +2646,7 @@
                             "d_y": "103",
                             "d_w": "144",
                             "d_h": "144",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27549",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/466/27549.png"
@@ -2680,7 +2680,7 @@
                             "d_y": "103",
                             "d_w": "144",
                             "d_h": "144",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27550",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/466/27550.png"
@@ -2714,7 +2714,7 @@
                             "d_y": "283",
                             "d_w": "1032",
                             "d_h": "65",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27551",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/466/27551.png"
@@ -2748,7 +2748,7 @@
                             "d_y": "2136",
                             "d_w": "125",
                             "d_h": "54",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "27594",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/466/27594.png"
