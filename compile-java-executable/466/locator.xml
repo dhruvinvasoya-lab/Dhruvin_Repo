@@ -18,17 +18,4 @@
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
     <element type="image">http://10.0.135.5/s/ele-imgs/466/27551.png</element>
   </locator>
-  <locator name="ele_WebviewTextView1795079849728">
-    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.View/android.view.View[2]/android.widget.TextView[2]</element>
-    <element type="image">http://10.0.135.5/s/ele-imgs/466/27594.png</element>
-  </locator>
-  <locator name="ele_GetStarted">
-    <element type="web_xpath">//div[@id='__docusaurus_skipToContent_fallback']//main//header//div//div//a[normalize-space()='Get Started']</element>
-    <element type="web_css">div#__docusaurus_skipToContent_fallback &gt; main &gt; header &gt; div &gt; div &gt; aTGWEBCOMMA1</element>
-    <element type="web_linktext">Get StartedTGWEBCOMMA1</element>
-    <element type="web_xpath">//html[1]/body[1]/div[1]/div[3]/main[1]/header[1]/div[1]/div[1]/a[1]</element>
-    <element type="web_partiallinktext">Get StartTGWEBCOMMA1</element>
-    <element type="web_class">button button--primary button--lg primaryButton_rESMTGWEBCOMMA0</element>
-    <element type="image">http://10.0.135.5/s/ele-imgs/466/27595.png</element>
-  </locator>
 </locators>
