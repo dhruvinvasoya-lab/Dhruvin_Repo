@@ -15,7 +15,7 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 
 @Listeners(TestListener.class)
-public class Sec1 {
+public class Sec111 {
 
     @Test(retryAnalyzer = RetryFailedTestCases.class)
     @XrayTest(key = "TES-3")
