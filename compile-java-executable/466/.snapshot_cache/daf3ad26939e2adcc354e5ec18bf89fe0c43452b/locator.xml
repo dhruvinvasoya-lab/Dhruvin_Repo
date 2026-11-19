@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_mainmenurefreshTextView1795070617273">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/466/27549.png</element>
+  </locator>
+  <locator name="ele_mainmenusearchcityTextView1795070621615">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/466/27550.png</element>
+  </locator>
+  <locator name="ele_LondonTextView1795070627511">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'city_name')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/466/27551.png</element>
+  </locator>
+  <locator name="ele_WebviewTextView1795080691797">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.View/android.view.View[2]/android.widget.TextView[2]</element>
+    <element type="xpath">(//android.widget.TextView[@text='Webview'])[1]</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/466/27596.png</element>
+  </locator>
+  <locator name="ele_GetStarted">
+    <element type="web_xpath">//div[@id='__docusaurus_skipToContent_fallback']//main//header//div//div//a[normalize-space()='Get Started']</element>
+    <element type="web_css">div#__docusaurus_skipToContent_fallback &gt; main &gt; header &gt; div &gt; div &gt; aTGWEBCOMMA1</element>
+    <element type="web_linktext">Get StartedTGWEBCOMMA1</element>
+    <element type="web_xpath">//html[1]/body[1]/div[1]/div[3]/main[1]/header[1]/div[1]/div[1]/a[1]</element>
+    <element type="web_partiallinktext">Get StartTGWEBCOMMA1</element>
+    <element type="web_class">button button--primary button--lg primaryButton_rESMTGWEBCOMMA0</element>
+    <element type="image">http://10.0.135.5/s/ele-imgs/466/27597.png</element>
+  </locator>
+</locators>
