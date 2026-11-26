@@ -26,12 +26,32 @@
             "locator": [
                 {
                     "locators": "XPath",
-                    "locators_val": "//input[@placeholder='First Name']",
+                    "locators_val": "//input",
                     "locator_id": "3",
                     "d_h": 34,
                     "d_w": 165,
                     "d_x": 443,
                     "d_y": 188,
+                    "suggest_name": "firstname268"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
+                    "suggest_name": "firstname268"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 443.75,
+                    "d_y": 188.59375,
                     "suggest_name": "firstname268"
                 },
                 {
@@ -58,26 +78,6 @@
                     "locators": "CSS selector",
                     "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
                     "locator_id": "9",
-                    "d_h": 34,
-                    "d_w": 165,
-                    "d_x": 443.75,
-                    "d_y": 188.59375,
-                    "suggest_name": "firstname268"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//input",
-                    "locator_id": "3",
-                    "d_h": 34,
-                    "d_w": 165,
-                    "d_x": 443.75,
-                    "d_y": 188.59375,
-                    "suggest_name": "firstname268"
-                },
-                {
-                    "locators": "class",
-                    "locators_val": "form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1",
-                    "locator_id": "6",
                     "d_h": 34,
                     "d_w": 165,
                     "d_x": 443.75,

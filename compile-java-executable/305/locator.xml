@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
   <locator name="ele_firstname268">
+    <element type="xpath">//input</element>
+    <element type="class">form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1</element>
     <element type="xpath">//input[@placeholder='First Name']</element>
     <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
     <element type="css">input.form-control.ng-pristine.ng-invalid.ng-invalid-required.ng-touched</element>
     <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
-    <element type="xpath">//input</element>
-    <element type="class">form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1</element>
     <element type="image">http://10.0.116.5/s/ele-imgs/305/5692.png</element>
   </locator>
   <locator name="ele_startwitht007">
