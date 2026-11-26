@@ -1337,6 +1337,159 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://10.0.161.5/s/ele-imgs/139/1997.png"
+        },
+        {
+            "testcase_element": "ele_backnavigationbuttontodetailscree1795665695421",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 44,
+                    "d_x": 20,
+                    "d_y": 47,
+                    "suggest_name": "backnavigationbuttontodetailscree1795665695421"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontodetailscree1795665695421",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label=\"Detail Screen\"]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeButton[@label=\"Detail Screen\"]",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontodetailscree1795665695421",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontodetailscree1795665695421",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='BackButton']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontodetailscree1795665695421",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@label='Detail Screen']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_backnavigationbuttontoscreens1795665704258",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeButton[@name=\"BackButton\"]",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 44,
+                    "d_x": 20,
+                    "d_y": 47,
+                    "suggest_name": "backnavigationbuttontoscreens1795665704258"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontoscreens1795665704258",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "(//XCUIElementTypeButton[@label=\"Screens\"])[1]"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@label=\"Screens\"])[1]",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontoscreens1795665704258",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton"
+                    ],
+                    "img": "",
+                    "locators": "xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backnavigationbuttontoscreens1795665704258",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeButton[@name='BackButton']"
+                    ],
+                    "img": "",
+                    "d_x": "20",
+                    "d_y": "47",
+                    "d_w": "44",
+                    "d_h": "44",
+                    "element_area": 19
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }
