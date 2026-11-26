@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-26 05:21:22",
+            "view_updated_date_time": "2026-11-26 05:23:03",
             "is_updated": "0",
             "is_complie": "1",
             "server_ids": null,
@@ -100,7 +100,7 @@
                 {
                     "tc_id": "1085",
                     "version_module_id": "139",
-                    "tc_name": "TCmanual123",
+                    "tc_name": "TCmanual123456",
                     "tc_description": " (Generated from Manual Test Case)",
                     "tc_website_url": "com.demo.Demo-iOS",
                     "it_json": "",
@@ -114,13 +114,13 @@
                     "created_source": "manual_conversion",
                     "created_source_ref": "mtc_356",
                     "is_draft": "0",
-                    "updated_at": "2026-11-26 05:22:01",
+                    "updated_at": "2026-11-26 05:23:17",
                     "created_at": "2026-11-26 03:59:36",
                     "status": "2",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/77/130/139/testcases/tcmanual123.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/77/130/139/testcases/tcmanual123456.java",
                     "vault_paths": []
                 }
             ],

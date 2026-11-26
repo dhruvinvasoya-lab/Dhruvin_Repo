@@ -16,10 +16,10 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tcmanual123 {
+public class tcmanual123456 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tcmanual123() {
+	public void tcmanual123456() {
 		tg.openDevice();
 		tg.wait(1);
 		tg.wait("ele_fullnamefield1795663612423", ComparisonType.IS_VISIBLE, 30);
