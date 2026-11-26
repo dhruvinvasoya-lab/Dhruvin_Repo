@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class ddcheckwithelement {
+public class check_with_element {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void ddcheckwithelement() {
+	public void check_with_element() {
 		tg.openBrowser();
 		tg.wait(5);
 		tg.pageLoadStart("URL");
